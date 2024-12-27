@@ -40,7 +40,7 @@ Finding a balance between work and family / Balance between stability and ambiti
 ```
 ![picture 01-09](./pics/pic01_09.jpg)  
 ```
-soft skills,
+soft skills
 ```
 ![picture 01-10](./pics/pic01_10.jpg)  
 ```
@@ -59,15 +59,45 @@ International communication
 ![picture 02-01](./pics/pic02_01.png)  
 
 1. Have you ever written a CV? Was it easy? Difficult?  
+```
+...
+```
 2. What was the most challenging in writing a CV?  
+```
+...
+```
 3. Do you think you need to write one CV for all jobs you'll apply for or tailor it to specific jobs?  
+```
+...
+```
 4. What are some common mistakes people make when writing CVs?  
+```
+...
+```
 5. What parts of the CV do you know? (e.g.education)  
+```
+...
+```
 6. How long should be your CV?  
+```
+...
+```
 7. Should you state your age in the CV?  
+```
+...
+```
 8. If you have a CV, do you think it stands out (is different) from other similar CVs?  
+```
+...
+```
 9. Should you include every position you've had in your CV?  
+```
+...
+```
 10. Should you state the reason for leaving on your CV?  
+```
+...
+```
 
 ## Task 3. Reading 
 ### A) Read the tips for creating a good resume and compare your ideas from the previous task. 
