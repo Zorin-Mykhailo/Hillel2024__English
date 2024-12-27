@@ -171,3 +171,17 @@ This `❓taught` me that I must always be attentive and responsible on the road.
 
 > `teach` | `taught` | `taught`  
 > навчати, вчити
+
+# Home assigmnemt
+
+# Task 1
+## 1A Watch the video. 
+
+## 1B Describe the situation in the video using the words from the lesson. ( cause, knock over, spill etc. ) Use Past Simple and Past Continuous. 
+
+A man with flowers and groceries came home. At home, he was greeted by a cat. 
+He quickly put down the groceries and flowers and started preparing a romantic dinner.
+He was setting the table and slicing ingredients for the meal when his girlfriend approached the apartment and began unlocking the door with her keys.
+At that moment, the cat climbed onto the table and spilled over tomato-based sauce onto the floor.
+While the man was still holding a knife in one hand, he tried to catch the cat.
+When his girlfriend entered to the apartment, she saw a puddle of something red, the cat in the middle of it, and the man holding the cat in one hand and a knife in the other.
