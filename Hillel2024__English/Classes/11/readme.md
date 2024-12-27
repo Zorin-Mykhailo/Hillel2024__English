@@ -61,6 +61,7 @@ International communication
 1. Have you ever written a CV? Was it easy? Difficult?  
 ```
 ...
+Так, я писав резюме раніше. Це не зовсім тривіальна задача. Воно повинно бути виконано в діловому стилі, лаконічне та демонструвати досвід, навички та переваги кандидата на роботу.
 ```
 2. What was the most challenging in writing a CV?  
 ```
