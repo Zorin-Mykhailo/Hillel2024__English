@@ -240,6 +240,6 @@ Unscramble the sentences.
 
 1. `Learning` `a new` `language` `can` `help you` `connect with` `many`  `different people`.
 2. `She` `moved to` `England` `for a change` `of` `environment` `and to` `test her` `skills` `abroad.`
-3. `Visiting` `for the weekend` `Vienna` `was` `a breath` `of fresh air` `for me`.
+3. `Visiting` `Vienna` `for the weekend` `was` `a breath` `of fresh air` `for me`.
 4. `Starting` `anew` `might` `be` `so` `challenging`.
 5. `Adapting` `to` `new` `surrounding` `is` `a fascinating` `challenge`.
