@@ -133,11 +133,13 @@ And disadvantages of moving aboard to work are thay you:
 
 ## Task 3. Video
 
-[Music]  
-Susana Halvakey it's from Saga - a small university town in southeastern Hungary.
+[▶ Moving abroad to work](https://youtu.be/5QL_fQJZWsU)
 
 [Music]  
-However like a lot of people Susana has moved abroad in order to find work.
+Zsuzsanna Halvakey it's from Saga - a small university town in southeastern Hungary.
+
+[Music]  
+However like a lot of people Zsuzsanna has moved abroad in order to find work.
 
 [Music]  
 She now lives in Oxford where she has lived for more than four years.
@@ -153,7 +155,7 @@ Here she talks about her life and work in a new country.
 — At the moment i'm doing software testing. I do manual software testing. We test digital products of OUP. So we have to make sure that everything works the way they're supposed to.  
 
 — Do you think moving to England has improved your career prospects?  
-— I think my career prospects have improved especially if i move back to Hungary. I can show that i lived abroad i obtained these skills in the UK. My English is really fluent, so in Hungary definitely it will be an advantage. Here in the uk not necessarily. I don't think i would have been able to change jobs that easily in Hungary if i had stayed there because there aren't that many jobs available unfortunately, so I think I would have got stuck in my teaching role if i stay there. Moving to a bigger country has definitely helped my job prospects because a bigger country means bigger companies more opportunities more options.  
+— I think my career prospects have improved especially if i move back to Hungary. I can show that i lived abroad i obtained these skills in the UK. My English is really fluent, so in Hungary definitely it will be an advantage. Here in the UK not necessarily. I don't think i would have been able to change jobs that easily in Hungary if i had stayed there because there aren't that many jobs available unfortunately, so I think I would have got stuck in my teaching role if i stay there. Moving to a bigger country has definitely helped my job prospects because a bigger country means bigger companies more opportunities more options.  
 
 — How difficult is it to get a job in Hungary at the moment?  
 — In Hungary the job situation is not the best at the moment unfortunately. So there are quite a lot of people who move abroad, mainly Germany, Austria, the UK and they try their luck there. Usually after a few years they want to go home because of family and friends. But i know quite a few people who have been here for good 10 years, but they are still planning to go home eventually.  
@@ -181,3 +183,63 @@ Here she talks about her life and work in a new country.
 - to have an adventure
 - to learn a new language
 any other reason
+
+
+# 📕 Home assignment
+
+## Task 1
+
+Watch the video and answer the questions. Write your answers in your own words.
+
+> 1. How difficult is to get a job in Hungary at the moment?  
+> `At the moment the job situation in Hungary is not the best. It's hard to find good job. So there are a lot of people who move abroad to different countries.`  
+
+> 2. What are the major difference between living in Hungary and England?  
+> `One of the jajor differences is the cost of living in the UK. Renting own place in Hungary is more affordable.`  
+
+> 3. What about differences in the way people work?    
+> `Working day in the UK usually started much later, and in contrast to Hungary people in the UK not live near to the work, they commute every day to their work.`  
+	
+## Task 2
+
+Watch the video if needed again and choose the correct answer.
+
+> 1. A lot of people, like Zsuzsanna has moved abroad in order to `____`
+> - [ ] to find friends
+> - [x] to find work
+> - [ ] change the weather type
+
+> 2. I wanted to test my `____`, what I can achieve abroad.
+> - [ ] strengths
+> - [ ] friendship
+> - [x] skills 
+
+> 3. At the moment I'm doing software testing, I do manual `____`, we test digital products of OUP.
+> - [x] software testing
+> - [ ] testing software
+> - [ ] checking sowtware
+
+> 4. Moving to a bigger country has definitely helped my `____`.
+> - [ ] job pressure
+> - [x] job prospects
+> - [ ] job interview
+
+> 5. I know quite a few people who have been here for a good `____` years. But they are still planning to go home eventually.
+> - [x] 10
+> - [ ] 20
+> - [ ] 8
+
+> 6. And also here in the UK people are more willing to `____` to work, they sit in their cars for 40 minutes every day.
+> - [ ] comment
+> - [ ] communicate
+> - [x] commute
+
+## Task 3
+
+Unscramble the sentences.
+
+1. `Learning` `a new` `language` `can` `help you` `connect with` `many`  `different people`.
+2. `She` `moved to` `England` `for a change` `of` `environment` `and to` `test her` `skills` `abroad.`
+3. `Visiting` `for the weekend` `Vienna` `for me` `was` `a breath` `of fresh air`.
+4. `Starting` `anew` `might` `be` `so` `challenging`.
+5. `Adapting` `to` `new` `surrounding` `is` `a fascinating` `challenge`.
