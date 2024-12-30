@@ -61,19 +61,28 @@ International communication
 1. Have you ever written a CV? Was it easy? Difficult?  
 ```
 ...
-Так, я писав резюме раніше. Це не зовсім тривіальна задача. Воно повинно бути виконано в діловому стилі, лаконічне та демонструвати досвід, навички та переваги кандидата на роботу.
+Yes, I have written a CV before. It's not a completely trivial task.
 ```
 2. What was the most challenging in writing a CV?  
 ```
-...
+The biggest challenges in writing a CV are that it should be written in a business style, be concise, and demonstrate the applicant's experience, skills and advantages for the specific position.
 ```
 3. Do you think you need to write one CV for all jobs you'll apply for or tailor it to specific jobs?  
 ```
-...
+Shure, a CV should be adapted to a specific position and it needs to highlint relevand experience and skills for the specific position.
 ```
 4. What are some common mistakes people make when writing CVs?  
 ```
-...
+To long or to short.
+Lack of customization - when CV not customized to the specific job.
+Irrelevant Information - CV include outdated jobs of unrelated hobbies.
+Too much personal information - CV contains unnecessary details like marital status, age or photo (if it not required by the job).
+Formatting issues like inconsistent layout, poor readability, hard-to-read fronts.
+Grammar mistakes or spelling;
+Exaggerations or lies;
+Missing contact information
+No clear objective of summary:
+Not saving as PDF, unproffessional CV file name
 ```
 5. What parts of the CV do you know? (e.g.education)  
 ```
