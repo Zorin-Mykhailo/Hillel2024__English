@@ -86,61 +86,92 @@ Not saving as PDF, unproffessional CV file name
 ```
 5. What parts of the CV do you know? (e.g.education)  
 ```
-...
+They are:
+- contact information
+- proffessional summary/profile
+- work experience
+- education
+- skills
+- achievements/awards
+- languages
+- certifications and training
+- hobbies and interests (optional)
+- references (optional)
 ```
 6. How long should be your CV?  
 ```
-...
+It must be 1-2 pages, not longer.
 ```
 7. Should you state your age in the CV?  
 ```
-...
+Probably, in most cases - yes, especially for men in the current situation, but it depends on the employer.
 ```
 8. If you have a CV, do you think it stands out (is different) from other similar CVs?  
 ```
-...
+I cannot make a comparison, but I try to adapt it to highlight unique skills and experience that match the positions I am applying for.
 ```
 9. Should you include every position you've had in your CV?  
 ```
-...
+First of all, you should include jobs related to the desired position.
+From unrelated roles, you can list those that highlight relevant skills.
+Positions held more than 10–15 years ago should be excluded.
 ```
 10. Should you state the reason for leaving on your CV?  
 ```
-...
+No, you don't need to do this. However, you should be prepared to explain it during the interview.
 ```
 
 ## Task 3. Reading 
 ### A) Read the tips for creating a good resume and compare your ideas from the previous task. 
 
-A resume (also called CV) is a summary of your professional experience tailored for a particular position you're applying for. How can you make sure that your Cv stands out? Follow these 6 tips.  
+A resume (also called CV) is a summary of your professional experience tailored for a particular position you're applying for. How can you make sure that your CV stands out? Follow these 6 tips.  
 
 **KEEP IT RELEVANT TO THE POSITION**  
-You shouldn't look at your resume as the list of all jobs you had. You'd rather look at it as a marketing tool to convince a specific company to hire you for a specific job.  
+> You shouldn't look at your resume as the list of all jobs you had. You'd rather look at it as a marketing tool to convince a specific company to hire you for a specific job.  
 
 **TAKE OFF ANY UNNECESSARY PERSONAL INFORMATION**  
-Some information is just not worth sharing. Your prospective employer does not need to know about your hobbies, age or marital status. However the links to some professional media platforms (GitHub, LinkedIn....) should definitely be included.  
+> Some information is just not worth sharing. Your prospective employer does not need to know about your hobbies, age or marital status. However the links to some professional media platforms (GitHub, LinkedIn....) should definitely be included.  
 
 **FOCUS ON ACHIEVEMENTS**  
-Too often the job seekers make the mistakes of listing out the job duties they were expected to fulfil instead of describing the value they brought to the company or the project. A good example would be something like: "Boosted the app's accuracy by over 4% by ......"(doing this and this)  
+> Too often the job seekers make the mistakes of listing out the job duties they were expected to fulfil instead of describing the value they brought to the company or the project. A good example would be something like: "Boosted the app's accuracy by over 4% by ......"(doing this and this)  
 
 **BE CONCISE**  
-It's generally recommended that you keep your CV to one page, no matter how extensive your experience is. Instead of writing long paragraphs use bullet point to outline your skills. 
+> It's generally recommended that you keep your CV to one page, no matter how extensive your experience is. Instead of writing long paragraphs use bullet point to outline your skills. 
 
 **LEVERAGE (use) KEYWORDS**  
-When you read the job description, pay attention to which words are used the most. Which skills does the job require? Which technologies do you need to be familiar with? Make sure you mention them in your resume.
+> When you read the job description, pay attention to which words are used the most. Which skills does the job require? Which technologies do you need to be familiar with? Make sure you mention them in your resume.
 
 **FORMAT AND EDIT**  
-Proofreading is essential. Make sure your resume is typo-free and your grammar is on-point to eliminate the risk of making a bad impression right out of the gate. 
-The visual appeal and readability are important too. Leave enough white space between different sections so that your resume is easy to read.  
+> Proofreading is essential. Make sure your resume is typo-free and your grammar is on-point to eliminate the risk of making a bad impression right out of the gate.  
+> The visual appeal and readability are important too. Leave enough white space between different sections so that your resume is easy to read.  
 
 ### B) Look at the text again and complete the following sentences. 
-a) You'd rather look at your resume as a `____` to convince `____`
-b) `____` unnecessary personal information.
-c) The links to some prefessional media platforms `____`
-d) It's recommended that you keep `____`
-f) Which technologies do you need to be `____`?
-d) Proofreading is `____`
-	
+a) You'd rather look at your resume as a `____` to convince `____`  
+```
+- marketing tool
+- a specific company to hire you for a specific job
+```
+b) `____` unnecessary personal information.  
+```
+remove
+```  
+c) The links to some prefessional media platforms `____`  
+```
+should definitely be included
+```
+d) It's recommended that you keep `____`  
+```
+your CV to one page
+```
+f) Which technologies do you need to be `____`?  
+```
+familiar with
+```
+d) Proofreading is `____`  
+```
+essential
+```
+
 ## Task 4 Working on examples  
 ### 4A Resume  
 
