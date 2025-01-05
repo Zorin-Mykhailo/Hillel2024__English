@@ -60,7 +60,6 @@ International communication
 
 1. Have you ever written a CV? Was it easy? Difficult?  
 ```
-...
 Yes, I have written a CV before. It's not a completely trivial task.
 ```
 2. What was the most challenging in writing a CV?  
@@ -182,28 +181,28 @@ essential
 
 > 1. The skills and technologies section in this resume is effective because:  
 > - [ ] a. it's short  
-> - [ ] b. it's visible and clearly structured  
+> - [x] b. it's visible and clearly structured  
 > - [ ] c. it rates each skill on the scale of 1-10  
 
 > 2. It's good idea to put your education:  
-> - [ ] a. at the bottom of your resume  
+> - [x] a. at the bottom of your resume  
 > - [ ] b. before professional experience  
 > - [ ] c. in the most visible part of your resume  
 
 > 3. Your projects section/professional experience section should:  
 > - [ ] a. not be included in your resume  
-> - [ ] b. contain links to each project  
+> - [x] b. contain links to each project  
 > - [ ] c. follow a strict chronological order  
 
 > 4. In this resume the author sticks to:  
 > - [ ] a. one-column layout  
-> - [ ] b. two-column layout  
+> - [x] b. two-column layout  
 > - [ ] c. three-column layout  
 
 > 5. The summary of qualifications is affective because:  
 > - [ ] a. it uses the first person pronoun  
 > - [ ] b. it details the person's education  
-> - [ ] c. it is concise  
+> - [x] c. it is concise  
 
 ### 4C Action verbs Complete the following resume with the action verbs from the box below.
   
