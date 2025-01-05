@@ -303,16 +303,104 @@ This example is a detailed CV for a QA Engineer:
 ## Task 5. Your skills 
 ### Brainstorm your own skills and experiences that are relevant to the job you're looking for / or have.  
 ```
-...
+- Knowledge of fundamental algorithms and data structures
+- Skills in debugging and code profiling
+- Code refactoring
+- Writing clean and maintainable code (SOLID, DRY, KISS, Clean Code)
+- Implementation of design patterns (Design Patterns)
+- Writing and maintaining unit tests (NUnit, xUnit, MSTest)
+- Integration testing
+- Knowledge of .NET Framework and .NET Core
+- Development of multithreaded applications
+- Development of APIs (RESTful and Web API)
+- Working with databases (SQL Server, Entity Framework, LINQ)
+- Using ORM (Entity Framework)
+- Creating desktop applications (WPF)
+- Development of web applications (ASP.NET Core)
+- Interaction with containers (Docker)
+- Working with version control systems (Git)
 ```
 
 ## Task 6. Write your own CV 
 Write your CV here.
 Please include your Summary of Qualifications, Skills and Tech, Professional Experience, Education. Use the vocabulary from the lesson. Stick to your planned layout. Don't forget to proofread it. 
 
-```
-...
-```
+---
+# Mykhailo Zorin
+(middle back-end .Net developer)
+
+## Contact Information:
+- Email: m.zorin@mail.com
+- Phone: (098) 765 4321
+- GitHub: https://github.com/Zorin-Mykhailo/ 
+- LinkedIn: https://linkedin.com/Zorin-Mykhailo/ 
+
+## SUMMARY
+Currently I work as a backend .net developer in an agricultural company. I implement and support business processes in the company's BPM system, and also implement its integration with other company systems. I really love my profession and want to gain new skills and real experience working in a team using modern #C and .NET, and not stop there.
+
+## SKILLS
+C#, .Net Framework, REST, JSON, SOlID, SQL, MS SQL Server, EF, WPF, MAUI, GIT
+
+## WORK EXPERIENCE
+### Software Engineer at XYZ Agro LLC
+2017.06 – Present  
+
+• My main responsibilities include working with the ELMA BPM system (a system for electronic document management and business process management):
+
+> - Administration of the system and technical support for its users.
+> - Development of new and maintenance of existing business processes.
+> - Analysis of business processes and providing suggestions for their improvement.
+> - Integration of the system with other company software (APS Tender, Cropio).
+
+• Additional responsibilities include working with the APS Tender platform:
+
+> - Administration of the system and technical support for its users.
+> - Interaction with software developers to improve tender processes.
+
+• Additionally, I participated in testing software developed by third-party developers for the company's needs.
+
+
+### Validation Engineer at Pharmaceutical Company "ABC"
+2015 – 2017
+> Conducted validation of equipment and processes for the production and quality control of medicinal products. Developed scripts and software for automating the statistical processing of data obtained from measurement sensors and tools.
+
+### Deputy authorized person of the pharmacy warehouse at Pharmaceutical Company "ABC"
+2014 - 2015  
+> Performed incoming control of imported medicines and worked on writing pharmaceutical documentation. Acquired skills in statistical data analysis.
+
+### Pharmacist of a pharmacy warehouse at Pharmaceutical Company "ABC"
+2007 - 2014  
+> Handled the receipt and shipment of medicines from the pharmacy warehouse and worked on writing pharmaceutical documentation.
+
+## EDUCATION
+
+### Pharmacy at Vinnytsia National Medical University N.I. Pirogov
+2001 – 2006  
+
+### Information technology at Computer Academy "STEP"
+2009 – 2011  
+
+## ADDITIONAL COURSES AND TRAININGS
+
+### Python Basic at Hillel IT School  
+2022  
+https://certificate.ithillel.ua/view/53584241
+
+### Python Pro at Hillel IT School
+2023  
+https://certificate.ithillel.ua/view/81029484
+
+### C# Pro at Hillel IT School
+2023  
+https://certificate.ithillel.ua/view/83512345
+
+### .NET at Hillel IT School
+2024  
+https://certificate.ithillel.ua/view/95317937
+
+### English intermediate (B1) at Hillel IT School
+Present  
+
 
 # 📕 Home assignment 11
 
@@ -320,60 +408,125 @@ Please include your Summary of Qualifications, Skills and Tech, Professional Exp
 
 Task 6 from Lesson tasks. 
 ```
-...
+Mykhailo Zorin
+(middle back-end .Net developer)
+
+Contact Information:
+- Email: m.zorin@mail.com
+- Phone: (098) 765 4321
+- GitHub: https://github.com/Zorin-Mykhailo/ 
+- LinkedIn: https://linkedin.com/Zorin-Mykhailo/ 
+
+SUMMARY
+Currently I work as a backend .net developer in an agricultural company. I implement and support business processes in the company's BPM system, and also implement its integration with other company systems. I really love my profession and want to gain new skills and real experience working in a team using modern #C and .NET, and not stop there.
+
+SKILLS
+C#, .Net Framework, REST, JSON, SOlID, SQL, MS SQL Server, EF, WPF, MAUI, GIT
+
+WORK EXPERIENCE
+Software Engineer at XYZ Agro LLC
+2017.06 – Present  
+• My main responsibilities include working with the ELMA BPM system (a system for electronic document management and business process management):
+- Administration of the system and technical support for its users.
+- Development of new and maintenance of existing business processes.
+- Analysis of business processes and providing suggestions for their improvement.
+- Integration of the system with other company software (APS Tender, Cropio).
+• Additional responsibilities include working with the APS Tender platform:
+- Administration of the system and technical support for its users.
+- Interaction with software developers to improve tender processes.
+• Additionally, I participated in testing software developed by third-party developers for the company's needs.
+
+Validation Engineer at Pharmaceutical Company "ABC"
+2015 – 2017
+Conducted validation of equipment and processes for the production and quality control of medicinal products. Developed scripts and software for automating the statistical processing of data obtained from measurement sensors and tools.
+
+Deputy authorized person of the pharmacy warehouse at Pharmaceutical Company "ABC"
+2014 - 2015  
+Performed incoming control of imported medicines and worked on writing pharmaceutical documentation. Acquired skills in statistical data analysis.
+
+Pharmacist of a pharmacy warehouse at Pharmaceutical Company "ABC"
+2007 - 2014  
+Handled the receipt and shipment of medicines from the pharmacy warehouse and worked on writing pharmaceutical documentation.
+
+EDUCATION
+Pharmacy at Vinnytsia National Medical University N.I. Pirogov
+2001 – 2006  
+
+Information technology at Computer Academy "STEP"
+2009 – 2011  
+
+ADDITIONAL COURSES AND TRAININGS
+
+Python Basic at Hillel IT School  
+2022  
+https://certificate.ithillel.ua/view/53584241
+
+Python Pro at Hillel IT School
+2023  
+https://certificate.ithillel.ua/view/81029484
+
+C# Pro at Hillel IT School
+2023  
+https://certificate.ithillel.ua/view/83512345
+
+.NET at Hillel IT School
+2024  
+https://certificate.ithillel.ua/view/95317937
+
+English intermediate (B1) at Hillel IT School
+Present 
 ```
 
 ## Task 2   
 ### Fill in the gaps with the correct words from the list.
 
-
-- keywords
 - tailored
-- quantifiable
-- action verbs
+- keywords
 - reverse chronological
+- action verbs
+- quantifiable
 
-Your CV should be to `____` the specific job you are applying for. 
-Use `____` from the job description to highlight your relevant skills. 
-Use `____` to describe your achievements and include `____` results whenever possible.
-Organize your experience in `____` order.
+Your CV should be to `tailored` the specific job you are applying for. 
+Use `keywords` from the job description to highlight your relevant skills. 
+Use `action verbs` to describe your achievements and include `quantifiable` results whenever possible.
+Organize your experience in `reverse chronological` order.
 
 
 ## Task 3   
 ### Give the definitions of the following words. Correct answers are NOT given.
 1. concise
 ```
-...
+Expressing a lot of information clearly and in a few words.
 ```
 2. layout
 ```
-...
+The way in which the parts of something are arranged or organized, such as the design of a document.
 ```
 3. to assist
 ```
-...
+To help or support someone in completing a task or achieving a goal.
 ```
 4. to delegate 
 ```
-...
+To assign tasks or responsibilities to another person.
 ```
 5. to lead 
 ```
-...
+To guide or direct a group of people, an organization, or an initiative toward a goal.
 ```
 6. to upgrade 
 ```
-...
+To improve or enhance something.
 ```
 7. to assume role
 ```
-...
+To accept a specific position, duty, or responsibility.
 ```
 8. currently
 ```
-...
+At the present time
 ```
 9. to attract users
 ```
-...
+To involve people in using some product, service, or platform.
 ```
