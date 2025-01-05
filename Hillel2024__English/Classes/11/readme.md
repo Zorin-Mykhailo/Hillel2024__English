@@ -500,7 +500,7 @@ Expressing a lot of information clearly and in a few words.
 ```
 2. layout
 ```
-The way in which the parts of something are arranged or organized, such as the design of a document.
+The way in which the parts of something are arranged or organized, such as the design of a document or web page.
 ```
 3. to assist
 ```
@@ -512,11 +512,11 @@ To assign tasks or responsibilities to another person.
 ```
 5. to lead 
 ```
-To guide or direct a group of people, an organization, or an initiative toward a goal.
+To direct a group of people or an organization toward a goal.
 ```
 6. to upgrade 
 ```
-To improve or enhance something.
+To improve something.
 ```
 7. to assume role
 ```
@@ -524,7 +524,7 @@ To accept a specific position, duty, or responsibility.
 ```
 8. currently
 ```
-At the present time
+At the present time.
 ```
 9. to attract users
 ```
