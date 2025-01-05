@@ -207,29 +207,28 @@ essential
 ### 4C Action verbs Complete the following resume with the action verbs from the box below.
   
 led    delegated    assumed     interacted     assists    upgraded
+```
+1. assists
+2. delegated
+3. interacted
+4. led
+5. upgraded
+6. assumed
+```
 
 ###  4D Match the following.
 
-> `release`  
-> `on a regular`  
-> `assist in`  
-> `architected`  
-> `maitained code`  
-> `actively monitored`  
-> `interacted`  
-> `coordinated`  
-> `globaly`  
-> `Major in`  
-> new features  
-> repositories  
-> with clients daily  
-> distributed team  
-> projects launches  
-> services running on AWS  
-> basis  
-> code for SaaS platform  
-> Computer Science  
-> developing automation toolsets  
+> `release` new features  
+> `on a regular` basis  
+> `assist in` developing automation toolsets  
+> `architected` code for SaaS platform  
+> `maitained code` repositories  
+> `actively monitored` services running on AWS  
+> `interacted` with clients daily  
+> `coordinated` projects launches  
+> `globaly` distributed team  
+> `Major in` Computer Science  
+
 
 
 ## QA Engineer CV Sample 
@@ -241,82 +240,68 @@ CV example
 
 This example is a detailed CV for a QA Engineer:
 
-Ethan Wilson
-ethan@wilson.com
-• (100) 947-1603
-• linkedin.com/in/ethan-wilson
-• @ethan.wilson
+**Ethan Wilson**  
+> • ethan@wilson.com  
+> • (100) 947-1603  
+> • linkedin.com/in/ethan-wilson  
+> • @ethan.wilson  
 
-**QA Engineer**
-Highly skilled QA Engineer with 4 years of experience in developing and implementing test automation strategies, resulting in a 50% reduction in manual testing time and a 30% increase in test coverage. Proven track record in collaborating with development teams to identify and resolve critical bugs, resulting in a 25% reduction in customer-reported issues and a 15% improvement in customer satisfaction scores. Exceptional skills in analyzing and reporting on test results, providing valuable insights to the product team and contributing to a 20% increase in product quality.
+**QA Engineer**  
+> Highly skilled QA Engineer with 4 years of experience in developing and implementing test automation strategies, resulting in a 50% reduction in manual testing time and a 30% increase in test coverage. Proven track record in collaborating with development teams to identify and resolve critical bugs, resulting in a 25% reduction in customer-reported issues and a 15% improvement in customer satisfaction scores. Exceptional skills in analyzing and reporting on test results, providing valuable insights to the product team and contributing to a 20% increase in product quality.
 
 **WORK EXPERIENCE**  
-QA Engineer  
-03/2022 – Present  
-TechTest Solutions  
+**QA Engineer** `03/2022 – Present` *TechTest Solutions*  
 
-- Developed and implemented a test automation strategy, resulting in a 50% reduction in manual testing time and a 30% increase in test coverage.
-- Collaborated with the development team to identify and resolve critical bugs, resulting in a 25% reduction in customer-reported issues and a 15% improvement in customer satisfaction scores.
-- Analyzed and reported on test results, providing valuable insights to the product team and contributing to a 20% increase in product quality.
+> - Developed and implemented a test automation strategy, resulting in a 50% reduction in manual testing time and a 30% increase in test coverage.
+> - Collaborated with the development team to identify and resolve critical bugs, resulting in a 25% reduction in customer-reported issues and a 15% improvement in customer satisfaction scores.
+> - Analyzed and reported on test results, providing valuable insights to the product team and contributing to a 20% increase in product quality.
 
-Test Environment Manager  
-03/2020 – 03/2022  
-Innovatech Solutions  
+**Test Environment Manager** `03/2020 – 03/2022`  *Innovatech Solutions*  
 
-- Managed the development and maintenance of test environments, ensuring accurate and efficient testing of software applications and reducing testing time by 20%.
-- Identified and documented critical bugs and other issues, leading to a 10% reduction in production issues and a 5% improvement in overall software quality.
-- Participated in code reviews, providing valuable feedback to the development team and contributing to a 15% increase in code quality.
+> - Managed the development and maintenance of test environments, ensuring accurate and efficient testing of software applications and reducing testing time by 20%.
+> - Identified and documented critical bugs and other issues, leading to a 10% reduction in production issues and a 5% improvement in overall software quality.
+> - Participated in code reviews, providing valuable feedback to the development team and contributing to a 15% increase in code quality.
 
 
-Software QA Tester  
-03/2019 – 03/2020  
-CyberTech Innovations  
+**Software QA Tester** `03/2019 – 03/2020` *CyberTech Innovations*  
 
-- Developed and maintained test plans and test cases for a complex software application, resulting in a 20% reduction in testing time and a 10% increase in test coverage.
-- Investigated and troubleshooted customer issues, providing timely and effective solutions and contributing to a 15% improvement in customer satisfaction scores.
-- Monitored and reported on quality metrics, providing valuable insights to the product team and contributing to a 10% increase in product quality.
+> - Developed and maintained test plans and test cases for a complex software application, resulting in a 20% reduction in testing time and a 10% increase in test coverage.
+> - Investigated and troubleshooted customer issues, providing timely and effective solutions and contributing to a 15% improvement in customer satisfaction scores.
+> - Monitored and reported on quality metrics, providing valuable insights to the product team and contributing to a 10% increase in product quality.
 
 
 **SKILLS & COMPETENCIES**  
 
-- Test automation
-- Test planning and execution
-- Test case development and maintenance
-- Bug identification and documentation
-- Test environment management
-- Code review and feedback
-- Quality metrics analysis and reporting
-- Troubleshooting and problem-solving
-- Cross-functional collaboration
-- Customer issue resolution
-- Continuous improvement
-- Agile methodologies
-- Performance testing
-- Security testing
-- Usability testing
+> - Test automation
+> - Test planning and execution
+> - Test case development and maintenance
+> - Bug identification and documentation
+> - Test environment management
+> - Code review and feedback
+> - Quality metrics analysis and reporting
+> - Troubleshooting and problem-solving
+> - Cross-functional collaboration
+> - Customer issue resolution
+> - Continuous improvement
+> - Agile methodologies
+> - Performance testing
+> - Security testing
+> - Usability testing
 
 
 **COURSES / CERTIFICATIONS**  
-Certified Software Quality Engineer (CSQE)  
-04/2023  
-American Society for Quality (ASQ)  
-ISTQB Certified Tester  
-04/2022  
-International Software Testing Qualifications Board  
-International Software Testing Qualifications Board Agile Tester Extension (ISTQB-CTFL-AT)  
-04/2021  
-International Software Testing Qualifications Board (ISTQB)  
+> **Certified Software Quality Engineer (CSQE)** `04/2023` *American Society for Quality (ASQ)*  
+> **ISTQB Certified Tester** `04/2022` *International Software Testing Qualifications Board*  
+> **International Software Testing Qualifications Board Agile Tester Extension (ISTQB-CTFL-AT)** `04/2021` *International Software Testing Qualifications Board (ISTQB)*  
 
 **EDUCATION**  
-Bachelor of Science in Computer Engineering  
-2013-2017  
-Rochester Institute of Technology, Rochester, NY  
-Software Quality Assurance Engineering  
-Computer Science  
+> Bachelor of Science in Computer Engineering `2013-2017` Rochester Institute of Technology, Rochester, NY  
+> Software Quality Assurance Engineering  
+> Computer Science  
 
 
 ## Task 5. Your skills 
-### Brainstorm your own skills and experiences that are relevant to the job you're looking for/ or have.  
+### Brainstorm your own skills and experiences that are relevant to the job you're looking for / or have.  
 ```
 ...
 ```
