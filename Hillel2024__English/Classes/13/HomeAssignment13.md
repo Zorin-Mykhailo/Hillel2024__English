@@ -23,9 +23,9 @@
 - what they've been doing lately
 - use the present perfect continuous and phrases from the lesson
 
-```
-I’ve been feeling really happy lately. I’ve been working on creative projects like painting and photography, which bring me so much joy. Spending time with my friends has also been wonderful - they're so supportive, and it means a lot to me.
-```
+
+> I’ve been feeling really happy lately. I’ve been working on creative projects like painting and photography, which bring me so much joy. Spending time with my friends has also been wonderful - they're so supportive, and it means a lot to me.
+
 
 ## Task 3. 
 ### Choose the correct option.
