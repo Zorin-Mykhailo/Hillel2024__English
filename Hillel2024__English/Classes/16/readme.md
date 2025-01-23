@@ -55,3 +55,6 @@ Take 3 minutes to make notes. Then send your answers in zoom chat.
 ## Task 3. Video 
 
 [video](https://youtu.be/3yna12vbJwo)
+
+## Task 4. Advantages and disadvantages
+Watch the video again if needed and sort out the following factors.
