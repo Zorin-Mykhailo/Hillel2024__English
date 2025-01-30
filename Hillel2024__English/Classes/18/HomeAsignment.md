@@ -18,29 +18,29 @@ Spell the words correctly. First letter is already given.
 ---
 
 ## Task 2. 
-Describe each picture with 1-2 sentences.
+Describe each picture with 1-2 sentences.  
 1. 
-![img01](.\img\HA18_T02_img01.jpg)
+![img01](./img/HA18_T02_img01.jpg)
 > A child sits by a calm pond surrounded by greenery and reeds, on grass with yellow dandelions.
 
 2. 
-![img02](.\img\HA18_T02_img02.jpg)
+![img02](./img/HA18_T02_img02.jpg)
 > A white tent stands on a grassy hill under a blue sky with delicate clouds, surrounded by trees.
 
 3. 
-![img03](.\img\HA18_T02_img03.jpg)
+![img03](./img/HA18_T02_img03.jpg)
 > A coastal town stretches along the clear blue waters, with modern buildings and a sunny promenade.
 
 4. 
-![img04](.\img\HA18_T02_img04.jpg)
+![img04](./img/HA18_T02_img04.jpg)
 > A small yellow boat is tied at the dock, surrounded by yachts under a cloudy sky.
 
 5. 
-![img05](.\img\HA18_T02_img05.jpg)
+![img05](./img/HA18_T02_img05.jpg)
 > An old stone tower stands on a rocky cliff overlooking the blue sea and sky.
 
 6. 
-![img06](.\img\HA18_T02_img06.jpg)
+![img06](./img/HA18_T02_img06.jpg)
 > A fortress stands by a harbor with stone buildings, trees, and a cloudy sky.
 
 ---
