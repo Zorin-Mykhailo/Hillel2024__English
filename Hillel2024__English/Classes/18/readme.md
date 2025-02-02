@@ -18,3 +18,19 @@ Be able to describe a place
 | `inclined` </br> інкла́йнд | схильний, нахилений | adjective |
 | `hill` </br> хіл | пагорб, височина | noun |
 | `predominantly` </br> прідо́мінентлі | переважно, здебільшого | adverb |
+
+
+This picture looks like landscape in Africa in pale orange colors.
+On this picture we can see the valley with palm tree and other small trees on the sunset.
+It's feel like dry and hot summer day.
+
+Enjoy the beauty of nature
+
+The people more physically active
+
+The people brains chaing when they have nature environment - reducing stress and improving mood
+
+walking in the forest reduce pressure
+
+
+if you have ever - ???
