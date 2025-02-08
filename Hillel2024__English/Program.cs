@@ -1,10 +1,10 @@
-﻿namespace Hillel2024__English
+﻿namespace Hillel2024__English;
+
+internal class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        Console.WriteLine("Hello, World!");
+        
     }
 }
