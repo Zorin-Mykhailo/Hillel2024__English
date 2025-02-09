@@ -236,6 +236,6 @@ Have a dialogue with your partner about your plans. Start your dialogue with the
 >   
 > 8-10 I'll be going out to test the equipment from 8 to 10 AM.   
 > 10-12 After that, I'll be reporting any issues found until 12.  
-> 12-13 Ланч  
+> 12-13 lunch  
 > 13-15 In the afternoon, I'll be writing code from 1 to 3 PM  
 > 15-17 and testing it from 3 to 5 PM.  
