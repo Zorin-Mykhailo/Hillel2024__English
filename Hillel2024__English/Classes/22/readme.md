@@ -208,34 +208,34 @@ Write them down in form of notes below.
 
 Have a dialogue with your partner about your plans. Start your dialogue with the question: What are you doing on Monday at 8 am?
 
-Пн
-
-8-10 Нарада щодо впровадження нового функціоналу
-10-12 Обговорення ключових моментів наради із колегами
-12-13 Ланч
-13-15 Вирішення тех питань користувачів
-15-17 Написання коду
-
-Вт
-
-8-10 Тестування написаного коду
-10-12 Демонстрація результатів роботи замовнику
-12-13 Ланч
-13-15 Вирішення тех питань користувачів
-15-17 Написання коду
-
-Ср
-
-8-10 Внесення правок у в робочий код
-10-12 Нарада
-12-13 Ланч
-13-15 Навчання користувачів
-15-17 Написання коду
-
-Чт
-
-8-10 Виїзд для тестування обладнання
-10-12 Звітування про виявленні недоліки
-12-13 Ланч
-13-15 Написання коду
-15-17 Тестування коду
+> Mon  
+>   
+> 8-10 I'm having a meeting about the implementation of new functionality.  
+> 10-12 From 10 to 12, I'll be discussing key points of the meeting with my colleagues.  
+> 12-13 Then, I'll have lunch from 12 to 1 PM.  
+> 13-15 In the afternoon, I'll be solving technical issues for users from 1 to 3 PM,   
+> 15-17 and then I'll be writing code until 5 PM.  
+>   
+> Tue  
+>   
+> 8-10 On Tuesday from 8 to 10 AM, I'll be testing the code I wrote on Monday.   
+> 10-12 Then, from 10 to 12, I'll be demonstrating the results to the client.  
+> 12-13 after lunch at 12,  
+> 13-15 I'll be solving technical issues for users again from 1 to 3 PM.  
+> 15-17 Then, from 3 to 5 PM, I'll continue writing code.  
+>   
+> Wed  
+>   
+> 8-10 I'll be making corrections in the working code from 8 to 10 AM,  
+> 10-12 then attending a meeting from 10 to 12.  
+> 12-13 After lunch,  
+> 13-15 I'll be training users from 1 to 3 PM,   
+> 15-17 and from 3 to 5 PM, I'll be writing code.  
+>   
+> Thu  
+>   
+> 8-10 I'll be going out to test the equipment from 8 to 10 AM.   
+> 10-12 After that, I'll be reporting any issues found until 12.  
+> 12-13 Ланч  
+> 13-15 In the afternoon, I'll be writing code from 1 to 3 PM  
+> 15-17 and testing it from 3 to 5 PM.  
