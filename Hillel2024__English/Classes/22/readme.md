@@ -208,34 +208,56 @@ Write them down in form of notes below.
 
 Have a dialogue with your partner about your plans. Start your dialogue with the question: What are you doing on Monday at 8 am?
 
-> Mon  
->   
-> 8-10 I'm having a meeting about the implementation of new functionality.  
-> 10-12 From 10 to 12, I'll be discussing key points of the meeting with my colleagues.  
-> 12-13 Then, I'll have lunch from 12 to 1 PM.  
-> 13-15 In the afternoon, I'll be solving technical issues for users from 1 to 3 PM,   
-> 15-17 and then I'll be writing code until 5 PM.  
->   
-> Tue  
->   
-> 8-10 On Tuesday from 8 to 10 AM, I'll be testing the code I wrote on Monday.   
-> 10-12 Then, from 10 to 12, I'll be demonstrating the results to the client.  
-> 12-13 after lunch at 12,  
-> 13-15 I'll be solving technical issues for users again from 1 to 3 PM.  
-> 15-17 Then, from 3 to 5 PM, I'll continue writing code.  
->   
-> Wed  
->   
-> 8-10 I'll be making corrections in the working code from 8 to 10 AM,  
-> 10-12 then attending a meeting from 10 to 12.  
-> 12-13 After lunch,  
-> 13-15 I'll be training users from 1 to 3 PM,   
-> 15-17 and from 3 to 5 PM, I'll be writing code.  
->   
-> Thu  
->   
-> 8-10 I'll be going out to test the equipment from 8 to 10 AM.   
-> 10-12 After that, I'll be reporting any issues found until 12.  
-> 12-13 lunch  
-> 13-15 In the afternoon, I'll be writing code from 1 to 3 PM  
-> 15-17 and testing it from 3 to 5 PM.  
+---
+
+# 📕 Home assignment 22
+
+## Task 1.
+
+`Fill in the gaps.`
+
+1. I think it `will tain` in a couple of hours.  
+2. The bus for Paris `leaves` at 13.45.  
+3. She `isn't going to be` busy tomorrow. So she can come and help you prepare the report.  
+4. `Are` they `going to` go to the beach this weekend?  
+5. I `am having` brunch with my friend tonight.  
+6. Unfortunately, we `aren't having` dinner at that new restaurant tomorrow, it's fully booked.  
+7. `Is` she `flying` to Malta next Monday?  
+8. We `are attending` a meetup next week.  
+9. He `isn't meeting` his friends for coffee later today. He's caught a cold.  
+10. The company `is launching` a new product next month.  
+
+---
+
+## Task 2.
+`Write the replies using FUTURE FORMS.`
+
+1. - Have you made plans for the summer?
+   - `Yes, we are going to visit our friends in Germany.`
+
+2. - We're moving house tomorrow.
+   - `It's going to be stressful. I will help you with the packing.`
+
+3. - Do you need this paintbrush?
+   -  `Yes, I'm going to use it to paint the walls.`
+
+4. - John is a better player than Martin, isn't he?
+   - `Yes, I think he will win the next match.`
+
+5. - The weather has been terrible, hasn't it?
+   - `Yeah, look at the sky, it’s going to rain soon.`
+
+---
+
+## Task 3. Video
+
+[Talking About the Future](https://en.islcollective.com/english-esl-video-lessons/listening-comprehension/deep-listening-focus-on-meaning/future-tenses/talking-about-the-future/242779)
+
+1. `He's going to ask people's plans for the future.`  
+2. `We're` `gonna` `have` `some` `lunch` `and` `then` `we're` `gonna` `go` `do` `shopping`.   
+3. We're `going down` to the water, to have a few drinks, then have some girl time.  
+4. I'm `gonna take the metro` back home, then `I'm gonna watch` Netflix.  
+5. `We're gonna` continue on our walk and then `we'll go home` and um... make dinner.  
+6. I'm `gonna` ride my bike home, walk my dog.  
+7. `I` `will` `live` `my``life` `to` `the` `fullest`   
+8. `I'm` `going` `to` `take` `pictures...`  
