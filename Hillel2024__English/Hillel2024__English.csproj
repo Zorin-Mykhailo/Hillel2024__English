@@ -11,6 +11,7 @@
     <Folder Include="Classes\14\pics\" />
     <Folder Include="Classes\18\img\" />
     <Folder Include="Classes\21\img\" />
+    <Folder Include="Classes\23\img\" />
   </ItemGroup>
 
 </Project>
