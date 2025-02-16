@@ -335,9 +335,4 @@ Use these questions to help you:
 
 Try to use phrases like `will`, `could`, `may`, and `be likely to` in your writing.  
 
-
-> If there are no major geopolitical changes, in ten years we may achieve functional nuclear fusion as a source of cheap and ecological energy, reducing dependence on fossil fuels.  
-> Strong artificial intelligence may emerge, accelerating scientific discoveries and automating routine tasks. This will reshape the job market, reducing demand for manual labor and increasing the need for creative professions.  
-> If technologies are applied wisely, they will improve healthcare, energy, and ecology. However, challenges will arise: adapting education, AI regulation, and social changes.  
-> The future may become an era of progress or serious challenges requiring global cooperation.  
-> I would like humanity to use these achievements for its benefit rather than for selfish goals.
+> If there are no major geopolitical changes, I think that in the next ten years, we may have functional nuclear fusion and strong artificial intelligence. Functional nuclear fusion will be a source of cheap and ecological energy, which humanity desperately needs. Strong artificial intelligence will be a force that drives science, education, and entertainment forward. It may improve everything we know, but it will also lead to significant changes in the job market. I would like humanity to use these achievements for its benefit rather than for selfish goals.
