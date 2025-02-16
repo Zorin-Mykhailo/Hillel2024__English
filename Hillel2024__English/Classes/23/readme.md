@@ -199,17 +199,17 @@ Read the extracts from the article. Are predictions certain  (C) or possible (P)
 Look at the underlined words above. Complete the rules with will, could, to or be.
 ```
 
-1. We use `will + infinitive` without `to` to make predictions about the future.  
+1. Ми використовуємо `will + infinitive` без `to`, щоб робити передбачення про майбутнє.
 > *Tower blocks and skyscrapers <u>will have</u> gardens.*  
 
-2. We use `be going to +infinitive` without `to`  make predictions when there is present evidence.  
+2. Ми використовуємо `be going to +infinitive` без `to`, щоб робити передбачення, коли є докази в теперішньому часі.
 > *Climate change <u>is going to</u> seriously affect traditional farming.*  
 
-3. We use `may` or `could +infinitive` without `to` to say something is possible but not certain.  
+3. Ми використовуємо `may` або `could +infinitive` без `to`, щоб сказати, що щось можливе, але не певне.
 > *We <u>may be able</u> to communicate in any language we choose.*  
 > *In only a year or two, the headset <u>could come</u> onto the market.*  
 
-4. We use `be likely + infinitive` with `to` say something will probably happen.  
+4. Ми використовуємо `be likely + infinitive` із `to`, щоб сказати, що щось, ймовірно, станеться.
 > *This <u>is likely to</u> save millions of lives*  
 
 ---
@@ -287,3 +287,57 @@ people / online / time
 
 14. go to bed before 11
 > I could go to bed before 11.  
+
+---
+
+# 📕 Home assignment 23
+
+## Task 1.
+
+> Fill in the gaps.
+
+1. In only a year, I `will finish` (finish) my English course, and I `will speak` (speak) more confidently with native speakers.  
+2. In 10 years' time, there `may be` (be) many new technologies that we can't even imagine today.  
+> `may be` - (на мою думку) тому що напевно говорити про появу суперновітніх технологій не можна - це лише можливість, і навіть дуже суб'єктивна, виключно на думку автора цього твердження  
+
+3. My brother `is going to move` (move) to another country because he has always wanted to live abroad. He says he `is going to apply` (apply) for jobs there soon.  
+4. If you keep practicing every day, you `will improve` (improve) your language skills in only a year.  
+5. She `is likely to study` (study) at a top university in 10 years' time if she continues to work hard.  
+6. We `aren't going to buy` (buy) a new house this year because we’re saving money, but we will `consider` (consider) it in a few years.  
+7. I `may start` (start) a new hobby in only a year, as I'm always looking for new activities to try.  
+> `may start` - (а не will start) тому що одного дня все може кардинально змінитись і це виключно можливість  
+
+---
+
+## Task 2 
+Match the halves.
+
+In only a year, I am likely to travel `to a country I’ve never visited before.`  
+If I save enough money, `I will probably buy a new car for our family trips.`  
+In just a few months, they will definitely finish `their training program.`  
+If he keeps practicing, he is likely to become `one of the best players on the team.`  
+She is going to visit my friends `who live in another city.`  
+In only six months, she is starting her new job, `as she has already signed the contract.`  
+They will not use as much paper in the future `because more people are switching to digital formats.`  
+In 10 years' time, people will  use virtual reality for everyday tasks. `use virtual reality for everyday tasks.`  
+
+---
+
+## Task 3. Writing 
+
+Imagine what life will be like in 10 years. Write a short paragraph (5-8 sentences) describing your predictions.
+
+Use these questions to help you:
+• How do you think technology will change our daily lives?
+• What might happen to the environment or climate?
+• How could work, school, or travel be different?
+• Do you think people’s lifestyles may change?
+
+Try to use phrases like `will`, `could`, `may`, and `be likely to` in your writing.  
+
+
+> If there are no major geopolitical changes, in ten years we may achieve functional nuclear fusion as a source of cheap and ecological energy, reducing dependence on fossil fuels.  
+> Strong artificial intelligence may emerge, accelerating scientific discoveries and automating routine tasks. This will reshape the job market, reducing demand for manual labor and increasing the need for creative professions.  
+> If technologies are applied wisely, they will improve healthcare, energy, and ecology. However, challenges will arise: adapting education, AI regulation, and social changes.  
+> The future may become an era of progress or serious challenges requiring global cooperation.  
+> I would like humanity to use these achievements for its benefit rather than for selfish goals.
