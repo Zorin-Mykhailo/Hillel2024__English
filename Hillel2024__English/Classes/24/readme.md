@@ -1,4 +1,4 @@
-# Class 24. Revision 2
+﻿# Class 24. Revision 2
 Review classes 13- 23
 
 ## Task 1.Review of Future Forms. 
@@ -18,77 +18,77 @@ Review classes 13- 23
 
 ## Task 2. Future forms. Board game 
 
-� Somewhere you would like to go on holiday  
+• Somewhere you would like to go on holiday  
 > I would like to go to Kamianets-Podilskyi because it's a very beautiful city with an ancient castle.
 
-� What you are doing after class
+• What you are doing after class
 > I'm going to have some rest with my family.
 
-� A place you are going to visit soon  
+• A place you are going to visit soon  
 > I'm going to visit my mother.  
 
-� A film you plan to see  
+• A film you plan to see  
 > I'm planning to watch the last part of Squid Game.  
 
-� Will humans ever meet aliens  
+• Will humans ever meet aliens  
 >  I think it is likely to happen in the distant future.
 
-� A country you wouldn't like to visit  
+• A country you wouldn't like to visit  
 > I wouldn't like to visit Russia by known reasons.
 
-� Three things that definitely won't happen to you this year  
-> I won�t see any aliens, I won�t travel through time, and I won�t go to space.
+• Three things that definitely won't happen to you this year  
+> I won’t see any aliens, I won’t travel through time, and I won’t go to space.
 
-� An arrangement you have made in the future  
+• An arrangement you have made in the future  
 > I am meeting my dentist next Tuesday at 6 PM.
 
-� what you will have for dinner  
+• what you will have for dinner  
 > I will probably have pasta for dinner.  
 
-� your plans for this evening  
+• your plans for this evening  
 > I am going to relax and watch a TV show this evening.  
 
-� how your town/city will change in the next ten years  
+• how your town/city will change in the next ten years  
 > My city will have more green spaces and new buildings.
 
-� someone famous you would like to meet  
-� a place where you would like to live when you are old  
+• someone famous you would like to meet  
+• a place where you would like to live when you are old  
 > I would like to live in a peaceful countryside house when I am old.  
 
-� a friend you are going to meet  
+• a friend you are going to meet  
 > I am going to meet Vasya for lunch tomorrow.
 
-� how you will celebrate your next birthday  
+• how you will celebrate your next birthday  
 > I will probably celebrate my next birthday with my family and friends.
 
-� something a you are going to do tomorrow  
+• something a you are going to do tomorrow  
 > I'm going to visit the doctor.
 
-� what the Earth will look like in 100 years  
+• what the Earth will look like in 100 years  
 > The Earth will probably be much hotter, and cities will have more advanced technology.
 
-� your plans for next month  
+• your plans for next month  
 > I am planning to take an online course next month.
 
-� something a friend is going to do soon  
+• something a friend is going to do soon  
 > My friend is going to start a new job next week.  
 
-� what you think your children will look like  
+• what you think your children will look like  
 > I think my children will look a bit like me.
 
-� your plans for next week 
+• your plans for next week 
 > I am going to visit my mother.
 
-� something you are planning to buy  
+• something you are planning to buy  
 > I am planning to buy a products for a dinner.
 
-� a job you would really like to do  
+• a job you would really like to do  
 > I would like to work as a software developer.
 
-� your plans for next weekend  
+• your plans for next weekend  
 > I am going to spend time with my family.
 
-� will robots ever replace humans  
+• will robots ever replace humans  
 > I think, yes, the future they replace humans in big amount of works.
 
 ---
@@ -132,27 +132,27 @@ An unusual travel experience is something unexpected, like getting lost, sleepin
 
 > Retell the story of Clive and Glen who went on a 16-year holiday.  
 > Use the key words here:  
-> � boat  
-> � expected to be away  
-> � continued travelling  
-> � around the world  
-> � amazing experiences  
-> � pirates  
-> � sell the house  
+> • boat  
+> • expected to be away  
+> • continued travelling  
+> • around the world  
+> • amazing experiences  
+> • pirates  
+> • sell the house  
 
 > Clive and Jane Green set off in their boat, expecting to be away for a week, but they continued travelling for sixteen years around the world. They had amazing experiences, like swimming with seals, but also feared pirates near Somalia. To fund their journey, they had to sell their house, and when they ran out of money near Fiji, a local woman traded food for clothes.
 
 
 > Retell the story of Apolo 13 mission.  
 > Use the key words here:  
-> � launched from Florida, 1970  
-> � 3 astronauts  
-> � watched by millions  
-> � tank exploded  
-> � running out of...  
-> � lunar module  
-> � special filters  
-> � national heroes
+> • launched from Florida, 1970  
+> • 3 astronauts  
+> • watched by millions  
+> • tank exploded  
+> • running out of...  
+> • lunar module  
+> • special filters  
+> • national heroes
 
 > Apollo 13 was launched from Florida in 1970 with three astronauts on board. Watched by millions, the mission was supposed to land on the Moon, but disaster struck when an oxygen tank exploded. The crew quickly realized they were running out of power, oxygen, and water. They moved into the lunar module, but rising carbon dioxide levels became a serious threat. With help from NASA engineers, they built special filters from simple materials. The dramatic rescue mission gripped the world, and when the astronauts returned safely, they were hailed as national heroes.
 
@@ -196,10 +196,49 @@ past perfect `The trip to the Maldives had been booked earlier.`
 ## Task 7. Gerund / Infinitive. Change in meaning. Speaking
 
 - Think of something you regret doing or saying.   
+> I regret saying something rude to my friend.  
+> → Я шкодую, що сказав (минуле діяння, про яке я жалкую).  
+> ✅ regret + -ing означає шкодувати про щось, що вже зробив.  
+>   
+> I regret to inform you that the flight has been canceled.  
+> → Мені шкода повідомити, що рейс скасовано.  
+> ✅ regret + to-infinitive використовується для офіційних або ввічливих повідомлень поганих новин.  
+
 - Think of something you remember doing or saying when you were in primary school.  
+> I remember drawing pictures in my notebook.  
+> → Я пам’ятаю, як малював (згадую щось із минулого).  
+> ✅ remember + -ing означає пам’ятати, як щось робив у минулому.  
+>   
+> Remember to lock the door before you leave.  
+> → Не забудь замкнути двері перед виходом.  
+> ✅ remember + to-infinitive означає не забути зробити щось у майбутньому.  
+
 - Think of something you've tried doing.  
+> I’ve tried learning to play the guitar.  
+> → Я пробував вчитися грати на гітарі (експеримент, щоб побачити, чи вийде).  
+> ✅ try + -ing означає спробувати щось як експеримент.  
+>   
+> I tried to lift the box, but it was too heavy.  
+> → Я намагався підняти коробку, але вона була занадто важка (намагався, але не вийшло).  
+> ✅ try + to-infinitive означає докладати зусиль, щоб щось зробити.  
+
 - Think of something you've stopped doing.  
+> I’ve stopped eating fast food.  
+> → Я припинив їсти фастфуд (більше цього не роблю).  
+> ✅ stop + -ing означає повністю припинити дію.  
+>   
+> I stopped to buy some water.  
+> → Я зупинився, щоб купити воду (перестав робити одну дію, щоб зробити іншу).  
+> ✅ stop + to-infinitive означає зупинитися, щоб зробити щось інше.  
+
 - Think of something you forgot to do recently.  
+> I forgot calling my friend on his birthday.  
+> → Я забув, що дзвонив другу (не пам’ятаю, що це робив).  
+> ✅ forget + -ing означає забути, що вже щось зробив.  
+>   
+> I forgot to call my friend on his birthday.  
+> → Я забув зателефонувати (не зробив цього).  
+> ✅ forget + to-infinitive означає забути зробити щось важливе в майбутньому.  
 
 ---
 
@@ -218,7 +257,7 @@ Complete the table with missing words.
 
 # Task 9. Role-plays 
 
-Role-play the following situations. You must develop the conversation further than "I�m fine" and instead share more personal or imaginative details, such as a small victory, or an interesting event.
+Role-play the following situations. You must develop the conversation further than "I’m fine" and instead share more personal or imaginative details, such as a small victory, or an interesting event.
   
 Useful vocabulary: 
 
@@ -244,38 +283,38 @@ Useful vocabulary:
 Dialogue 1.
 
 > **Student A:** Hey! You look kind of nervous. How are you?  
-> **Student B:** Oh, I�m okay� just a bit stressed. I had a presentation today that almost didn�t come to fruition because I was so jittery. But after all the efforts I've put into stuff, I managed to pull it together, so I�m doing all right�even if I feel a bit exhausted. How about you?  
-> **Student A:** I�m alive and kicking, thanks! My week�s been busy too, but so far so good.  
+> **Student B:** Oh, I’m okay… just a bit stressed. I had a presentation today that almost didn’t come to fruition because I was so jittery. But after all the efforts I've put into stuff, I managed to pull it together, so I’m doing all right—even if I feel a bit exhausted. How about you?  
+> **Student A:** I’m alive and kicking, thanks! My week’s been busy too, but so far so good.  
 
 Dialogue 2. 
-Two friends are talking after one of them recently moved to a new house. At first, the friend says they�re fine, but with encouragement, they open up.
+Two friends are talking after one of them recently moved to a new house. At first, the friend says they’re fine, but with encouragement, they open up.
 
-> Student A: So, how�s the new house?  
-> Student B: It�s fine. The rooms are big, and there�s a lovely kitchen with plenty of natural light. But honestly, the move has been a stressful process. I�m still unpacking and trying to settle in.  
-> Student A: That sounds rough at first, but I�m sure things will come to fruition soon. Did you manage to set up your garden like you planned?  
-> Student B: Actually, yes! I even started a small herb garden, and it feels like a little victory. It�s making me feel more at home, and I�m hopeful that with time, I�ll be in a better state overall�even if the first week was challenging.  
+> Student A: So, how’s the new house?  
+> Student B: It’s fine. The rooms are big, and there’s a lovely kitchen with plenty of natural light. But honestly, the move has been a stressful process. I’m still unpacking and trying to settle in.  
+> Student A: That sounds rough at first, but I’m sure things will come to fruition soon. Did you manage to set up your garden like you planned?  
+> Student B: Actually, yes! I even started a small herb garden, and it feels like a little victory. It’s making me feel more at home, and I’m hopeful that with time, I’ll be in a better state overall—even if the first week was challenging.  
 
 
 Dialogue 3.  
 One student has had a recent disagreement with another friend, and they seem quiet. Their friend notices and checks in.
 
-> Student A: Hey, you�ve been really quiet today. Everything okay?  
-> Student B: Yeah, I�m fine.  
+> Student A: Hey, you’ve been really quiet today. Everything okay?  
+> Student B: Yeah, I’m fine.  
 > Student A: Really? You seem off. Is it because you fell out with someone recently?  
-> Student B: Well, yes. I had a disagreement with a close friend, and it�s been pretty stressful. I felt so disappointed�almost like all the efforts I�ve put into our friendship were wasted. I�m still processing it, but I�m grateful for a few honest conversations that might help us patch things up.  
-> Student A: I understand. It�s hard when emotions run high. Just remember, I�m here if you want to talk or need some support.  
+> Student B: Well, yes. I had a disagreement with a close friend, and it’s been pretty stressful. I felt so disappointed—almost like all the efforts I’ve put into our friendship were wasted. I’m still processing it, but I’m grateful for a few honest conversations that might help us patch things up.  
+> Student A: I understand. It’s hard when emotions run high. Just remember, I’m here if you want to talk or need some support.  
 
 
 Dialogue 4.  
 Juicy gossip
 
-> Student A: Did you hear the latest about Karen in accounting? She just got promoted to manager, but�  
-> Student B: �but rumor has it that her promotion wasn�t entirely by merit. Apparently, she�s been quite bossy and has been trash talking some colleagues behind their backs. Some people even say her style is harsh, which has made a few of them jealous.  
-> Student A: Wow, that�s wild! It seems like office politics can be as gossipy as any high school drama.  
+> Student A: Did you hear the latest about Karen in accounting? She just got promoted to manager, but…  
+> Student B: …but rumor has it that her promotion wasn’t entirely by merit. Apparently, she’s been quite bossy and has been trash talking some colleagues behind their backs. Some people even say her style is harsh, which has made a few of them jealous.  
+> Student A: Wow, that’s wild! It seems like office politics can be as gossipy as any high school drama.  
 
 Dialogue 5.  
 Juicy gossip.
 
-> Student A: So, my friend just got a new neighbor who moved in next door, and no one knows anything about�  
-> Student B: �about who they really are. I heard some neighbors whisper that the newcomer might have recently split up with someone and now lives apart from each other. There�s even talk of a scandalous past�some are saying it�s all just trash talking, but others are quite curious.  
-> Student A: That�s definitely intriguing. It�ll be interesting to see if more details emerge or if it just remains a mystery.  
+> Student A: So, my friend just got a new neighbor who moved in next door, and no one knows anything about…  
+> Student B: …about who they really are. I heard some neighbors whisper that the newcomer might have recently split up with someone and now lives apart from each other. There’s even talk of a scandalous past—some are saying it’s all just trash talking, but others are quite curious.  
+> Student A: That’s definitely intriguing. It’ll be interesting to see if more details emerge or if it just remains a mystery.  
