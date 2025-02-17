@@ -154,7 +154,7 @@ An unusual travel experience is something unexpected, like getting lost, sleepin
 > • special filters  
 > • national heroes
 
-> Apollo 13 was launched from Florida in 1970 with three astronauts on board. Watched by millions, the mission was supposed to land on the Moon, but disaster struck when an oxygen tank exploded. The crew quickly realized they were running out of power, oxygen, and water. They moved into the lunar module, but rising carbon dioxide levels became a serious threat. With help from NASA engineers, they built special filters from simple materials. The dramatic rescue mission gripped the world, and when the astronauts returned safely, they were hailed as national heroes.
+> Apollo 13 was launched from Florida in 1970 with three astronauts on board. Watched by millions, the mission was supposed to land on the Moon, but disaster [struck](# "вдарив; уразив") when an oxygen tank exploded. The crew quickly realized they were running out of power, oxygen, and water. They moved into the lunar module, but rising carbon dioxide levels became a serious threat. With help from NASA engineers, they built special filters from simple materials. The dramatic rescue mission gripped the world, and when the astronauts returned safely, they were hailed as national heroes.
 
 
 ---
