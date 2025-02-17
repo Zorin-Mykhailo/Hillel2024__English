@@ -261,60 +261,177 @@ Role-play the following situations. You must develop the conversation further th
   
 Useful vocabulary: 
 
-- Could be better
-- Alive and kicking
-- I'm doing all right.
-- So far so good.
-- come to fruition
-- hopeful/stressful/grateful/exhausted
-- in a better state
-- the efforts I've put into stuff
-- borrow money
-- fall out with 
-- harsh / bossy
-- to be fired
-- to ask out 
-- split up
-- live apart from each other
-- gossipy
-- jealous
-- trash talking
+- Could be better – Могло б бути краще  
+- Alive and kicking – Живий-здоровий (у хорошому стані)  
+- I'm doing all right. – У мене все нормально.  
+- So far so good. – Поки що все добре.  
+- Come to fruition – Втілитися в життя, здійснитися  
+- Hopeful/stressful/grateful/exhausted  
+    - hopeful – сповнений надії  
+    - stressful – напружений, стресовий  
+    - grateful – вдячний  
+    - exhausted – виснажений  
+- In a better state – У кращому стані  
+- The efforts I've put into stuff – Зусилля, які я вклав у щось  
+- Borrow money – Позичати гроші (брати в борг)  
+- Fall out with – Посваритися з  
+- Harsh / bossy –  
+    - harsh – жорсткий, суворий  
+    - bossy – владний, любить командувати  
+- To be fired – Бути звільненим  
+- To ask out – Запросити на побачення  
+- Split up – Розійтися (припинити стосунки)  
+- Live apart from each other – Жити окремо один від одного  
+- Gossipy – Балакучий, пліткарський  
+- Jealous – Ревнивий, заздрісний  
+- Trash talking – Образливі висловлювання, зневажливі коментарі  
 
-Dialogue 1.
+Dialogue 1.  
+```
+Student A: Hey! You look kind of nervous. How are you?
+Student B: Oh, I’m okay… just
+```
 
-> **Student A:** Hey! You look kind of nervous. How are you?  
-> **Student B:** Oh, I’m okay… just a bit stressed. I had a presentation today that almost didn’t come to fruition because I was so jittery. But after all the efforts I've put into stuff, I managed to pull it together, so I’m doing all right—even if I feel a bit exhausted. How about you?  
-> **Student A:** I’m alive and kicking, thanks! My week’s been busy too, but so far so good.  
+> 🔶 Student A: Hey! You look kind of nervous. How are you?  
+> 🔷 Студент A: Привіт! Ти виглядаєш трохи нервовим. Як справи?  
+>   
+> 🔶 Student B: Oh, I’m okay… just a bit stressed about my upcoming exam. I’ve been studying a lot, but I still feel like I might forget something important.  
+> 🔷 Студент B: О, я в порядку… просто трохи напружений через майбутній іспит. Я багато вчився, але все одно боюся, що можу забути щось важливе.  
+>   
+> 🔶 Student A: I get it. Exams can be really stressful, but I’m sure all the efforts you’ve put into studying will pay off. What subject is it?  
+> 🔷 Студент A: Розумію. Іспити можуть бути дуже напруженими, але я впевнений, що всі зусилля, які ти вклав у навчання, дадуть > результат. З якого предмета іспит?  
+>   
+> 🔶 Student B: It’s math, and honestly, it’s not my strongest subject. I borrowed some notes from a friend, so I hope they help.  
+> 🔷 Студент B: Це математика, і, чесно кажучи, це не моя найсильніша сторона. Я позичив конспекти у друга, тож сподіваюся, що вони допоможуть.  
+>   
+> 🔶 Student A: That’s a good idea! If you need a break, let’s grab a coffee later.  
+> 🔷 Студент A: Гарна ідея! Якщо тобі потрібна перерва, давай пізніше вип’ємо кави.  
+>   
+> 🔶 Student B: Sounds good! Maybe that will help me feel in a better state before the exam.  
+> 🔷 Студент B: Чудова ідея! Можливо, це допоможе мені почуватися в кращому стані перед іспитом.  
 
-Dialogue 2. 
-Two friends are talking after one of them recently moved to a new house. At first, the friend says they’re fine, but with encouragement, they open up.
 
-> Student A: So, how’s the new house?  
-> Student B: It’s fine. The rooms are big, and there’s a lovely kitchen with plenty of natural light. But honestly, the move has been a stressful process. I’m still unpacking and trying to settle in.  
-> Student A: That sounds rough at first, but I’m sure things will come to fruition soon. Did you manage to set up your garden like you planned?  
-> Student B: Actually, yes! I even started a small herb garden, and it feels like a little victory. It’s making me feel more at home, and I’m hopeful that with time, I’ll be in a better state overall—even if the first week was challenging.  
+Dialogue 2.  
+Two friends are talking after one of them recently moved to a new house. At first, the friend says they’re fine, but with encouragement, they open up.  
 
+```
+Student A: So, how’s the new house?
+Student B: It’s fine. The rooms are big, and there’s a.......
+```
+
+> 🔶 Student A: So, how’s the new house?  
+> 🔷 Студент A: Ну, як твій новий будинок?  
+>   
+> 🔶 Student B: It’s fine. The rooms are big, and there’s a nice garden in the backyard.  
+> 🔷 Студент B: Все нормально. Кімнати великі, і на задньому дворі є гарний сад.  
+>   
+> 🔶 Student A: That sounds great! But you don’t seem too excited. Is everything okay?  
+> 🔷 Студент A: Це звучить чудово! Але ти не виглядаєш надто захопленим. Все гаразд?  
+>   
+> 🔶 Student B: Well… to be honest, it’s been a bit stressful. I miss my old neighborhood, and I haven’t made any new friends yet.  
+> 🔷 Студент B: Ну… якщо чесно, це було трохи напружено. Я сумую за старим районом і ще не знайшов нових друзів.  
+>   
+> 🔶 Student A: I get that. It takes time to adjust. Have you met any of your neighbors?  
+> 🔷 Студент A: Розумію. Потрібен час, щоб звикнути. Ти вже знайомився з сусідами?  
+>   
+> 🔶 Student B: A few of them, but they seem a bit gossipy. I don’t want to fall out with anyone, so I’m keeping my distance for now.  
+> 🔷 Студент B: З деякими, але вони здаються трохи пліткарськими. Я не хочу сваритися ні з ким, тому поки що тримаюся осторонь.  
+>   
+> 🔶 Student A: That makes sense. But give it time, and I’m sure you’ll find good people. Plus, your new place sounds amazing!  
+> 🔷 Студент A: Це логічно. Але дай собі час, і я впевнений, що ти знайдеш хороших людей. До того ж, твій новий будинок звучить чудово!  
+>   
+> 🔶 Student B: Yeah, I hope so. Moving was hard, but maybe it’ll come to fruition and be a good change.  
+> 🔷 Студент B: Так, сподіваюся. Переїзд був складним, але, можливо, це втілиться в життя і стане хорошою зміною.  
 
 Dialogue 3.  
-One student has had a recent disagreement with another friend, and they seem quiet. Their friend notices and checks in.
+One student has had a recent disagreement with another friend, and they seem quiet. Their friend notices and checks in.  
+```
+Student A: Hey, you’ve been really quiet today. Everything okay?
+Student B: Yeah, I’m fine.
+Student A: Really? .........
+```
 
-> Student A: Hey, you’ve been really quiet today. Everything okay?  
-> Student B: Yeah, I’m fine.  
-> Student A: Really? You seem off. Is it because you fell out with someone recently?  
-> Student B: Well, yes. I had a disagreement with a close friend, and it’s been pretty stressful. I felt so disappointed—almost like all the efforts I’ve put into our friendship were wasted. I’m still processing it, but I’m grateful for a few honest conversations that might help us patch things up.  
-> Student A: I understand. It’s hard when emotions run high. Just remember, I’m here if you want to talk or need some support.  
+> 🔶 Student A: Hey, you’ve been really quiet today. Everything okay?  
+> 🔷 Студент A: Гей, ти сьогодні дуже тихий. Все гаразд?  
+>   
+> 🔶 Student B: Yeah, I’m fine.  
+> 🔷 Студент B: Так, все нормально.  
+>   
+> 🔶 Student A: Really? You don’t seem like yourself. Did something happen?  
+> 🔷 Студент A: Справді? Ти не схожий на себе. Щось сталося?  
+>   
+> 🔶 Student B: Well… I fell out with Alex yesterday. We had a big argument.  
+> 🔷 Студент B: Ну… я посварився з Алексом учора. У нас була серйозна суперечка.  
+>   
+> 🔶 Student A: Oh no! What happened?  
+> 🔷 Студент A: О ні! Що сталося?  
+>   
+> 🔶 Student B: He was being really bossy about our group project, and when I disagreed, he started trash talking me.  
+> 🔷 Студент B: Він поводився дуже владно щодо нашого групового проєкту, і коли я не погодився, він почав зневажливо говорити про мене.  
+>   
+> 🔶 Student A: That’s really unfair. Did you try talking to him after?  
+> 🔷 Студент A: Це дуже несправедливо. Ти пробував поговорити з ним потім?  
+>   
+> 🔶 Student B: No, I was too exhausted to argue. But I don’t want this to ruin our friendship.  
+> 🔷 Студент B: Ні, я був занадто виснажений, щоб сперечатися. Але я не хочу, щоб це зруйнувало нашу дружбу.  
+>   
+> 🔶 Student A: Maybe give it a day or two, then talk to him. He might regret it and apologize.  
+> 🔷 Студент A: Можливо, зачекай день-два, а потім поговори з ним. Може, він пошкодує і вибачиться.  
+>   
+> 🔶 Student B: Yeah, maybe you’re right. I just hope we can sort things out.  
+> 🔷 Студент B: Так, може, ти правий. Я просто сподіваюся, що ми зможемо все владнати.  
+
+Dialogue 4. Juicy gossip
+```
+Student A: Did you hear the latest about Karen in accounting? She just got promoted to manager, but......
+Student B: ......
+```
+
+> 🔶 Student A: Did you hear the latest about Karen in accounting? She just got promoted to manager, but...  
+> 🔷 Студент A: Чув останні новини про Карен з бухгалтерії? Вона щойно отримала підвищення до менеджера, але...  
+>   
+> 🔶 Student B: Oh really? But what?  
+> 🔷 Студент B: О, справді? Але що?  
+>   
+> 🔶 Student A: Well, some people say she only got the job because she's close to the director.  
+> 🔷 Студент A: Ну, деякі кажуть, що вона отримала цю посаду тільки тому, що вона близька до директора.  
+>   
+> 🔶 Student B: Wow, that sounds a bit gossipy! But I thought she was really hardworking.  
+> 🔷 Студент B: Вау, це звучить трохи пліткарсько! Але я думав, що вона дуже працьовита.  
+>   
+> 🔶 Student A: She is, but apparently, some colleagues are jealous and think she didn’t deserve it.  
+> 🔷 Студент A: Вона така, але, схоже, деякі колеги заздрять і вважають, що вона не заслуговувала цього.  
+>   
+> 🔶 Student B: That’s unfair. People always have something to say. Maybe all the efforts she’s put into work finally came to    fruition.  
+> 🔷 Студент B: Це несправедливо. Люди завжди щось вигадують. Можливо, всі зусилля, які вона вклала в роботу, нарешті дали   результат.  
+>   
+> 🔶 Student A: Yeah, I guess we should just wait and see if she’s a good manager.  
+> 🔷 Студент A: Так, думаю, нам варто просто зачекати і подивитися, чи вона хороший менеджер.  
+>   
+> 🔶 Student B: Exactly! No need for trash talking behind her back.  
+> 🔷 Студент B: Саме так! Немає сенсу говорити образливі речі за її спиною.  
 
 
-Dialogue 4.  
-Juicy gossip
+Dialogue 5. Juicy gossip.
+```
+Student A: So, my friend just got a new neighbor who moved in next door, and no one knows anything about.....
+Student B: ......
+```
 
-> Student A: Did you hear the latest about Karen in accounting? She just got promoted to manager, but…  
-> Student B: …but rumor has it that her promotion wasn’t entirely by merit. Apparently, she’s been quite bossy and has been trash talking some colleagues behind their backs. Some people even say her style is harsh, which has made a few of them jealous.  
-> Student A: Wow, that’s wild! It seems like office politics can be as gossipy as any high school drama.  
-
-Dialogue 5.  
-Juicy gossip.
-
-> Student A: So, my friend just got a new neighbor who moved in next door, and no one knows anything about…  
-> Student B: …about who they really are. I heard some neighbors whisper that the newcomer might have recently split up with someone and now lives apart from each other. There’s even talk of a scandalous past—some are saying it’s all just trash talking, but others are quite curious.  
-> Student A: That’s definitely intriguing. It’ll be interesting to see if more details emerge or if it just remains a mystery.  
+> 🔶 Student A: So, my friend just got a new neighbor who moved in next door, and no one knows anything about them.  
+> 🔷 Студент A: У мого друга з’явився новий сусід, і ніхто нічого про нього не знає.  
+>   
+> 🔶 Student B: Really? Have they seen him?  
+> 🔷 Студент B: Справді? Вони його бачили?  
+>   
+> 🔶 Student A: Barely! He only comes out late at night and never talks to anyone.  
+> 🔷 Студент A: Ледь-ледь! Він виходить тільки вночі й ні з ким не говорить.  
+>   
+> 🔶 Student B: That’s mysterious! Maybe he just likes privacy?  
+> 🔷 Студент B: Це загадково! Може, він просто любить усамітнення?  
+>   
+> 🔶 Student A: Could be, but the neighbors are already gossipy. Some say he’s hiding something!  
+> 🔷 Студент A: Може бути, але сусіди вже пліткують. Дехто каже, що він щось приховує!  
+>   
+> 🔶 Student B: Haha, people love juicy gossip! Let’s see what happens.  
+> 🔷 Студент B: Хаха, люди обожнюють цікаві плітки! Подивимося, що буде далі.  
