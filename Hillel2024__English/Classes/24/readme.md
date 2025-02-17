@@ -192,7 +192,7 @@ past perfect `The trip to the Maldives had been booked earlier.`
 10. The house `wasn't cleaned` (clean) by the cleaning service last weekend because they upped the price.  
 
 ---
-
+ 
 ## Task 7. Gerund / Infinitive. Change in meaning. Speaking
 
 - Think of something you regret doing or saying.   
