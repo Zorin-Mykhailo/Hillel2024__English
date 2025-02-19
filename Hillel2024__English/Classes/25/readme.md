@@ -56,22 +56,125 @@ Video: [$600 for DIRTY Sneakers? Golden Goose Review](https://youtu.be/RhtgCJRR1
 
 • Do you trust bloggers and influencers when they promote products? Why? Who do you trust?
 
+> I don’t always trust bloggers and influencers when they promote products because they are often paid for advertisements. However, I trust those who give honest reviews and share both pros and cons.
+
 • Have you ever bought a product under the influence of a blogger? What were your expectations? What was the reality?
+
+> No, I don’t fall under their influence, but they can interest me in a product. After that, I search for specific information about it and decide whether to buy it or not, and whether to choose this product or an alternative.
 
 • Do you think the products below are worth their money? Whay makes them so popular?
 
-
-
-
-
-
-
-
-
-
-
+> Personally, I am not familiar with these products, but I think that, although they are high-quality, they are overly advertised, and a huge part of their cost is paid by consumers solely for the brand and marketing.
 
 ---
+
+## Task 2. Video
+
+### Task 1. Watch the video and write the products that are deinfluenced in this video.
+
+"Deinfluencing" means [convincing](# "переконливий") someone not to do or buy something. It's like telling them why they shouldn't do it. You give them reasons to change their mind and avoid making a mistake or something bad.
+
+Watch the video [here](https://drive.google.com/file/d/1W1hdIExSOwtIJM4Lq1lGNIJ86XVvn67E/view)
+
+> <u>Florence, Italy version</u>  
+> this is gonna be slightly controversial but that's okay  
+> it is about this place right here that you probably seen all over your feed  
+> it's called "All  Antico Vinalo"  
+> all those people are waiting for this  
+> now this place is super famous  
+> so by all means if you wanna go eat there, live your dreams!  
+> live your dreams!  
+> but I personaly feel that it is WAYYY overhyped  
+> it is double the price of other panini cost if Florence  
+> The wait time is like insanely long  
+> for what my opinion is just an okay pinino  
+> this is just a personal thing  
+> but ever single time I've been in there they've been like not nice  
+> And we like nice people here  
+>   
+> - Pino's Sandwiches  
+> - I Fratellini  
+> - Panini Toscani  
+> - Da Vinattieri  
+> - SandwiChic  
+> - Officina dei Sapori  
+>   
+> HERE is where I would go in Florence instead  
+> to get an authentic panino that is half the price, with  
+> kinder people, and thay you don't need to wait 1.5 hours in line for  
+> AGAIN - if you want to go to  
+> All'Antico Vinaio, by all means go for it!  
+> I just personally feel that  
+> there are better places in   
+> Florence to get a panino  
+>
+> <u>Overhyped overpriced products Pt. 2!</u>
+> overhyped overpriced products and what you should byu instead part 2  
+> courtesy of me Vivian  
+> your rich BFF and your favorite Wall Street girly  
+> Some people are gonna be mad but Dyson hair tools  
+> people swear by these  
+> influencers love them  
+> and clearly I bought them  
+> and I'm not saying they don't work they do  
+> but at $400 to $600  
+> you can accomplish the save thing with much more affordable tools  
+> and frankly if you don't know how to do your own hair  
+> buying an expensive tool isn't gonna suddenly turn you into Jonathan Van Ness  
+> like I thought it would  
+> I thought that buying a fancy blow dryer would give me the perfect blowout  
+> but I still don't know how to use a round brush  
+> and I am unskilled  
+>
+> <u>#deinfluencing skincare edition</u>
+>
+> <u>de-influencing dior:</u>
+
+### Task 2. Watch the video again and answer the questions. 
+
+1. What are the reasons why All’ antico Vinaio is overhyped?
+2. Why does the speaker deinfluence Dyson hair tools?
+3. What expectation the speaker had about Dyson that didn’t live up to the reality?
+4. Why does the speaker 3 doesn’t like the products she’s talking about?
+5. Is everything in Dior products bad?
+
+
+> 1. All’ Antico Vinaio?  
+> It's twice as expensive as other panini in Florence; the waiting time is extremely long and the staff was not friendly every time the speaker visited.  
+>   
+> 2. Dyson hair tools?  
+> Hairdryers are overpriced ($400–600); cheaper alternatives provide the same results.
+>   
+> 3. Expectation about Dyson ha?
+> An expensive tool won’t magically improve your hairstyling skills and reviewer still don't know how to use a round brush properly.
+>
+> 4. Skincare products  
+> They are so many better other products on the market, and comparable alternatives are available at lower prices. This products are are overpriced and overhyped.  
+>   
+> 5. Dior products?  
+>  This products have high price and low quality.  
+
+---
+
+Task 3. Vocabulary 1
+
+Complete the sentences with the pairs of words from the box.
+
+Brainstorm products these sentences might describe.
+
+`overpriced` `buzz` `totally` `do` `hype` `buck` `worth` `okay` `disappointment` `rave` `wallet` `rip-off`
+
+1. I bought it, but honestly, it's `overpriced` and it's not amazing, I regret buying it. It's not worth the `buzz`.
+2. People keep saying this product deserves all the `hype`, but honestly, it didn't `do` anything for me.  
+3. That new product everyone's talking about is `totally` overhyped. It's not `worth` the crazy price they're asking for.  
+4. I tried this new place, but honestly, it was just an `okay` panini. Nothing to `rave` about, you know?  
+5. That new smartphone might look cook, but it's a total `rip-off` it's such a `disappointment` to be honest.  
+6. Trust me, if you don't buy this gadget, your `wallet`  will thank you. Save a `buck` and go for a more affordable alternative that works just well.  
+
+---
+
+# Task 4. Activating vocabulary 
+Complete the gaps and answer the questions.
 
 
 | En | Ua | Path of speech | 
@@ -108,4 +211,6 @@ Video: [$600 for DIRTY Sneakers? Golden Goose Review](https://youtu.be/RhtgCJRR1
 | `rebellious` </br> ребеліес | бунтівний, непокірний | adjective |
 | `tan` </br> тен | засмага; дублення; жовтувато-коричневий колір | noun, adjective, verb |
 | `perception` </br> персепшн | сприйняття, усвідомлення | noun |
+| ░░░░░ Task 2  ░░░░░ | ░░░░░░░░░░░░░░░░░░░░ | ░░░░░░░░░░ |
+| `convincing` </br> конвінсінг | переконливий | adjective |
 
