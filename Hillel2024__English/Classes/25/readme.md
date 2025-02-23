@@ -251,9 +251,9 @@ Questions:
 1. Which of these collocations do you know/have you used?  
     - totally safe
     - totally unable  
-    - totally unaware of[<sup>🌍</sup>](# "Unaware of — не усвідомлюючий, не знаючий про")  
+    - totally unaware [<sup>🌍</sup>](# "unaware [анавер] — не усвідомлюючий, не знаючий про") of  
     - totally unexpected  
-    - totally unfair[<sup>🌍</sup>](# "Unfair — несправедливий")  
+    - totally unfair[<sup>🌍</sup>](# "unfair [анфер] — несправедливий")  
     - totally unique  
     - totally unknown  
 2. Is there a place where you'd feel totally safe?
@@ -281,57 +281,181 @@ Work with your partner and think of the missing words.
 
 ---
 
+## Task 6. Lexical NOTE 
+Other ways to say that something is EXPENSIVE
 
+- insanely[<sup>🌍</sup>](# "Insanely [інсейнлі] — шалено, неймовірно") overpriced
+- costs an arm and a leg
+- pricy
+- costly
+- sky-high
 
+---
 
+## Task 7.
+
+Complete the sentences with the missing words.  
+`as` `too` `much` `more` `twice` `as` `totally overpriced`
+
+1. That [<sup>🌍</sup>](# "fancy [фенсі] — вигадливий, модний; уява; уявляти") bag is `totally overpriced` for what it is.  
+2. It's `twice` the price of other similar phones.  
+3. The price of that car is `too` high, even though there are other cars with similar features that cost `much` less.  
+4. You can get a laptop that's just `as` good for half the price.  
+5. Don't waste your money on expensive skincare products when there are `more` affordable[<sup>🌍</sup>](# "affordable [ефордабл] — доступний за ціною") ones that work just as well.  
+6. The cool sneakers may be expensive, but there are other shoes that look just `as` nice and cost less.  
+
+---
+
+## Task 8. 
+Complete the sentences describing various products.
+
+1️⃣   
+This handbag is `totally` worth `the price baczuse of its quality`.  
+This handbag is `totally` overpriced. I can buy `a similar one for half the price`.  
+
+2️⃣  
+Your wallet `is not bottomless`.   
+This product doesn't deserve all the `hype`  
+
+3️⃣  
+These sneakers might be trendy but there are other shoes that look `just as stylish`.  
+These sneakers are nothing to `get excited about`.   
+
+4️⃣  
+You cah get a coffee machine just as `good` for the price of this one.  
+Despite all the `hype`, this coffee machine was just `average`  
+
+---
+
+## Task 9. Speaking
+
+Come up with a list of 3 products that you would like to deinfluence. Explain why you believe they’re not worth it.
+Share your list with your partners and discuss:
+
+1. Do you agree with your partner’s list?
+2. Have you ever bought something from your partner’s list?
+3. Did your partner's list include any products that you personally believe are worth it? Why do you have a different opinion?
+
+---
+
+# ⚠ Невідомі слова
 
 | En | Ua | Path of speech | 
 |---|---|---|
-| `deinfluence` </br> діінфлуенс | зменшувати вплив, позбавляти впливу | verb |
-| `worth` </br> ворθ | вартість, цінність; вартий | noun, adjective |
-| ░░░░░ Task 1  ░░░░░ | ░░░░░░░░░░░░░░░░░░░░ | ░░░░░░░░░░ |
-| `sneaker` </br> снікер | кросівка | noun |
+| `affluent` </br> афлуент | заможний, багатий | adjective |
+| `affordable` </br> афордабл | доступний за ціною, недорогий | adjective |
+| `affordable` </br> ефордабл | доступний за ціною | adjective |
 | `burst into` </br> берст інту | раптом почати щось, увірватися | phrasal verb |
-| `though` </br> зоу | хоча, проте, однак | conjunction, adverb |
 | `chase` </br> чейс | переслідувати, гнатися | verb |
-| `lousy` </br> лаузі | паршивий, жахливий | adjective |
-| `take` </br> тейк | думка, точка зору | noun |
-| `glance` </br> гланс | погляд | noun |
-| `leather` </br> ледер | шкіра (матеріал) | noun |
+| `come up` </br> кам ап | з'являтися, підходити, виникати | phrasal verb |
+| `convincing` </br> конвінсінг | переконливий | adjective |
 | `cowhide` </br> каухайд | коров'яча шкіра | noun |
+| `deinfluence` </br> діінфлуенс | зменшувати вплив, позбавляти впливу | verb |
+| `despite` </br> діспайт | незважаючи на | preposition |
+| `disappointed` </br> дисапойнтед | розчарований | adjective |
+| `disappointment` </br> дисапойнтмент | розчарування | noun |
+| `durability` </br> д'юрабіліті | міцність, довговічність | noun |
+| `exaggerate` </br> іґзаджерейт | перебільшувати | verb |
+| `fancy` </br> фенсі | вигадливий, модний; уява; уявляти | adjective, noun, verb |
+| `glance` </br> гланс | погляд | noun |
 | `grain` </br> грейн | зерно, текстура, структура | noun |
 | `harsh up` </br> харш ап | псувати, робити грубішим | phrasal verb |
-| `towelish` </br> тауліш | схожий на рушник, рушникоподібний | adjective |
-| `stitch` </br> стіч | шов, стібок; зшивати | noun, verb |
-| `come up` </br> кам ап | з'являтися, підходити, виникати | phrasal verb |
-| `suede` </br> суейд | замша | noun |
 | `heel` </br> хіл | п'ята, каблук | noun |
+| `hype` </br> хайп | ажіотаж, галас | noun |
+| `insanely` </br> інсейнлі | шалено, неймовірно | adverb |
+| `leather` </br> ледер | шкіра (матеріал) | noun |
+| `lousy` </br> лаузі | паршивий, жахливий | adjective |
+| `overall` </br> оуверал | загалом, в цілому | adverb, adjective |
+| `perception` </br> персепшн | сприйняття, усвідомлення | noun |
+| `promote` </br> промоут | просувати, сприяти, підвищувати | verb |
+| `rave` </br> рейв | шалене захоплення, бурхливі емоції; шаленіти, марити | noun, verb |
+| `rebellious` </br> ребеліес | бунтівний, непокірний | adjective |
+| `regret` </br> ріґрет | жаль, шкодувати | noun, verb |
+| `rip-off` </br> ріп-оф | грабіж, обман, занадто висока ціна | noun |
+| `save a buck` </br> сейв е бак | заощадити гроші | phrase |
+| `set expression` </br> сет експрешн | стійкий вираз, фразеологізм | noun |
+| `sneaker` </br> снікер | кросівка | noun |
 | `sole` </br> соул | підошва, єдиний | noun, adjective |
 | `spectacular` </br> спектак’юлер | вражаючий, захопливий | adjective |
-| `thoughtful` </br> θотфул | задумливий, уважний, турботливий | adjective |
-| `disappointed` </br> дисапойнтед | розчарований | adjective |
-| `durability` </br> д'юрабіліті | міцність, довговічність | noun |
 | `standpoint` </br> стендпойнт | точка зору, позиція | noun |
-| `overall` </br> оуверал | загалом, в цілому | adverb, adjective |
-| `affluent` </br> афлуент | заможний, багатий | adjective |
+| `stitch` </br> стіч | шов, стібок; зшивати | noun, verb |
 | `subtle` </br> сабтл | тонкий, витончений, ледь помітний | adjective |
-| `trendsetter` </br> трендсеттер | законодавець моди, той, хто задає тренди | noun |
-| `rebellious` </br> ребеліес | бунтівний, непокірний | adjective |
+| `suede` </br> суейд | замша | noun |
+| `take` </br> тейк | думка, точка зору | noun |
 | `tan` </br> тен | засмага; дублення; жовтувато-коричневий колір | noun, adjective, verb |
-| `perception` </br> персепшн | сприйняття, усвідомлення | noun |
-| ░░░░░ Task 2  ░░░░░ | ░░░░░░░░░░░░░░░░░░░░ | ░░░░░░░░░░ |
-| `convincing` </br> конвінсінг | переконливий | adjective |
-| ░░░░░ Task 3  ░░░░░ | ░░░░░░░░░░░░░░░░░░░░ | ░░░░░░░░░░ |
-| `regret` </br> ріґрет | жаль, шкодувати | noun, verb |
-| `hype` </br> хайп | ажіотаж, галас | noun |
-| `rave` </br> рейв | шалене захоплення, бурхливі емоції; шаленіти, марити | noun, verb |
-| `rip-off` </br> ріп-оф | грабіж, обман, занадто висока ціна | noun |
-| `disappointment` </br> дисапойнтмент | розчарування | noun |
-| `save a buck` </br> сейв е бак | заощадити гроші | phrase |
-| `affordable` </br> афордабл | доступний за ціною, недорогий | adjective |
-| ░░░░░ Task 4  ░░░░░ | ░░░░░░░░░░░░░░░░░░░░ | ░░░░░░░░░░ |
-| `despite` </br> діспайт | незважаючи на | preposition |
-| `promote` </br> промоут | просувати, сприяти, підвищувати | verb |
-| `exaggerate` </br> іґзаджерейт | перебільшувати | verb |
+| `though` </br> зоу | хоча, проте, однак | conjunction, adverb |
+| `thoughtful` </br> θотфул | задумливий, уважний, турботливий | adjective |
+| `towelish` </br> тауліш | схожий на рушник, рушникоподібний | adjective |
+| `trendsetter` </br> трендсеттер | законодавець моди, той, хто задає тренди | noun |
 | `unfair` </br> анфер | несправедливий | adjective |
+| `worth` </br> ворθ | вартість, цінність; вартий | noun, adjective |
 
+ 
+---
+
+# 📕 Home assignment 25
+
+## Task 1.
+
+Sort the following phrases.
+
+`a rip-off` `costly` `cost an arm and a leg` `overpriced` `half as much` `nothing to rave about`  
+`much more` `much cheaper` `cost an arm and a leg` `twice as much` `your wallet will thank you` `not worth the buzz`
+
+expensive
+- costly
+- overpriced
+- cost an arm and a leg
+- a rip-off
+
+set expressions[<sup>🌍</sup>](# "set expressions [сет експрешнз] — стійкі вирази, фразеологізми")
+- nothing to rave about
+- not worth the buzz
+- cost arm and a leg
+- your wallet will thank you
+
+comparison phrases
+- much cheaper
+- much more
+- half as much
+- twice as much
+
+---
+
+## Task 2.
+
+You need to deinfluence the following places/products. Write 2 sentences for each one. 
+
+1. ![pic 01](./img/HW_02_01.png)
+> These cafes may look aesthetic, but their overpriced drinks are often no better than a regular coffee shop.  
+> You're paying more for the atmosphere and branding rather than the quality of food or service.  
+
+2. ![pic 02](./img/HW_02_02.png)
+> Detox teas are often just overpriced herbal teas that don’t actually "detox" your body.  
+> Instead of spending money on expensive detox teas, drinking water and eating a balanced diet will give you the same (or better) results.  
+
+3. ![pic 03](./img/HW_02_03.png)
+> Smart home assistants can be overpriced and often provide features that most people don't really need.  
+> Many of their functions, like setting reminders or playing music, can be done with a regular smartphone, making them unnecessary for everyday use.  
+
+4. ![pic 04](./img/HW_02_04.png)
+> Plant-based meat is often highly processed and contains additives, making it not necessarily a healthier alternative to regular meat.  
+> It is usually much more expensive than natural plant-based protein sources like beans, lentils, or tofu, which provide similar nutrition at a lower cost.  
+
+5. ![pic 05](./img/HW_02_05.png)
+> Apple headphones and earbuds are significantly more expensive than other high-quality alternatives with similar or even better sound quality.  
+> Many affordable brands offer better battery life, noise cancellation, and durability without the premium Apple price tag.  
+
+---
+
+## Task 3.
+Create 7 sentences using phrases from task 1.  
+Example: It costs twice as much as similar laptops.   
+
+> - This coffee machine is overpriced; you can get a similar one for half as much.  
+> - These designer bags cost an arm and a leg, but the quality isn't much better than mid-range brands.  
+> - The new phone is much more expensive than the previous model, but the features are almost the same.  
+> - Despite all the hype, this skincare product was nothing to rave about.  
+> - This jacket was a rip-off; I found the same one online for half the price.
+> - Luxury candles are costly, but they don't last longer than regular ones.
+> - Skip the trendy gym membership—work out at home and your wallet will thank you.  
