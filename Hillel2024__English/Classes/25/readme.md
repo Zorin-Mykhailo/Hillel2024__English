@@ -179,42 +179,91 @@ Brainstorm products these sentences might describe.
 Complete the gaps and answer the questions.
 
 **1️⃣ Card**  
-If something is `o____d` you mean that you think it costs much more than it should. 
+If something is `overpriced` you mean that you think it costs much more than it should. 
 Questions:
 1. What other things can be overpriced?
 2. When was the last time you bought something overpriced like train/plane tickets, wine or medicine
 
+> What other things can be overpriced?  
+> - Luxury brands (clothes, bags, watches)  
+> - Electronics (smartphones, gaming consoles)  
+> - Tourist attractions (restaurants, souvenirs)  
+> - Concert or event tickets  
+> - Gym memberships  
+>  
+> When was the last time you bought something overpriced?
+> - Last time I bought a plane ticket at a much higher price because I booked it last minute.
+
 **2️⃣ Card**  
-Something or someone that is a `d____t` is not as good as you had hoped.
+Something or someone that is a `disappointment` is not as good as you had hoped.
 Questions:
 1. What are the synonyms of this word?
 2. In which situations might you feel disappointed?
 3. What might you say if you feel disappointed?
 
+> What are the synonyms of "disappointment"?  
+> - Letdown  
+> - Frustration  
+> - Dissatisfaction  
+> - Disillusionment  
+> - Displeasure  
+>  
+> In which situations might you feel disappointed?
+> - When you buy an expensive product that doesn’t work well.
+> - When a friend cancels plans at the last minute.
+> - When you don’t get the job you really wanted.
+>
+> What might you say if you feel disappointed?
+> - "I expected more from this."
+> - "This is not what I hoped for."
+> - "What a waste of money/time!"
+> - "I’m really frustrated with how this turned out."
+
 **3️⃣ Card**  
-If something is `w____an` an amount of money it can be sold for that amount or is considered to have that value.
+If something is `worth` an amount of money it can be sold for that amount or is considered to have that value.
 Questions:
 1. Do you think the word "worth" is mostly combined with "amount of money or time"?  
 
+> Do you think "worth" is mostly used with money or time?  
+> - Mostly, but it can also refer to effort, experience, or value (e.g., "worth the effort," "worth considering").  
+
 **4️⃣ Card**  
-`H____e` is the use of a lot of publicity and ads to make people interested in something such as a product.  
+`Hype` is the use of a lot of publicity and ads to make people interested in something such as a product.  
 Questions:
-1. Finish the sentence: Despite all the hype ......  
+1. Finish the sentence: Despite [<sup>🌍</sup>](# "Despite — незважаючи на") all the hype ......  
 2. Can HYPE be a verb?  
 3. When were you last "Hyped up"?  
 
+> Finish the sentence:
+>  - Despite all the hype, the movie was disappointing.
+> 
+> Can "hype" be a verb?
+> - Yes, it means to promote[<sup>🌍</sup>](# "promote — просувати, сприяти, підвищувати") or exaggerate[<sup>🌍</sup>](# "exaggerate — перебільшувати") something (e.g., "The company hyped the new product too much.").
+> 
+> When were you last "hyped up"?
+> - When I was waiting for a big concert.
+> - Before the release of a new gadget.
+> - Before an important event or trip.
+
 **5️⃣ Card**  
-`T___y` = completely, wholly  
+`Totally` = completely, wholly  
 Questions:
 1. Which of these collocations do you know/have you used?  
-	- totally safe
-	- totally unable  
-	- totally unaware of  
-	- totally unexpected  
-	- totally unfair  
-	- totally unique  
-	- totally unknown  
+    - totally safe
+    - totally unable  
+    - totally unaware of[<sup>🌍</sup>](# "Unaware of — не усвідомлюючий, не знаючий про")  
+    - totally unexpected  
+    - totally unfair[<sup>🌍</sup>](# "Unfair — несправедливий")  
+    - totally unique  
+    - totally unknown  
 2. Is there a place where you'd feel totally safe?
+
+> Which of these collocations do you know/have you used?  
+> - I know: totally unable, totally unexpected, totally unique, totally unknown  
+>   
+> Is there a place where you'd feel totally safe?  
+> - Maybe at home with my family.  
+    
 
 ---
 
@@ -280,5 +329,9 @@ Work with your partner and think of the missing words.
 | `disappointment` </br> дисапойнтмент | розчарування | noun |
 | `save a buck` </br> сейв е бак | заощадити гроші | phrase |
 | `affordable` </br> афордабл | доступний за ціною, недорогий | adjective |
-
+| ░░░░░ Task 4  ░░░░░ | ░░░░░░░░░░░░░░░░░░░░ | ░░░░░░░░░░ |
+| `despite` </br> діспайт | незважаючи на | preposition |
+| `promote` </br> промоут | просувати, сприяти, підвищувати | verb |
+| `exaggerate` </br> іґзаджерейт | перебільшувати | verb |
+| `unfair` </br> анфер | несправедливий | adjective |
 
