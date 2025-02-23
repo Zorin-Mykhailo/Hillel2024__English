@@ -164,17 +164,74 @@ Brainstorm products these sentences might describe.
 
 `overpriced` `buzz` `totally` `do` `hype` `buck` `worth` `okay` `disappointment` `rave` `wallet` `rip-off`
 
-1. I bought it, but honestly, it's `overpriced` and it's not amazing, I regret buying it. It's not worth the `buzz`.
-2. People keep saying this product deserves all the `hype`, but honestly, it didn't `do` anything for me.  
+1. I bought it, but honestly, it's `overpriced` and it's not amazing, I regret[<sup>🌍</sup>](# "regret — жаль, шкодувати") buying it. It's not worth[<sup>🌍</sup>](# "worth — вартість, цінність; вартий") the `buzz` [<sup>🌍</sup>](# "buzz — гул, шум; дзижчати, гудіти").
+2. People keep saying this product deserves all the `hype`[<sup>🌍</sup>](# "hype — ажіотаж, галас"), but honestly, it didn't `do` anything for me.  
 3. That new product everyone's talking about is `totally` overhyped. It's not `worth` the crazy price they're asking for.  
-4. I tried this new place, but honestly, it was just an `okay` panini. Nothing to `rave` about, you know?  
-5. That new smartphone might look cook, but it's a total `rip-off` it's such a `disappointment` to be honest.  
-6. Trust me, if you don't buy this gadget, your `wallet`  will thank you. Save a `buck` and go for a more affordable alternative that works just well.  
+4. I tried this new place, but honestly, it was just an `okay` panini. Nothing to `rave`[<sup>🌍</sup>](# "rave — шалене захоплення, бурхливі емоції; шаленіти, марити") about, you know?  
+5. That new smartphone might look cook, but it's a total `rip-off`[<sup>🌍</sup>](# "rip-off — грабіж, обман, занадто висока ціна") it's such a `disappointment`[<sup>🌍</sup>](# "disappointment — розчарування") to be honest.  
+6. Trust me, if you don't buy this gadget, your `wallet`  will thank you. Save a `buck`[<sup>🌍</sup>](# "Save a buck — заощадити гроші") and go for a more affordable[<sup>🌍</sup>](# "affordable — доступний за ціною, недорогий") alternative that works just well.  
 
 ---
 
 # Task 4. Activating vocabulary 
 Complete the gaps and answer the questions.
+
+**1️⃣ Card**  
+If something is `o____d` you mean that you think it costs much more than it should. 
+Questions:
+1. What other things can be overpriced?
+2. When was the last time you bought something overpriced like train/plane tickets, wine or medicine
+
+**2️⃣ Card**  
+Something or someone that is a `d____t` is not as good as you had hoped.
+Questions:
+1. What are the synonyms of this word?
+2. In which situations might you feel disappointed?
+3. What might you say if you feel disappointed?
+
+**3️⃣ Card**  
+If something is `w____an` an amount of money it can be sold for that amount or is considered to have that value.
+Questions:
+1. Do you think the word "worth" is mostly combined with "amount of money or time"?  
+
+**4️⃣ Card**  
+`H____e` is the use of a lot of publicity and ads to make people interested in something such as a product.  
+Questions:
+1. Finish the sentence: Despite all the hype ......  
+2. Can HYPE be a verb?  
+3. When were you last "Hyped up"?  
+
+**5️⃣ Card**  
+`T___y` = completely, wholly  
+Questions:
+1. Which of these collocations do you know/have you used?  
+	- totally safe
+	- totally unable  
+	- totally unaware of  
+	- totally unexpected  
+	- totally unfair  
+	- totally unique  
+	- totally unknown  
+2. Is there a place where you'd feel totally safe?
+
+---
+
+## Task 5. Vocabulary 2
+
+Work with your partner and think of the missing words. 
+ 
+1. It costs **twice `as` much as** other panini in Florence.   
+2. I believe that it’s `extremely` overhyped.  
+3. You can achieve the same results with `much cheaper` tools.  
+4. The wait time is `super` long.  
+5. …to get an authentic panino that costs **half as `much`** …   
+6. There are lots `of` other lip oils that will give you the same result.  
+7. I promise you’re going to find the products that **`cost` the same** but are much **more effective** than the Ordinary. 
+
+---
+
+
+
 
 
 | En | Ua | Path of speech | 
@@ -213,4 +270,13 @@ Complete the gaps and answer the questions.
 | `perception` </br> персепшн | сприйняття, усвідомлення | noun |
 | ░░░░░ Task 2  ░░░░░ | ░░░░░░░░░░░░░░░░░░░░ | ░░░░░░░░░░ |
 | `convincing` </br> конвінсінг | переконливий | adjective |
+| ░░░░░ Task 3  ░░░░░ | ░░░░░░░░░░░░░░░░░░░░ | ░░░░░░░░░░ |
+| `regret` </br> ріґрет | жаль, шкодувати | noun, verb |
+| `hype` </br> хайп | ажіотаж, галас | noun |
+| `rave` </br> рейв | шалене захоплення, бурхливі емоції; шаленіти, марити | noun, verb |
+| `rip-off` </br> ріп-оф | грабіж, обман, занадто висока ціна | noun |
+| `disappointment` </br> дисапойнтмент | розчарування | noun |
+| `save a buck` </br> сейв е бак | заощадити гроші | phrase |
+| `affordable` </br> афордабл | доступний за ціною, недорогий | adjective |
+
 
