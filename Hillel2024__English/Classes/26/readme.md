@@ -207,7 +207,7 @@ My wife and I have lived in United States for several years.
 15. Luckily `the` people who work in my office don't talk about `-` sports at all.  
 16. My sister works in `a` restaurant. She gets home from `-` work late every evening.  
 17. What's your favorite meal of the day? `-` breakfast or `-` dinner?  
-18. That's `an` easy question. I think I know `the` answer.  ❓
+18. That's `an`[<sup>❓</sup>](# "Мова ж про конкретне питання?") easy question. I think I know `the` answer.  
 19. Audrey has two children. `A` boy and `a` girl. `The` boy's ten and `the` girl's two years younger.  
 20. `-` good health is more. important than `-` money.
 
@@ -220,7 +220,7 @@ My wife and I have lived in United States for several years.
 3. ✔ Can you pass me `an` apple, please?  
 4. ❌ I would love to visit `a` United Kingdom someday. 
 5. ❌ He is `a` honest man.  
-6. ✔ We stayed in `the` beautiful hotel near the beach.  ❓
+6. ✔ We stayed in `the`[<sup>❓</sup>](# "Beautiful це ж не іменник?") beautiful hotel near the beach.  
 7. ❌ I found `the` great book at a library.
 
 ---
@@ -234,11 +234,11 @@ Fill in the gaps with 'a, an, the, - (zero)'.
 3. He is studying to become `a` doctor.  
 4. Have you seen `the` movie we talked about?  
 5. I need to buy `a` loaf of bread from the store.  
-6. He's going to `-` school to learn how to play `-` guitar. ❓ 
-7. We usually commute to work by `-` car.  ❓
+6. He's going to `-` school to learn how to play `the`[<sup>❓</sup>](# "Це ж не якась конкретна гітара, чому?") guitar.  
+7. We usually commute to work by `the`[<sup>❓</sup>](# "Чому не 'а'? Можна і на різних таксі добиратись кожного ранку, звідки можна зробити висновок що це власний автомобіль?") car.  
 8. `-` Women care about their families more than men.  
 9. There is `an` apple and `an` orange on `the` table.  
-10. She is going to `a` supermarket to buy groceries.  ❓
+10. She is going to `the`[<sup>❓</sup>](# "Чому не 'а'? Звідки відомо що це один і той же конкретний супермаркет?") supermarket to buy groceries.  
 
 
 
