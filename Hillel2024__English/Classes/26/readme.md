@@ -162,23 +162,9 @@ I work as cleaner in an office block.
 My wife and I have lived in United States for several years.  
 `My wife and I have lived in the United States for several years.`  
 
-
 ---
 
- Fill in the gaps with 'a, an, the, - (zero)'.
-
-She bought `__` new car yesterday. `__` car is beautiful.  
-We went to `the` Dnipro and had a picnic.  
-He is studying to become `an` doctor.  
-Have you seen movie we talked about?  
-I need to buy loaf of bread from the store.  
-He's going to school to learn how to play guitar.  
-We usually commute to work by car.  
-Women care about their families more than men.  
-There is  apple and orange on table.  
-She is going to  supermarket to buy groceries.  
-
-
+# ⚠ Unknown words
 
 | En | Ua | Path of speech | 
 |---|---|---|
@@ -196,5 +182,65 @@ She is going to  supermarket to buy groceries.
 | `turn out` </br> тёрн аут | виявлятися | phrasal verb |
 | `superlative` </br> суперлатів | найвищий ступінь (порівняння), найвищий показник | noun, adjective |
 | `a bit of` </br> е біт ов | трохи, невелика кількість | phrase |
+
+
+---
+
+# 📕 Home assignment 26
+
+## Task 1
+
+1. Did you remember to lock `the` kitchen door before we left?
+2. I shouldn't drink `-` coffee. It keeps me awake at night.
+3. Can you turn on `the` air conditioner? It's boiling in here!
+4. Jane is allergic to `-` cats. She starts sneezing when one comes hear her.  
+5. Eric and Charlotte are going away `-` next weekend.  
+6. Are these `the` keys you were looking for?  
+7. I wasn't feeling very well yesterday so I didn't go to `-` work.  
+8. `The` river that runs through Paris is called the Seine.  
+9. I'm seeing Katie tomorrow. We haven't seen each other since `-` last year.  
+10. It looks as if it's goin to rain. Take `an` umbrella!  
+11. Hurry up! You're going to be late for `-` school.  
+12. I have a friend who is `an` electrician. Do you want his phone number?
+13. It's cheaper to buy `-` books online then in store.  
+14. I don't like `-` people who talk about `-` sports all the time.  
+15. Luckily `the` people who work in my office don't talk about `-` sports at all.  
+16. My sister works in `a` restaurant. She gets home from `-` work late every evening.  
+17. What's your favorite meal of the day? `-` breakfast or `-` dinner?  
+18. That's `an` easy question. I think I know `the` answer.  ❓
+19. Audrey has two children. `A` boy and `a` girl. `The` boy's ten and `the` girl's two years younger.  
+20. `-` good health is more. important than `-` money.
+
+---
+
+## Task 2
+
+1. ❌ I saw `a` interesting movie last night.
+2. ✔ She has `the` best job in `the` world.  
+3. ✔ Can you pass me `an` apple, please?  
+4. ❌ I would love to visit `a` United Kingdom someday. 
+5. ❌ He is `a` honest man.  
+6. ✔ We stayed in `the` beautiful hotel near the beach.  ❓
+7. ❌ I found `the` great book at a library.
+
+---
+
+## Task 3
+
+Fill in the gaps with 'a, an, the, - (zero)'.
+
+1. She bought `a` new car yesterday. `the` car is beautiful.  
+2. We went to `the` Dnipro and had a picnic.  
+3. He is studying to become `a` doctor.  
+4. Have you seen `the` movie we talked about?  
+5. I need to buy `a` loaf of bread from the store.  
+6. He's going to `-` school to learn how to play `-` guitar. ❓ 
+7. We usually commute to work by `-` car.  ❓
+8. `-` Women care about their families more than men.  
+9. There is `an` apple and `an` orange on `the` table.  
+10. She is going to `a` supermarket to buy groceries.  ❓
+
+
+
 
 
