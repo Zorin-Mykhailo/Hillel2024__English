@@ -190,4 +190,86 @@ E). Just the simple ones, like confirming appointments and thanking people.
 Work in groups. Imagine you're organizing a party. Delegate the tasks using the structure "I want you to..." to your partners. Then share your plans with the group.  
 
 1). Order cake and sweets  
-2). 
+2). Make small gifts for guests  
+3). Decorate the place with balloons  
+4). Cerate a playlist  
+5). Send invitations  
+6). Plan the menu
+
+---
+
+# 📕 Home assignment 26
+
+*Fill in the gaps with missing words from the box in the correct tense. Some words can be used more than once. There are 3 SECRET WORDS in those dialogues that you need to guess. Send them in the chat once you figure them out.*  
+`reply`    `confirm`    `arrange`    `remind`    `research`    `organize`     
+
+A: Have you `replied` to the emails from everyone about the reunion?  
+B: Not yet, but I’ll do it today. I want to make sure we don’t miss anyone.  
+A: Great! Don’t forget to check if they've `confirmed` their attendance.  
+
+A: Can we `arrange` a meeting to plan the meetup properly?  
+B: Sure, how about tomorrow evening?  
+A: Perfect. I’ll send out a group <u>SECRET WORD</u> to let everyone know.  
+
+A: Can you `remind` me about my dentist appointment before we <u>SECRET WORD</u> the date?  
+B: Of course. When is it?  
+A: It’s on Thursday morning. I don’t want to overlap with the planning meeting.  
+
+A: We should `research` destinations for the party.  
+B: Do you think we should meet at the cafe, or should we pick a restaurant or a park?  
+A: Let’s explore a few options and decide at our next meeting.  
+ 
+
+A: Can you help me `organize` my schedule for the conference week?  
+B: Sure! Once we `confim` the final date, I’ll plan everything else <u>SECRET WORD</u> it.  
+A: That’s perfect. Let’s also confirm with the speakers to avoid last-minute surprises.  
+
+---
+
+## Task 2
+Correct the mistakes in the sentences. Correct answers are NOT given.
+
+1). I want you organize my schedule for the week.  
+> I want you to organize my schedule for the week.
+
+2). I want order you lunch for me.  
+> I want you to order lunch for me.
+
+3). Does you want me to answer all emails?  
+> Do you want me to answer all emails?
+
+4). I not want you to answer all of them, just the simple ones.  
+> I don’t want you to answer all of them, just the simple ones.
+
+5). I wants you to remind me about my upcoming trip to India  
+> I want you to remind me about my upcoming trip to India.
+
+6). I want we to meet on Wednesday.  
+> I want us to meet on Wednesday.
+
+7). Do you want I to call the doctor for you?  
+> Do you want me to call the doctor for you?
+
+8). I don’t want to you forget about the report deadline.  
+> I don’t want you to forget about the report deadline.
+
+9). He want I to buy him some bread.  
+> He wants me to buy him some bread.
+
+10). I doesn't want you to come today.  
+> I don’t want you to come today.
+
+---
+
+ Task 3.
+ There are wrong options in each sentence, don't click on them.  
+1). A lion is an independet animal.  
+2). We visited the Eiffel Tower during our holiday to Paris.  
+3). I Saw a taxi at the square.  
+4). The Nile is the longest river in the world.  
+5). Nick goes to college on foot.  
+6). In the moring, I like to have a cup of tea or coffee.  
+7). John works at Microsoft.  
+8). Jane loved to go to the concerts of the Beatles.  
+9). Can I have a pear from the fruit basket?  
+10). Air is essential for humanity.  
