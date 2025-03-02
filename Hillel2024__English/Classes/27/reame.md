@@ -261,8 +261,9 @@ Correct the mistakes in the sentences. Correct answers are NOT given.
 
 ---
 
- Task 3.
- There are wrong options in each sentence, don't click on them.  
+## Task 3.
+*There are wrong options in each sentence, don't click on them.*  
+
 1). A lion is an independet animal.  
 2). We visited the Eiffel Tower during our holiday to Paris.  
 3). I Saw a taxi at the square.  
