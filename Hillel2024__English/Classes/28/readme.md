@@ -5,10 +5,10 @@ Use "I wish" patterns correctly.
 *Complete the questions with missing words. Then discuss them.*
 
 1). Have you ever bought something that you thought was a /ˈrɪp ˌɒf/ `rip-off`? What was it, and how did you feel?  
-2). Can you think of a movie, book, or product that didn’t live up to the /haɪp/ `hype` ? Why not?  
+2). Can you think of[<sup>🌍</sup>](# "think of [θінк ов] — думати про, згадувати") a movie, book, or product that didn’t live up[<sup>🌍</sup>](# "live up [лів ап] — відповідати (очікуванням), жити згідно з") to the /haɪp/ `hype` ? Why not?  
 3). Have you ever done something and later thought, /ɪts nɒt ˈwɜːθ/ `It's not worth` it”? What happened?  
 4). Is being /ˈnəʊ.zi/ `nosy` always a bad thing? Why or why not?  
-5). What is something that you find a /ˈnjuː.səns/ `nuisance` in your daily life?  
+5). What is something that you find a /ˈnjuː.səns/ `nuisance`[<sup>🌍</sup>](# "nuisance [нюісенс] — неприємність, прикрість, набридлива людина або річ") in your daily life?  
 6). What kind of behavior really /ɡets ɒn jɔː(r) nɜːvz/ `gets on your nerves` ?  
 7). Do you think leaders today need to /kənˈfɜːm ðeə(r) ˈpaʊə(r)/ `confirm their power` in different ways? Why?  
 8). How often do you do /ˈbeɪ.sɪk ˈriː.sɜːtʃ/ `basic research` before buying something expensive?  
@@ -21,9 +21,22 @@ Use "I wish" patterns correctly.
 ![28_02_01](./img/28_02_01.png)
 
 - What are the people doing?
-- What things do you think contribute to the happiness or unhappiness of an individual person, a local community, a country?
+> - **A).** A woman is working late at night on the computer, possibly she is tired.  
+> - **B).** A woman is meditating outdoors.  
+> - **C).** A homeless person is sitting on the street with a sign and ask for the help.
 
-> *Example:* I think the main thing that makes us happy is family.
+- What things do you think contribute[<sup>🌍</sup>](# "contribute [контріб'ют] — робити внесок, сприяти") to the happiness or unhappiness of an individual person, a local community, a country?
+> **For an individual person:**  
+> - **Happiness**: Love and support from family, good health, financial stability, a sense of purpose, hobbies, and relaxation (like meditation).  
+> - **Unhappiness**: Loneliness, stress from work, financial problems, poor health, or homelessness.  
+>
+> **For a local community:**  
+> - **Happiness**: Safety, clean environment, opportunities for work and education, and support for those in need.  
+> - **Unhappiness**: High crime rates, poverty, lack of social services, and unemployment.  
+>
+> **For a country:**  
+> - **Happiness**: Economic stability, good healthcare and education, human rights, freedom, and low corruption.  
+> - **Unhappiness**: Political instability, economic crises, war, inequality, and lack of opportunities.  
 
 ---
 
@@ -82,16 +95,16 @@ Over recent years, it has often been argued that it would be better to measure a
 
 Similar questions are asked about the situation of the country in general and about how those interviewed see their own lives in the past, present and future. The poll also has a wide variety of other questions which explore people’s feelings about life. The questions not only ask about finance, but also cover mental and physical health, how strong people’s local community is, social experiences and people’s purpose in life.
 
-In explaining why they are unhappy with their lives, people do sometimes say they wish they had a higher income or that they could afford a car. However, more often the reasons are not to do with money: mostly people complain about the environment they live in, lack of time with family and friends or anxiety and depression. The results of the survey suggest that societies might be better dealing with these reasons for unhappiness rather than only trying to increase wealth and wages. The results may also explain why Costa Rica is much happier than richer countries like the US and Singapore.
+In explaining why they are unhappy with their lives, people do sometimes say they wish they had a higher income[<sup>🌍</sup>](# "income [інкам] — дохід, прибуток") or that they could afford[<sup>🌍</sup>](# "afford [афорд] — дозволити собі (фінансово чи в інший спосіб)") a car. However, more often the reasons are not to do with money: mostly people complain[<sup>🌍</sup>](# "complain [комплейн] — скаржитися, нарікати") about the environment they live in, lack of time with family and friends or anxiety[<sup>🌍</sup>](# "anxiety [енґзаєті] — тривога, неспокій") and depression. The results of the survey suggest that societies might be better dealing with these reasons for unhappiness rather than only trying to increase wealth[<sup>🌍</sup>](# "wealth [велθ] — багатство, достаток") and wages[<sup>🌍</sup>](# "wages [вейджиз] — заробітна плата (погодинна, денна або тижнева)"). The results may also explain why Costa Rica is much happier than richer countries like the US and Singapore.
 
 ---
 
 ### 4B 
 *Choose the best conclusion for the article.*
 
-a The government shouldn't try to increase wealth.
-b It's essential to improve people's environment and reduce working hours and stress levels.
-c Poorer people are usually happier than rich people.
+a). The government shouldn't try to increase wealth.  
+b). ✔ It's essential to improve people's environment and reduce working hours and stress levels.  
+c). Poorer people are usually happier than rich people.  
 
 ---
 
@@ -102,6 +115,7 @@ c Poorer people are usually happier than rich people.
 - Have you ever been in a poor country and had the same feeling that people there were much happier? Tell about it to your partner.
 
 ![28_04c_01](./img/28_04c_01.png)
+
 
 ---
 
@@ -155,11 +169,32 @@ There are common patterns after wish:
 
 ---
 
+# ⚠ Unknown words
+
+| En | Ua | Path of speech | 
+|---|---|---|
+| `think of` </br> θінк ов | думати про, згадувати | phrasal verb |
+| `live up` </br> лів ап | відповідати (очікуванням), жити згідно з | phrasal verb |
+| `nuisance` </br> нюісенс | неприємність, прикрість, набридлива людина або річ | noun |
+| `contribute` </br> контріб'ют | робити внесок, сприяти | verb |
+| `income` </br> інкам | дохід, прибуток | noun |
+| `afford` </br> афорд | дозволити собі (фінансово чи в інший спосіб) | verb |
+| `complain` </br> комплейн | скаржитися, нарікати | verb |
+| `anxiety` </br> енґзаєті | тривога, неспокій | noun |
+| `wealth` </br> велθ | багатство, достаток | noun |
+| `wage` </br> вейдж | заробітна плата (погодинна, денна або тижнева) | noun |
+| `regret` </br> ріґрет | жаль, прикрість; шкодувати | noun, verb |
+| `confidence` </br> конфіденс | впевненість, довіра | noun |
+
+
+---
+
+
 ### 5D
 
 > **I Wish...**  
 >   
-> This presentation will help you learn and practice the "I wish" pattern in English. You will be able to express your desires and regrets with confidence.  
+> This presentation will help you learn and practice the "I wish" pattern in English. You will be able to express your desires and regrets[<sup>🌍</sup>](# "regrets [ріґретс] — жалі, прикрощі") with confidence[<sup>🌍</sup>](# "confidence [конфіденс] — впевненість, довіра").  
 
 > **I wish I could...**  
 >   
@@ -220,12 +255,25 @@ There are common patterns after wish:
 *Complete the sentences.*  
 
 1). I wish I__________(unnecessary things)  
+> I wish I didn't buy unnecessary things.
+
 2). I wish he ___________ ( exercising regularly)  
+> I wish he started exercising regularly.  
+
 3). I wish I _____( afford that expensive concert)  
+> I wish I could afford that expensive concert.
+
 4). I wish she___________ (eat healthier)  
+> I wish she would eat healthier.
+
 5). I wish it______ (not rain so much)   
+> I wish it didn't rain so much.
+
 6). I wish I_______( spent more time)   
+> I wish I spent more time with my family.
+
 7). He wishes she_________ ( call)    
+> He wishes she would call him more often.
 
 ---
 
@@ -242,7 +290,13 @@ TOPICS:
 - English  
 - the government  
 
-> ...
+> I wish I had more free time at work.  
+> I wish I could afford to travel more.  
+> I wish we spent more time together.  
+> I wish there were more green spaces in my city.  
+> I wish people would stop polluting the environment. 
+> I wish I didn’t make so many grammar mistakes.  
+> I wish the government would improve healthcare and education.  
 
 ---
 
@@ -259,22 +313,22 @@ Happiness is not about having a perfect life but enjoying the moments we have. I
 
 
 1). Many people feel more relaxed due to their busy lives and screen time.   
-> ... 
+> false   
 
 2). Social media comparisons often make people feel successful and happy.  
-> ... 
+> false  
 
 3). Practicing mindfulness can help individuals enjoy simple pleasures.  
-> ... 
+> true 
 
 4). Spending time with friends and family can provide emotional support.  
-> ... 
+> true 
 
 5). Happiness is about having a perfect life without any challenges.  
-> ... 
+> false 
 
 6). People are encouraged to disconnect from their devices to enhance real-life experiences.  
-> ...
+> true
 
 ---
 
@@ -282,25 +336,25 @@ Happiness is not about having a perfect life but enjoying the moments we have. I
 Write the sentences based on the pictures. In each sentence use I wish patterns. 
 
 1). ![28_HA_02_01](./img/28_HA_02_01.png)
-> ...
+> I wish I could spend more time with my friends.  
 
 2). ![28_HA_02_02](./img/28_HA_02_02.png)
-> ...
+> I wish the buses weren’t so crowded during rush hour.
 
 3). ![28_HA_02_03](./img/28_HA_02_03.png)
-> ...
+> I wish I could remember all irregular verbs easily.  
 
 4). ![28_HA_02_04](./img/28_HA_02_04.png)
-> ...
+> I wish I had more time to enjoy nature.  
 
 5). ![28_HA_02_05](./img/28_HA_02_05.png)
-> ...
+> I wish I could try all the delicious ingredients on this plate.  
 
 6). ![28_HA_02_06](./img/28_HA_02_06.png)
-> ...
+> I wish people would drive more safely on highways.  
 
 7). ![28_HA_02_07](./img/28_HA_02_07.png)
-> ...
+> I wish people would stop throwing trash in the wrong bins.  
 
 ---
 
@@ -310,6 +364,13 @@ Write the sentences based on the pictures. In each sentence use I wish patterns.
 
 [The Quality of Life - What Matters To You](https://en.islcollective.com/english-esl-video-lessons/listening-comprehension/deep-listening-focus-on-meaning/the-quality-of-life-what-matters-to-you/337205)
 
+1). Schools, Clean air, Wealth[<sup>🌍</sup>](# "wealth [велθ] — багатство, достаток")  
+2). Good education  
+3). Health, education 
+4). Work life balance  
+5). true
+6). have no war and be able plan my future
+
 ### 3B
 *Sum up the main information in the video. Write a paragraph.*   
-> ...
+> The Better Life Index by OECD shows that people's priorities vary by region, age, and gender. Latin Americans value education, North Americans focus on life satisfaction, and Europeans prioritize health and the environment. Safety is key in Asia-Pacific, while Australians worry about work-life balance. Men prioritize income, women value community, and older people focus on health and civic engagement. The index helps governments create better policies based on people's needs.
