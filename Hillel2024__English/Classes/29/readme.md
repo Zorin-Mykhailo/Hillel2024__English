@@ -120,3 +120,10 @@ d). We often omit "that" in reported speech. *He said he'd call you.*
 | tomorrow-> | the following day |
 | next week/month-> | the next week/month;  the following week/month |
 | here-> | there |
+
+---
+
+## Task 3. Listening
+
+<iframe width="1687" height="779" src="https://www.youtube.com/embed/E8nfJsvC4cI" title="Reported Speech 1 - B1 - Context Listening" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
