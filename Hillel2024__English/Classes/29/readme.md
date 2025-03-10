@@ -124,6 +124,156 @@ d). We often omit "that" in reported speech. *He said he'd call you.*
 ---
 
 ## Task 3. Listening
+### Part 1. 
+*You are going to hear Nick telling his friend Will about what happened.*
 
-<iframe width="1687" height="779" src="https://www.youtube.com/embed/E8nfJsvC4cI" title="Reported Speech 1 - B1 - Context Listening" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Reported Speech 1 - B1 - Context Listening](https://youtu.be/E8nfJsvC4cI)
 
+recording 25
+
+> Hi, Will, it's Nick here.  
+> Hi.  
+> Hey, where were you on Friday night?  
+> I'm sorry I didn't meet you.  
+> That's why I'm ringing — I had an argument with my mum.  
+> What was it about?  
+> Well, I didn't have to go to college on Friday, so I asked a few friends around.  
+> I hadn't expected Mum to come home early, so when she arrived, she was really angry.  
+> Why?  
+> Oh, you know, because there were some dirty plates and a few saucepans.  
+> Why were you cooking?  
+> Yeah, we had some spaghetti.  
+> Anyway, she said I couldn't go out because I hadn't tidied the house and I hadn't washed up.  
+> That's so unfair!  
+> She said she was expecting visitors and that the house was dirty and untidy.  
+> Was it?  
+> Not really, but she said I had to stay at home.  
+> But I did feel a bit guilty, so I said I would wash up.  
+> Yeah, and what about the others?  
+> She said my friend should help too, but they disappeared by then. All that shouting frightened them, I think.  
+> So you washed up?  
+> Yeah.  
+> But she was still angry. She seems to forget all the things I do to help.  
+> So I said that I had washed the car the week before, but that seemed to make her angrier because I forgot that she'd paid me to do that.  
+> So what did she say then?  
+> She said she was going to keep my pocket money this week.  
+> No way! So I can't go out tonight either because I haven't got any money.  
+> I can lend you some.  
+> I'll see you at the bus stop at eight.  
+> Then, great.  
+> See you there.  
+
+
+Answer these questions.
+
+- How did Nick’s mother feel when she got home?  
+> Nick said that his mother had been really angry when she got home.  
+
+- What hadn’t Nick done?  
+> Nick mentioned that he hadn’t tidied the house or washed up.  
+
+- What did Nick offer to do?  
+> Nick explained that he would wash up.  
+
+- What had Nick’s mother paid him to do?  
+> Nick stated that his mother had paid him to wash the car.  
+
+- Why can’t Nick go out tonight?  
+> Nick reported that he couldn’t go out that night because his mother was keeping his pocket money, so he had no money.  
+
+- What does Will offer to do?  
+> Will said that he would lend him some money.  
+
+### Part 2. Listen again if necessary and fill in the gaps.
+ 
+
+1). She said I couldn’t go out because I `  ` tidied the house.  
+2). She said she visitors and the house `  ` dirty and untidy.  
+3). I said I `  ` wash up.  
+4). She said my friends `  ` help too.  
+5). I said I `  ` washed the car the week before.  
+6). She said she `  ` going to keep my pocket money.  
+
+---
+
+## Task 4. Practice
+*Rewrite the sentences in reported speech (Imagine that the speakers were talking to you)*  
+
+1). 'I'll call you when I get back this evening,' said Maisy.  
+> _  
+
+2). 'I might disable data roaming when I go abroad next week', said Joel.  
+> _  
+
+3). 'Kelly had never had a real friend', said Max.  
+> _  
+
+4). 'I haven't topped up my mobile since last month', said Freddy  
+> _  
+
+5). 'You mustn't let your battery run out', said my mum.  
+> _  
+
+6). 'Liam saved your number to his phone book', said Sally.  
+> _  
+
+7). 'This time next week I'll be flying to Prague',said Tom.  
+> _  
+
+---
+
+## Task 5.
+Listen and say what he/she said
+
+[7 Listen and say what he/she said.](https://wordwall.net/resource/65798279/7-listen-and-say-what-he-she-said)
+
+---
+
+## Task 6. Speaking and writing
+### Part 1. 
+*Write the answers to these questions.*
+
+1). Where did you go last summer?  
+> I went to...  
+
+2). What are you doing this evening?    
+> _
+
+3). Can you write with both hands?  
+> _
+
+4). Could you walk before you could talk?  
+> _
+
+5). What are you going to do at the weekend?  
+> _
+
+6). Have you been to Italy?  
+> _
+
+7). What time do you usually get to work?  
+> _
+
+
+Part 2. Work in pairs. Ask the questions above,  note your partner's answers and report the answers to the class.
+
+> _
+
+---
+
+## Task 7. Self-study at home
+*Watch the following video about reporting questions and answer the questions:*  
+
+- Do we change the word order in a reported question? If yes, how? (Yes/No and WH questions)  
+- Do we need a question mark at the end of a reported question?  
+- Should the tense of the question stay the same in reported speech?  
+- What word can we use to introduce a reported question?  
+
+[Reported Speech 5- Reporting questions](https://youtu.be/g2C7-nLkZ8I)
+
+---
+
+# 📕 Home assignment 29
+
+### Task 1
+Drag and drop. Send the screenshot of the finished task to your teacher
