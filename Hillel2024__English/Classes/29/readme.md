@@ -1,4 +1,4 @@
-﻿# Class 29. What did you say?
+﻿# 📗 Class 29. What did you say?
 *Use reported speech correctly.*
 
 ## Review of classes 1-5
@@ -187,12 +187,12 @@ Answer these questions.
 ### Part 2. Listen again if necessary and fill in the gaps.
  
 
-1). She said I couldn’t go out because I `  ` tidied the house.  
-2). She said she visitors and the house `  ` dirty and untidy.  
-3). I said I `  ` wash up.  
-4). She said my friends `  ` help too.  
-5). I said I `  ` washed the car the week before.  
-6). She said she `  ` going to keep my pocket money.  
+1). She said I couldn’t go out because I ` hadn't ` tidied the house.  
+2). She said she ` was expecting ` visitors and the house ` was ` dirty and untidy.  
+3). I said I ` would ` wash up.  
+4). She said my friends ` should ` help too.  
+5). I said I ` had ` washed the car the week before.  
+6). She said she ` was ` going to keep my pocket money.  
 
 ---
 
@@ -200,25 +200,25 @@ Answer these questions.
 *Rewrite the sentences in reported speech (Imagine that the speakers were talking to you)*  
 
 1). 'I'll call you when I get back this evening,' said Maisy.  
-> _  
+> Maisy said she would call me when she got back that evening.  
 
 2). 'I might disable data roaming when I go abroad next week', said Joel.  
-> _  
+> Joel said he might disable data roaming when he went abroad the following week.  
 
 3). 'Kelly had never had a real friend', said Max.  
-> _  
+> Max said Kelly had never had a real friend.  
 
 4). 'I haven't topped up my mobile since last month', said Freddy  
-> _  
+> Freddy said he hadn't topped up his mobile since the previous month.
 
 5). 'You mustn't let your battery run out', said my mum.  
-> _  
+> My mum said I mustn't let my battery run out.
 
 6). 'Liam saved your number to his phone book', said Sally.  
-> _  
+>  Sally said Liam had saved my number to his phone book. 
 
 7). 'This time next week I'll be flying to Prague',said Tom.  
-> _  
+> Tom said that time the following week he would be flying to Prague.    
 
 ---
 
@@ -226,6 +226,19 @@ Answer these questions.
 Listen and say what he/she said
 
 [7 Listen and say what he/she said.](https://wordwall.net/resource/65798279/7-listen-and-say-what-he-she-said)
+
+1). I'm going to meet my sister.    
+2). The people are really friendly.  
+3). I'm thinking about volantiering.  
+4). I could play the piano.  
+5). I'm not waiting for you.  
+6). My dad isn't English.  
+7). She doesn't like me.  
+8). I have the new tablet.  
+9). James is my closest friend.  
+10). I don't like tomatoes.  
+11). I see the campside.  
+12). I don't have a costume.  
 
 ---
 
@@ -271,9 +284,100 @@ Part 2. Work in pairs. Ask the questions above,  note your partner's answers and
 
 [Reported Speech 5- Reporting questions](https://youtu.be/g2C7-nLkZ8I)
 
+Reported speech
+
+Reporting questions
+
+Types of questions
+
+H/W questions
+> What is your name?  
+> How are you?  
+> Where do you live?  
+> When will you come?  
+
+Yes/No questions
+
+> Are you ok?  
+> Do you love me?  
+> Hame you seen hte movie?  
+
+Reporting H/W questions
+
+`Direct question` He asked: "How are you?"  
+`Indirect question` He asked me how I was.  
+
+`Direct question` He said: "Wjere dp you live?"  
+`Indirect question` He asked me where I lived.  
+
+`Direct question` He said: "When did you call?"  
+`Indirect question` He asked me When I had called.  
+
+Reporting Y/N questions
+
+`Direct question` He said: "Are you ok?"  
+`Indirect question` He asked me if I was ok.  
+
+`Direct question` He said: "Do you love me?"  
+`Indirect question` He asked me whether I loved him.  
+
+`Direct question` He said: "Will you marry me?"  
+`Indirect question` He asked me if I would marry him.  
+
 ---
 
 # 📕 Home assignment 29
 
-### Task 1
-Drag and drop. Send the screenshot of the finished task to your teacher іва
+## Task 1
+*Drag and drop. Send the screenshot of the finished task to your teacher*
+
+[ Repoted Speech (necessary changes)](https://wordwall.net/resource/54820859/repoted-speech-necessary-changes)
+
+![HA29_01_01](./img/HA29_01_01.png)
+
+## Task 2.
+*Correct the mistakes.*
+
+1. `Jake said me that` → Jake told me that `he loved watching thrillers`.
+2. `She told her friend` → She asked her friend `can you lend me some money` → if she could lend her some money.   
+3. `The assistant said that` `the patient must take the pills three times` → the patient had to take the pills three times a day.  
+4. `The manager said that` `they will start the meeting in five minutes` → they would start the meeting in five minutes.  
+5. `He said that` `he is going to finish the project` → he was going to finish the project `yesterday` → the day before  
+6. `The teacher said students` → The teacher told the students that `the exam results would be announced` `the following week`  
+7. `He said that` `he can't finish the task on time` → he couldn't finish the task on time.  
+8. `Mrs Jenkins said that` `the exam will be easy` → the exam would be easy   
+9. `My daughter asked me` `when the bus will arrive` → when the bus would arrive   
+10. `The detective asked` `if I have seen the robbery` → if I had seen the robbery   
+
+---
+
+## Task 3
+*Find 7 famous quotes from films. Report them. Make sure you don't include question forms.*  
+*Example*: Terminator said,"I'll be back" → Terminator said it would be back.
+
+1). "May the Force be with you." (Star Wars)  
+→ They said that the Force should be with me.  
+
+2). "There's no place like home." (The Wizard of Oz)  
+→ Dorothy said that there was no place like home.  
+
+3). "I'm the king of the world!" (Titanic)  
+→ Jack said that he was the king of the world.  
+
+4). "Life is like a box of chocolates." (Forrest Gump)  
+→ Forrest Gump said that life was like a box of chocolates.  
+
+5). "Houston, we have a problem." (Apollo 13)  
+→ They said that they had a problem.  
+
+6). "With great power comes great responsibility." (Spider-Man)  
+→ Uncle Ben said that with great power came great responsibility.  
+
+7). "You can't handle the truth!" (A Few Good Men)  
+→ He said that I couldn’t handle the truth.  
+
+---
+
+## Task 4. Extra practice 
+
+[Reported Speech](https://wordwall.net/uk/resource/3503792/reported-speech)
