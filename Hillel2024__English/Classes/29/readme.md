@@ -276,4 +276,4 @@ Part 2. Work in pairs. Ask the questions above,  note your partner's answers and
 # 📕 Home assignment 29
 
 ### Task 1
-Drag and drop. Send the screenshot of the finished task to your teacher
+Drag and drop. Send the screenshot of the finished task to your teacher іва
