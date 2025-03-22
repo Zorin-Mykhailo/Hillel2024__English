@@ -279,3 +279,29 @@ Offer to:
 ## Task 3. Video
 
 [Offering Help](https://en.islcollective.com/english-esl-video-lessons/grammar-practice/general-grammar-practice/offering-help/434552)
+
+1).  Can I help you, sir?  
+
+2). Could you do me a favor and take this.
+
+3). Sure? (maybe) take all the time you need, sir.
+
+4). I heed your help, Dom.
+
+5). I could help you cross the street
+
+6). I'm doing fine.
+
+7). Please help me get back on London.
+
+8). You help me get a new car, a real car, and i will win the race and get you back your medal.
+
+9). Do you mind giving me a hand with this floor?
+
+10). Ralph, can II help you?
+
+11). Will you help us?
+
+12) Plaza hotel reservations may I help you?
+
+13). Can you do the job?
