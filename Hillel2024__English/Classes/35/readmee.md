@@ -213,3 +213,53 @@ If Steve Jobs hadn’t started Apple in 1976 with Steve Wozniak, the tech world 
 | 1ST CONDITIONAL | Real/possible situations | If + `present simple` + `will` |
 | 2ND CONDITIONAL | Imagined (unrealistic) present | If + `past simple` + `would` | 
 | 3 rd CONDITIONAL | Unreal situations about the past | If + `past perfect` + `would have + past participle` |
+
+## Task 2
+Underline the correct options. 
+
+1). If you `had been invited` `✔️ had invited` her to the party, she `would has` `✔️ would have` come.  
+2). We `wouldn’t have lost` `✔️ wouldn’t have got lost` if you `would downloaded` `✔️ had downloaded` the map.   
+3). The teacher `could had` `✔️ could have helped` you if you `have asked` `✔️ had asked` him for help.  
+4). If our car `✔️ hadn’t broken` `wouldn’t broken down` , we `✔️ wouldn’t have been` `hadn’t been` late.  
+5). I’d `given` `✔️ give` Olia the money if she’d `ask` `✔️ asked` me.  
+6). If my mom `✔️ hadn’t studied` `wouldn’t have studied` at Lviv University, she  `wouldn't met` `✔️ wouldn't have met` my dad.  
+7). We `✔️ would have had` `had had`  a picnic if the weather `'d have been` `✔️ had been`  nice.  
+8). If I `✔️ ‘d come` `would've come` earlier,  I `✔️ would’ve caught` `‘d caught` the train.  
+9). We would `✔️ have enjoyed` `had enjoyed` the concert more if we `would have been` `✔️ had been closer` to the stage.  
+10). Jake `had called` `✔️ would have called` you if he `didn't lose` `✔️ hadn’t lost` your number.  
+
+---
+
+## Task 3. Love story. Part 1
+*Read the story below and complete it with past simple or past continuous.*  
+
+**Love Story**   
+Once there 1 `was` (be) a pretty woman.  
+She 2 `was wearing` (wear) beautiful clothes.  
+One day she 3 `spoke` (speak) to a handsome man, they `fell` 4 (fall) in love.  
+He 5 `fave` (give) her flowers, they 6 `ate` (eat) together in restaurants.  
+But the man didn’t have a car, so the woman 7 `was not` (not be) happy.  
+So one day he 8 `stole` (steal) a car and 9 `drove` (drive) to her house.   
+She 10 `was riding` (ride) to the cinema in his car, but the car 11 `broke` (break) down.   
+Then police arrested the man and 12 `took` (take) him to prison.  
+She 13 `wrote` (write) letters to him.  
+But one day she 14 `fell` (fall) in love with another man.  
+So she loved two men.  
+But she 15 `chose` (choose) the other man who had a lot of money and 16 `forgot` (forget) about the man in prison.  
+
+---
+
+## Task 3. Love story. Part 2
+*Create as many 3rd conditional sentences as possible based on the story.*  
+*Example: If the woman hadn't been pretty, the man wouldn't have spoken to her.*   
+
+> 1). If the man hadn’t spoken to the woman, they wouldn’t have fallen in love.  
+> 2). If the man had had a car, he wouldn’t have needed to steal one.  
+> 3). If the man hadn’t stolen the car, the police wouldn’t have arrested him.  
+> 4). If the car hadn’t broken down, the police might not have found them.  
+> 5). If the man hadn’t gone to prison, the woman might not have fallen in love with another man.  
+> 6). If the woman hadn’t met the rich man, she wouldn’t have forgotten about the man in prison.  
+> 7). If the woman had been happy without a car, the man wouldn’t have stolen one.  
+> 8). If the man hadn’t given her flowers and taken her to restaurants, she might not have liked him.  
+> 9). If the woman had waited longer, the man might have been released from prison.  
+> 10). If the woman hadn’t chosen the rich man, she might have stayed loyal to the first man.  
