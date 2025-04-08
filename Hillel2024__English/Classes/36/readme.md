@@ -100,3 +100,6 @@ eccentric[<sup>🌐</sup>](# "eccentric [ексентрік] — дивакув�
 
 ---
 
+## Task 4. Reading and grammar (modals of deduction: present)
+## 4A Reading vocabulary
+*Study the vocabulary from the text you're going to read.*  
