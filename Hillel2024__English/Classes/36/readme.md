@@ -3,7 +3,7 @@
 
 ## Review of conditionals
 > [!NOTE]  
-> Sort out the sentences and translate them into English.  
+> *Sort out the sentences and translate them into English.*  
 
 `If ... Past Simple - would + infinitive (without to) `  
 Якби Джон був тут, він би знав, що робити.  
@@ -20,7 +20,7 @@
 
 ## Task 1. Video and discussion
 > [!NOTE]  
-> Watch the video [here](https://www.tiktok.com/@groovy.smoothy/video/7250499642012552475?_r=1&_t=8k7oV2EKxoz) and discuss the questions.  
+> *Watch the video [here](https://www.tiktok.com/@groovy.smoothy/video/7250499642012552475?_r=1&_t=8k7oV2EKxoz) and discuss the questions.*  
 
 Do you like detective shows?
 What are your ravourite detective shows?
@@ -32,7 +32,7 @@ What makes detective good?
 ## Task 2. Vocabulary
 ### 2A Traits a detective needs
 > [!NOTE]  
-> Discuss with your partner whether these traits[<sup>🌐</sup>](# "trait [трет] — риса, особливість 🌐 Honesty and kindness are important personality traits. 🛠️ noun") are important for the detective.
+> *Discuss with your partner whether these traits[<sup>🌐</sup>](# "trait [трет] — риса, особливість 🌐 Honesty and kindness are important personality traits. 🛠️ noun") are important for the detective.*
 
 ![0196120f-83df-7060-8805-956c99b1dc48](./img/0196120f-83df-7060-8805-956c99b1dc48.png)
 
@@ -49,7 +49,7 @@ eccentric[<sup>🌐</sup>](# "eccentric [ексентрік] — дивакув�
 
 ### 2B Cards
 > [!NOTE]  
-> Look at the definition of the following words and name them.  
+> *Look at the definition of the following words and name them.*  
 
 1). pays a lot of attention to things and notices more about them than most people do. `observant`  
 2). the ability to think, understand quickly `clever` `intelligent`  
@@ -70,13 +70,13 @@ eccentric[<sup>🌐</sup>](# "eccentric [ексентрік] — дивакув�
 
 ### 2С Discuss
 > [!NOTE]  
-> Discuss with your partner what 5 traits should a good detective have. Why? 
+> *Discuss with your partner what 5 traits should a good detective have. Why?* 
 
 ---
 
 ## 2D Quiz
 > [!NOTE]  
-> Discuss the questions in  the quiz . Compare your answers with your partner. 
+> *Discuss the questions in  the quiz . Compare your answers with your partner.* 
 
 1). Do you often find yourself noticing small details that others might miss? `Not sure`  
 2). How would you describe you problem-solving skills? `I am intelligent`  
@@ -89,7 +89,7 @@ eccentric[<sup>🌐</sup>](# "eccentric [ексентрік] — дивакув�
 
 ## Task 3. Detectives around the world
 > [!NOTE]  
-> Read the info below ans answer the questions.  
+> *Read the info below ans answer the questions.*  
 
 **Detectives around the world**
 
@@ -110,7 +110,7 @@ eccentric[<sup>🌐</sup>](# "eccentric [ексентрік] — дивакув�
 ## Task 4. Reading and grammar (modals of deduction: present)
 ## 4A Reading vocabulary
 > [!NOTE]  
-> Study the vocabulary from the text you're going to read.  
+> *Study the vocabulary from the text you're going to read.*  
 
 ![01961c49-32a2-7359-afb0-3f1d94465ad5](./img/01961c49-32a2-7359-afb0-3f1d94465ad5.png)  
 haunted[<sup>🌐</sup>](# "haunt [хонтід] — населений привидами, переслідуваний 🌐 They say the old castle is haunted by ghosts. 🛠️ adjective") house  
@@ -131,7 +131,7 @@ locked chest[<sup>🌐</sup>](# "chest [чест] — скриня, груди �
 
 ### 4B
 > [!NOTE]  
-> Read the text about  detective Harper and pay attention to underlined words. 
+> *Read the text about  detective Harper and pay attention to underlined words.* 
 
 **STORY TIME**
 
@@ -151,5 +151,5 @@ As she pieced together the fragments of the past, Detective Harper realized that
 
 ### 4C Rules. Modals of deduction in the present
 > [!NOTE]  
-> Read the rules and choose the correct option.  
+> *Read the rules and choose the correct option.*  
 
