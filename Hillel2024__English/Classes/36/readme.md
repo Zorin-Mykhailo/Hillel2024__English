@@ -171,3 +171,31 @@ c). We use `can't` when we feel <ins>sure</ins> that something is <ins>not possi
 > *It can't be far now. We've been driving for hours.*  
 > *She can't know about the complaint. She's promoted him to team leader.*  
 
+---
+
+### 4E
+> [!NOTE]  
+> *Look at the pictures and write sentences describing them.*  
+> ***Example:*** *It must be a girl on the picture.*  
+
+1). ![01961c7f-39d8-7afb-8b9a-423852108856](./img/01961c7f-39d8-7afb-8b9a-423852108856.png)  
+> It must be a woman or girl but it can't be a child.
+
+2). ![01961c81-7cae-72c2-884f-e3241b17e7c3](./img/01961c81-7cae-72c2-884f-e3241b17e7c3.png)  
+> It must be the moon.
+
+3). ![01961c81-b890-74ff-8ac7-ee619f5a0706](./img/01961c81-b890-74ff-8ac7-ee619f5a0706.png)  
+> It might be a toy horse.
+
+4). ![01961c82-1b14-7241-af2e-c156ac860692](./img/01961c82-1b14-7241-af2e-c156ac860692.png)  
+> It must be a temple in Asia.
+
+5). ![01961c82-892f-7d19-a3a3-6f0c8ada02de](./img/01961c82-892f-7d19-a3a3-6f0c8ada02de.png)  
+> It could be her first time using this mask.
+
+6). ![01961c83-0bc3-7fea-8413-06fe41ba8694](./img/01961c83-0bc3-7fea-8413-06fe41ba8694.png)  
+> It must be an axolotl.
+
+7). ![01961c83-6268-78c6-9a5e-4c976d0aa493](./img/01961c83-6268-78c6-9a5e-4c976d0aa493.png)  
+> It might be their vacation.  
+
