@@ -2,7 +2,8 @@
 *Solve crimes using modals of deduction.* 
 
 ## Review of conditionals
-*Sort out the sentences and translate them into English.*  
+> [!NOTE]  
+> Sort out the sentences and translate them into English.  
 
 `If ... Past Simple - would + infinitive (without to) `  
 Якби Джон був тут, він би знав, що робити.  
@@ -18,7 +19,8 @@
 ---
 
 ## Task 1. Video and discussion
-*Watch the video [here](https://www.tiktok.com/@groovy.smoothy/video/7250499642012552475?_r=1&_t=8k7oV2EKxoz) and discuss the questions.*  
+> [!NOTE]  
+> Watch the video [here](https://www.tiktok.com/@groovy.smoothy/video/7250499642012552475?_r=1&_t=8k7oV2EKxoz) and discuss the questions.  
 
 Do you like detective shows?
 What are your ravourite detective shows?
@@ -29,7 +31,8 @@ What makes detective good?
 
 ## Task 2. Vocabulary
 ### 2A Traits a detective needs
-Discuss with your partner whether these traits[<sup>🌐</sup>](# "trait [трет] — риса, особливість 🌐 Honesty and kindness are important personality traits. 🛠️ noun") are important for the detective.
+> [!NOTE]  
+> Discuss with your partner whether these traits[<sup>🌐</sup>](# "trait [трет] — риса, особливість 🌐 Honesty and kindness are important personality traits. 🛠️ noun") are important for the detective.
 
 ![0196120f-83df-7060-8805-956c99b1dc48](./img/0196120f-83df-7060-8805-956c99b1dc48.png)
 
@@ -45,7 +48,8 @@ eccentric[<sup>🌐</sup>](# "eccentric [ексентрік] — дивакув�
 ---
 
 ### 2B Cards
-*Look at the definition of the following words and name them.*
+> [!NOTE]  
+> Look at the definition of the following words and name them.  
 
 1). pays a lot of attention to things and notices more about them than most people do. `observant`  
 2). the ability to think, understand quickly `clever` `intelligent`  
@@ -65,12 +69,14 @@ eccentric[<sup>🌐</sup>](# "eccentric [ексентрік] — дивакув�
 ---
 
 ### 2С Discuss
-*Discuss with your partner what 5 traits should a good detective have. Why?* 
+> [!NOTE]  
+> Discuss with your partner what 5 traits should a good detective have. Why? 
 
 ---
 
 ## 2D Quiz
-*Discuss the questions in  the quiz . Compare your answers with your partner.* 
+> [!NOTE]  
+> Discuss the questions in  the quiz . Compare your answers with your partner. 
 
 1). Do you often find yourself noticing small details that others might miss? `Not sure`  
 2). How would you describe you problem-solving skills? `I am intelligent`  
@@ -82,7 +88,8 @@ eccentric[<sup>🌐</sup>](# "eccentric [ексентрік] — дивакув�
 ---
 
 ## Task 3. Detectives around the world
-*Read the info below ans answer the questions.*  
+> [!NOTE]  
+> Read the info below ans answer the questions.  
 
 **Detectives around the world**
 
@@ -102,4 +109,47 @@ eccentric[<sup>🌐</sup>](# "eccentric [ексентрік] — дивакув�
 
 ## Task 4. Reading and grammar (modals of deduction: present)
 ## 4A Reading vocabulary
-*Study the vocabulary from the text you're going to read.*  
+> [!NOTE]  
+> Study the vocabulary from the text you're going to read.  
+
+![01961c49-32a2-7359-afb0-3f1d94465ad5](./img/01961c49-32a2-7359-afb0-3f1d94465ad5.png)  
+haunted[<sup>🌐</sup>](# "haunt [хонтід] — населений привидами, переслідуваний 🌐 They say the old castle is haunted by ghosts. 🛠️ adjective") house  
+
+![01961c4a-9458-7811-8b9e-cc31883fe658](./img/01961c4a-9458-7811-8b9e-cc31883fe658.png)  
+dimly[<sup>🌐</sup>](# "dimly [дімлі] — тьмяно, слабо 🌐 The room was dimly lit by a single candle. 🛠️ adverb") lit[<sup>🌐</sup>](# "light [літ] — освітлений, запалений 🌐 The hallway was lit by small ceiling lights. 🛠️ adjective (past participle of 'light')")  
+
+![01961c4b-5af5-78b3-9713-c44e2f5e5b73](./img/01961c4b-5af5-78b3-9713-c44e2f5e5b73.png)  
+secret passage[<sup>🌐</sup>](# "passage [пасідж] — прохід, уривок, коридор 🌐 The narrow passage led to a hidden room. 🛠️ noun")
+
+![01961c4c-0bbf-7824-9389-82a40918a49e](./img/01961c4c-0bbf-7824-9389-82a40918a49e.png)  
+faded[<sup>🌐</sup>](# "fade [фейдед] — вицвілий, зниклий 🌐 The colors of the old photo had faded over time. 🛠️ adjective (past participle of 'fade')") photograph  
+
+![01961c4c-e0f5-7952-9bd8-677491c8c63a](./img/01961c4c-e0f5-7952-9bd8-677491c8c63a.png)  
+locked chest[<sup>🌐</sup>](# "chest [чест] — скриня, груди 🌐 He opened the wooden chest to reveal the treasure. 🛠️ noun")
+
+---
+
+### 4B
+> [!NOTE]  
+> Read the text about  detective Harper and pay attention to underlined words. 
+
+**STORY TIME**
+
+Late at night, Detective Harper found herself standing in front of the old mansion that had long been rumored[<sup>🌐</sup>](# "rumor [румерд] — за чутками, пліткували 🌐 The house is rumored to be haunted. 🛠️ adjective (past participle of 'rumor')") to be haunted[<sup>🌐</sup>](# "haunt [хонтід] — населений привидами, переслідуваний 🌐 They say the old mansion is haunted by spirits. 🛠️ adjective"). As she cautiously entered the dimly lit foyer, strange sounds echoed through the house.  
+
+"This place <ins>must</ins> have a history filled with secrets." She felt an uneasy presence, and her instincts told her that something significant <ins>must</ins> have happened here.  
+
+As she explored further, Detective Harper stumbled[<sup>🌐</sup>](# "stumble [стамблд] — спіткнувся, натрапив 🌐 He stumbled on a rock while walking in the dark. 🛠️ verb (past tense of 'stumble')") upon[<sup>🌐</sup>](# "upon [апон] — на, після, з моменту 🌐 Upon entering the room, she felt a sudden chill. 🛠️ preposition") a hidden door concealed[<sup>🌐</sup>](# "conceal [консі́лд] — прихований, замаскований 🌐 The door was concealed behind a curtain. 🛠️ adjective (past participle of 'conceal')") behind a bookshelf. "This <ins>may</ins> lead to the heart of the mystery." With a deep breath, she pushed the door open, revealing a secret passage that seemed to wind its way beneath the mansion.  
+
+In the underground chambers, she discovered old journals and faded photographs. Clues that hinted at a hidden treasure or a long-lost family secret. Detective Harper knew she <ins>might</ins> be on the brink of uncovering a story that had been buried for decades.  
+
+In the dim light, she found a locked chest that can hold the key to the mansion's enigma. "This <ins>must</ins> be the final piece of the puzzle," she thought. With a sense of anticipation, Detective Harper opened that chest, revealing[<sup>🌐</sup>](# "reveal [ріві́лінг] — викривальний, що показує; відвертий 🌐 Her expression was quite revealing of her true feelings. 🛠️ adjective") a collection of letters that revealed a tale of love, betrayal, and a fortune lost to time.  
+
+As she pieced together the fragments of the past, Detective Harper realized that this mansion, which once seemed haunted, was actually haunted by the weight of its own secrets. The mysteries hidden within its walls unfolded[<sup>🌐</sup>](# "unfold [анфо́лдед] — розгорнувся, відкрився 🌐 A surprising story unfolded before our eyes. 🛠️ verb (past tense of 'unfold')") like a carefully crafted story, and she knew she had uncovered a truth that <ins>might</ins> change the way the world saw this mysterious place forever.
+
+---
+
+### 4C Rules. Modals of deduction in the present
+> [!NOTE]  
+> Read the rules and choose the correct option.  
+
