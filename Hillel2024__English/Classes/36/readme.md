@@ -199,3 +199,82 @@ c). We use `can't` when we feel <ins>sure</ins> that something is <ins>not possi
 7). ![01961c83-6268-78c6-9a5e-4c976d0aa493](./img/01961c83-6268-78c6-9a5e-4c976d0aa493.png)  
 > It might be their vacation.  
 
+---
+
+## Task 5. Speaking
+> [!NOTE]  
+> *You are going to read 3 crime scenarious. Discuss with your partner who commited[<sup>🌐</sup>](# "committed [комі́тед] — відданий; скоїв (щось) 🌐 He committed a serious mistake. 🛠️ adjective, verb (past tense of 'commit')") each crime. Why? Use modals of deduction: can't, might, must, may*  
+
+The Missing Phone
+
+Last night, during a birthday party at a friend's house, Emma's phone went missing. She had placed it on the kitchen table while she helped set up the decorations. When the party was in full swing, Emma realized her phone was gone. Three people were near the table around that time: Lucy, who was taking photos for Instagram; Jake, who was seen holding a similar phone earlier; and Mia, who quickly left the kitchen to answer a call. Who took Emma’s phone?
+
+The Broken Window
+
+On Saturday afternoon, a neighbor called the police to report a broken window at Mrs. Brown’s house. When Mrs. Brown arrived home, she found the window smashed and a soccer ball inside her living room. Outside, three children were playing: Alex, who said he was playing far from the house; Ben, who admitted he kicked the ball hard but claimed it wasn’t him; and Clara, who quickly left when the police arrived. Who broke the window?
+
+The Missing necklace[<sup>🌐</sup>](# "necklace [не́клес] — намисто, підвіска 🌐 She wore a beautiful gold necklace around her neck. 🛠️ noun")
+
+During a family dinner at a fancy[<sup>🌐</sup>](# "fancy [фе́нсі] — модний, вишуканий; уява, уявляти 🌐 She wore a fancy dress to the party. 🛠️ adjective, noun, verb") restaurant, Aunt Clara noticed that her diamond necklace was missing. She remembered wearing it when they arrived, but it disappeared sometime during the evening. Three people were near her table: the waiter, who was very attentive and kept coming back to check on the table; her cousin Ella, who complimented the necklace earlier and asked to try it on; and her little nephew Tommy, who was playing under the table. Who took the necklace?
+
+---
+
+# 📕 Home assignment 36  
+## Task 1
+> [!NOTE]  
+> *Read the text and complete the gaps.*   
+
+`observant`   `arrogant`   `peculiar`   `aware of details`    `clever`   `proud`   `tricky`   `blunt`   `inventive`   `eccentric`
+
+1). He has always been very `inventive`; his ideas for solving problems are amazing.  
+2). Don’t trust him so easily; he can be quite `tricky` when he wants something.  
+3). The artist is known for her `peculiar` style of painting, which no one else has.  
+4). Sarah can be too `blunt` at times—she says exactly what she thinks without considering others' feelings.  
+5). Jane is very `observant`; she notices every little change in her surroundings.  
+6). He’s a little strange, but I find his `eccentric` personality really fascinating.  
+7). The professor seemed too `arrogant` to admit he was wrong during the debate.  
+8). Jack felt `proud` of his daughter when she won the science competition.  
+9). Tom is a `clever` child; he learns things much faster than his classmates.  
+10). The detective's success was due to being extremely `aware of details` of small but important details.  
+
+---
+
+## Task 2
+> [!NOTE]  
+> *Describe each picture using modals of deduction.*  
+
+1). ![01961c9e-67e7-716d-8df8-9dd5b05e0673](./img/01961c9e-67e7-716d-8df8-9dd5b05e0673.png)  
+> They must be hot.  
+
+2). ![01961c9e-a92e-7afe-8ab5-9474aa2d0835](./img/01961c9e-a92e-7afe-8ab5-9474aa2d0835.png)  
+> She must be really hungry.  
+
+3). ![01961c9f-0674-72f7-8937-fb4933664ac3](./img/01961c9f-0674-72f7-8937-fb4933664ac3.png)  
+> She might not realize how serious it is.  
+
+4). ![01961c9f-c74f-7296-9f3c-202de39e98aa.png](./img/01961c9f-c74f-7296-9f3c-202de39e98aa.png)  
+> The bride might be scared, but she hides it well.  
+
+5). ![01961ca1-857d-7a5f-a4f9-2ffb604d056b.png](./img/01961ca1-857d-7a5f-a4f9-2ffb604d056b.png)  
+> It can’t be a wild jungle.  
+
+6). ![01961ca0-6166-7ff1-a33d-a56aab7584b8.png](./img/01961ca0-6166-7ff1-a33d-a56aab7584b8.png)  
+> She must be Chuck Norris’s daughter.    
+
+7). ![01961ca1-df81-792b-92f4-13c079831e60.png](./img/01961ca1-df81-792b-92f4-13c079831e60.png)  
+> They might be trying not to laugh.  
+
+---
+
+## Task 3
+>[!NOTE]  
+> *Complete the sentences using modals of deduction: might, must, could*  
+
+1). You should pick up the phone. It `might` be an important call.  
+2). He `must` know the answer, he's the best in the class.  
+3). You `must` be right, but it's better if we check.  
+4). He `might` be at the library; he often studies there in the evening.  
+5). You must call her immediately; she `could` be waiting for your response.  
+6). They `must` be in the house; their car is still parked outside.  
+7). She `might` not agree with the plan, but we should discuss it with her.  
+8). It `must` be raining; I hear the sound of water on the roof.  
