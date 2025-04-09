@@ -153,3 +153,21 @@ As she pieced together the fragments of the past, Detective Harper realized that
 > [!NOTE]  
 > *Read the rules and choose the correct option.*  
 
+**Modals of Deduction in the present**  
+We can use modal verbs for deduction – guessing if something is true using the available information. The modal verb we choose shows **how certain** we are about the possibility.  
+
+a).  We use `must` when we feel <ins>sure</ins> that something is true or it's the only realistic possibility.
+
+> *This must be her house. I can see her car in the garage.*  
+> *He must live near here because he always walks to work.*  
+
+b). We use `might`, `may` or `could` to say that we think something is <ins>possible</ins> but we're not sure. 
+
+> *She's not here yet. She might be stuck in traffic.*  
+> *He's not answering. He could be in class.*
+
+c). We use `can't` when we feel <ins>sure</ins> that something is <ins>not possible</ins>.
+
+> *It can't be far now. We've been driving for hours.*  
+> *She can't know about the complaint. She's promoted him to team leader.*  
+
