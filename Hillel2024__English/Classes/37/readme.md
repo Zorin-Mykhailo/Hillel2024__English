@@ -119,3 +119,8 @@ VOCABULARY:
 `c` to mean the world to someone  
 
 ---
+
+## Task 5. Lexical note
+> [!NOTE]  
+> *Check out the vocabulary on each card and answer the questions.* 
+
