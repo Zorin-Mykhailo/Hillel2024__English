@@ -124,3 +124,35 @@ VOCABULARY:
 > [!NOTE]  
 > *Check out the vocabulary on each card and answer the questions.* 
 
+1). 
+> `drift apart`  
+> • Have you ever drifted apart with any of your friends? What were the reasons?  
+> • Do you think you can reconnect with a person after you've drifted apart?  
+
+2). 
+> `make exuses`  
+> • What excuses would you make of you were late for a birthday party? For work?  
+> • Have you evver made wild excuses? (people find them difficult to believe)
+
+3).
+> `to be on my mind`  
+> • What's been on your mind recently?  
+> • Is there something on your mind right now that's distraction you?  
+> • How do you clear your head when too much is on your mind? 
+
+4). 
+
+> `to mean the world to someone` (Look at those sentences. Can you relate to them?)  
+> • You mean the world to me, and I can't imagine my life without you.  
+> • Her support during though times, has meant the world to me.  
+> • That gift may seem small, but it means the world to him.  
+
+---
+
+## Task 6. Practice
+> [!NOTE]  
+> *Complete the sentences with the words from Task 4.*  
+
+`Reach out`   `back`   `beyond my means`   `means a lot to me`   `a shot`   `tough`   `on my mind`   `drifting apart`   `my guest`   `it coming`   `mess`
+
+1. Right now, everything feels like a total
