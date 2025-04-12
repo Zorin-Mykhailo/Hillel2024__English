@@ -155,4 +155,145 @@ VOCABULARY:
 
 `Reach out`   `back`   `beyond my means`   `means a lot to me`   `a shot`   `tough`   `on my mind`   `drifting apart`   `my guest`   `it coming`   `mess`
 
-1. Right now, everything feels like a total
+1). Right now, everything feels like a total `mess`, but together we can find solutions.  
+2). I've realized that I've been living `beyond my means`, and it's causing me financial stress.  
+3). `Reach out` to me anytime for support. I'm here for you.  
+4). If there's something you want to try, give it `a shot`!  
+5). I didn't see `it coming`, but I know we'll find a way through.  
+6). It feels like we've been `drifting apart` recently, but our friendship means a lot to me.  
+7). Your friendship `means a lot to me` to me. You're an important part of my life.  
+8). I want you to know that I have your `back`, my friend.  
+9). If you have a different perspective or solution, be `my guest` and share it with me. (sarcastic)  
+10). You've been `on my mind` a lot lately, and I want you to know that I'm here to support you through this `tough` patch.  
+
+---
+
+## Task 7. Sorting
+
+> [!NOTE]  
+> *Put the phrases  in the boxes.*  
+
+| Express emotion | Give advice | Express sympathy and support |
+| --- | --- | --- |
+| `to mean the world to someone` | `be my guest` | `to have someone's back` |
+| `a total mess` | `to give it a shot` | `to reach out` |
+| `I didn't see it coming` | |  |
+| `to go through a really tough path` |  |  |
+
+---
+
+## Task 8. Speaking
+
+> [!NOTE]  
+> *Complete the dialogues using the instructions and your own ideas.*  
+
+ 
+
+> `Your friend` I'm struggling with my studies.  
+> `You ` express sympathy and support  
+> `Your friend` express your emotions  
+> `You` give advice  
+
+ 
+
+> `Your friend` I'm so stressed with all these exams.  
+> `You ` ask how your friend feels  
+> `Your friend` express your emotions  
+> `You` express sympathy and support  
+
+ 
+
+> `Your friend` I've just broken up with my boyfriend...  
+> `You ` express sympathy and support  
+
+ 
+
+> `Your friend` I've just lost my job.  
+> `You ` give advice  
+ 
+
+> `Your friend` I'm dealing with a health issue.  
+> `You ` ask how your friend feels  
+> `Your friend` express your emotions  
+
+---
+
+## Task 9. Role-plays
+
+> [!NOTE]  
+> *Role-play the dialogues in pairs. Keep them going for as long as you can.*  
+
+**Situation 1**  
+`Student A` you're missing your family  
+`Student B` support your friend and give them advice  
+
+ 
+
+**Situation 2**  
+`Student A` you're struggling with work-life balance  
+`Student B` support your friend and give them advice    
+
+---
+
+# Home assignment 
+## Task 1
+
+> [!NOTE]  
+> *Rewrite the sentences below using the given vocabulary phrase so the meaning stays the same. You might need to change verb tenses in some sentences.*  
+
+1). She has been thinking about the presentation all day. (be on my mind)  
+> The presentation has been on her mind all day.  
+
+2). He worked extremely hard to finish his project on time. (work your ass off)  
+> He worked his ass off to finish his project on time.  
+
+3). The opportunity to visit Paris was very special to her. (mean the world to someone)  
+> The opportunity to visit Paris meant the world to her.  
+
+4). She allows me to use her laptop whenever I need it. (be my guest)  
+> Whenever I need to use her laptop, she just says, "Be my guest."  
+
+5). The salesperson was too aggressive, so I didn't buy anything. (pushy)  
+> The salesperson was too pushy, so I didn't buy anything.  
+
+6). My life was so disorganized in 2024. (a total mess)  
+> My life was a total mess in 2024.  
+
+7). She wasn't sure if she’d like dancing, but she decided to try. (give it a shot)  
+> She wasn't sure if she’d like dancing, but she decided to give it a shot.  
+
+---
+
+## Task 2
+
+> [!NOTE]  
+> *Complete the sentences with appropriate phrases.*  
+
+
+1). You've been `working your ass off` all week, so you deserve a break this weekend.  
+2). My dog `means the world` to me; I can't imagine life without her.  
+3). I need to decide on the decorations for the party—they've been `on my mind` all day.  
+4). He wasn't sure he could solve the problem, but he decided to `give it a shot`    
+5). "Can I sit here?" "Sure, `be my guest`!"  
+6). The salesperson was so `pushy` that I decided not to buy anything from the store.  
+7). After the party, the house was `a total mess`, and it took hours to clean up.  
+
+---
+
+## Task 3. Writing
+
+> [!NOTE]  
+> *Write a short paragraph (100–120 words) about a memorable situation in your life using at least four of the following phrases:*  
+> • Mean the world to someone  
+> • Be on my mind  
+> • Have someone's back  
+> • Work your ass off  
+> • I didn't see it coming  
+>
+> "Describe a time when you worked hard on something or supported someone important to you"  
+>
+> ***Example***: Last year, I worked my ass off to prepare a surprise party for my best friend. It meant the world to her when she saw how much effort I put into making her day special.....
+
+ 
+
+> Last summer, my friends and I went on a hiking trip that turned out to be way harder than we expected. I didn’t see it coming — we got lost in the forest for hours! One of my friends started panicking, but I stayed calm and tried to lift everyone’s mood. I had everyone’s back, handing out snacks and making jokes while we searched for a signal. The trail map had been on my mind the entire time — I kept imagining we’d walked in circles. When we finally found our way back, the relief on everyone’s faces meant the world to me. It felt like all the effort and blisters were worth it.
