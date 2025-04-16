@@ -78,6 +78,7 @@ frustration[<sup>🌐</sup>](# "frustration [фрастре́йшн] — роз�
 > But what matters is how we express it. We shouldn’t hurt others, but we can use anger to understand what’s wrong and try to fix it.  
 
 ## Task 3. OOPS
+
 > [!NOTE]  
 > *Task 1. Study the following phrases. Use Urban Dictionary  (https://www.urbandictionary.com) to find out their meaning.*  
 
@@ -107,10 +108,78 @@ SHIT! WHAT IS THAT?
 > ***Example:*** *That horror movie scared the shit out of me!*  
 > ***Polite Alternative:*** *I was terrified.*  
   
-> `don’t give a shit`[<sup>🌐</sup>](# "don’t give a shit [доунт ґів е шит] — байдуже, абсолютно не хвилює 🌐 I don’t give a shit what they think. 🛠️ idiom (informal, vulgar)")  
+> `don't give a shit`[<sup>🌐</sup>](# "don’t give a shit [доунт ґів е шит] — байдуже, абсолютно не хвилює 🌐 I don’t give a shit what they think. 🛠️ idiom (informal, vulgar)")  
 > ***Example:*** *I don’t give a shit about what they think*  
 > ***Polite Alternative:*** *I don't care.* 
  
 > `take no shit`[<sup>🌐</sup>](# "take no shit [тейк ноу шит] — не терпіти знущань чи неповаги, не дозволяти себе принижувати 🌐 She’s strong and takes no shit from anyone. 🛠️ idiom (informal, vulgar)")  
 > ***Example:*** *She takes no shit from anyone at work.*  
 > ***Polite Alternative:*** *She doesn't tolerate such behavior.*   
+
+---
+
+> [!NOTE]  
+> Task 2. Write at least 1 sentence with each phrase above. 
+ 
+> • Come on, man, get your shit together — the exam is tomorrow!  
+> • She totally knows her shit when it comes to coding — I always ask her for help.  
+> • I forgot my lines during the play, but shit happens.  
+> • We’re gonna be in deep shit if we miss this deadline.  
+> • This new video game is the shit — I’ve been playing it for hours.  
+> • That thunderstorm last night scared the shit out of me!  
+> • He doesn't give a shit about what anyone says — he just does his thing.  
+> • My sister takes no shit from anyone — she always stands up for herself.  
+
+---
+
+## Task 4. Lexical note
+Study the cards and discuss the questions/do the tasks.
+
+1).  
+> **Get your shit together**  
+> *Come up with the replies:*  
+> 
+> Alan: Yo, I failed the last 2 exams.  
+> `Man, you really need to get your shit together before the finals.`  
+> 
+> Luke: My boss wants to fire me, my wife wants to leave me, and my house is in complete despair! What do I do?!  
+> `Dude, seriously — get your shit together before you lose everything.`  
+
+2).  
+> **Know your shit**  
+> 
+> • What synonyms do you know to this phrase?  
+> `Be an expert`, `Be good at something`, `Be competent`, `Be a pro`  
+> 
+> • What person can you describe as someone who knows his/her shit?  
+> `My colleague Julia really knows her shit when it comes to graphic design.`  
+> 
+> • Can you describe yourself as well-educated, skilled person? What skills do you posses?  
+> `Yes, I think I can say that I know my shit when it comes to software development.` 
+
+3).  
+> **Shit happens**  
+> Think of the words that can fit the gaps.  
+> 
+> • Things to `go wrong` sometimes  
+> • Life `happens`  
+> • `Bad` luck  
+
+4).
+> **Scare the shit out of (someone)**  
+> Discuss:  
+>  
+> • What's the last thing that scared the shit out of you?  
+> • Have you ever **jumped out of your skin[<sup>🌐</sup>](# "jump out of one's skin [джампт аут ов ёр скін] — сильно злякатися, підскочити від страху 🌐 I jumped out of my skin when the balloon popped. 🛠️ idiom")** because of a scary situation?  
+> • Do you enjoy situations that **give you a good scare[<sup>🌐</sup>](# "give (someone) a good scare [ґів ю е гуд скер] — добре налякати когось 🌐 That horror movie gave me a good scare. 🛠️ idiom")**, like horror films or roller coasters[<sup>🌐</sup>](# "roller coaster [ро́улер ко́устерз] — американські гірки 🌐 I love riding roller coasters at the amusement park. 🛠️ noun (plural)")? 
+
+5).  
+**don't give a shit**
+Discuss:  
+• What's something that you really don't give a shit about, but others seem to care a lot about?  
+• Do you think **ignoring** other people's opinions can be a good thing?  
+
+---
+
+## Task 5. Shit 
+
