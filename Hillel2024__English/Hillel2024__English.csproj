@@ -21,6 +21,7 @@
     <Folder Include="Classes\35\audio\" />
     <Folder Include="Classes\35\img\" />
     <Folder Include="Classes\36\img\" />
+    <Folder Include="Classes\38\img\01\" />
   </ItemGroup>
 
   <ItemGroup>
