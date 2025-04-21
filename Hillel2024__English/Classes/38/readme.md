@@ -183,18 +183,126 @@ Discuss:
 
 ## Task 5. Shit 
 
-...
+SHIT
+What can each letter in the word mean?
+
+[Nicolas Cage Reveals A Secret Code for Swearing | History of Swear Words](https://youtu.be/QDXPAr7LxPs)
+
+Sugar, honey, ice tea.
 
 ## Task 6. Speaking
 
 Complete the beginning of the story with your ideas. Use the vocabulary from the class. 
 
-> • At a party, Tom was amazed at how much Sarah knew about ancient history. He commented …  
+> • At a party, Tom was amazed[<sup>🌐</sup>](# "amaze [амейзд] — вражений, здивований 🌐 I was amazed by the beauty of the sunset. 🛠️ adjective (past participle)") at how much Sarah knew about ancient history. He commented …  
 > `"Wow, you really know your shit! I didn’t expect someone to be so into Roman architecture."`  
-> • After a tough breakup, Mark was feeling down. His sister comforted him, saying …  
-> • `"I know it hurts, but shit happens. You’ll be okay — just take some time for yourself."`  
+>  
+> • After a tough breakup[<sup>🌐</sup>](# "tough breakup [таф брейкап] — важке розлучення, важкий розрив стосунків 🌐 He went through a tough breakup last year. 🛠️ noun phrase"), Mark was feeling down[<sup>🌐</sup>](# "feel down [фі́лінґ даун] — почуватись пригніченим, сумним 🌐 She's been feeling down since the argument. 🛠️ phrasal verb"). His sister comforted[<sup>🌐</sup>](# "comfort [комфертед] — заспокоєний, утішений 🌐 Her kind words comforted him after the loss. 🛠️ verb (past tense)") him, saying …  
+> `"I know it hurts, but shit happens. You’ll be okay — just take some time for yourself."`  
+>  
 > • After missing several deadlines at work, Mike knew he was in deep trouble. He told his colleague…  
 > `"Man, I’m in deep shit. If I don’t fix this report by tonight, I might actually get fired."`  
-> • During a meeting, tensions rose because of Paul's constant need to argue. A colleague whispered…  
+>  
+> • During a meeting, tensions[<sup>🌐</sup>](# "tension [те́ншнз] — напруження, напруга (особливо у відносинах) 🌐 Tensions were high during the meeting. 🛠️ noun (plural)") rose because of Paul's constant need to argue. A colleague whispered…  
+> `"Ugh, Paul again... He always acts like he knows his shit, but he just loves the sound of his own voice."`  
+>  
 > • Trying a new dish at a restaurant, Amy exclaimed…  
+> `"This curry[<sup>🌐</sup>](# "curry [ка́рі] — карі (пряна страва з овочів або м’яса) 🌐 I made a spicy chicken curry for dinner. 🛠️ noun") is the shit! Seriously, best I’ve ever had."`  
+>  
 > • Emily was always losing her keys and important papers. Her friend advised her…  
+> `"Girl, you really need to get your shit together. Try using a planner or something!"`
+
+---
+
+##  Task 7. Agree or disagree
+> [!NOTE]  
+> *Tick the right answer and compare it with your partner.*   
+
+| Sentence | Agree | Disagree |
+| --- | --- | --- |
+| Swearing[<sup>🌐</sup>](# "swear [све́рінґ] — лайка, вживання нецензурної лексики 🌐 Swearing is not allowed in the classroom. 🛠️ noun") can be a natural and  effective way to release emotions | Agree |  |  
+| Swearing when you're upset can sometimes make a situation worse | Agree |  |  
+| yelling[<sup>🌐</sup>](# "yell [йе́лінґ] — крик, волання 🌐 Stop yelling — I can hear you just fine. 🛠️ noun / verb (present participle)") at someone is not a good way to handle[<sup>🌐</sup>](# "handle [ге́ндл] — справлятися, керувати 🌐 He knows how to handle difficult situations. 🛠️ verb") your anger | Agree |  |  
+| It's important to apologize if you've said something hurtful | Agree |  |  
+| Using polite language even when you are angry shows respect for others | Agree |  |  
+| People who swear often have smaller vocabularies | Agree |  |  
+| Every culture has similar swear words |  | Disagree |  
+| Swearing can be a sign of intelligence |  | Disagree |  
+| Children swear to seem older than they are | Agree |  |  
+
+---
+
+# 📕 Home assignment 38
+
+## Task 1
+> [!NOTE]  
+> *Match each phrases with its polite alternative.*
+
+> 1). Get your shit together  
+> d). Focus and get organized  
+
+> 2). Know your shit  
+> f). to be an expert  
+
+> 3). Shit happens   
+> b). Sometimes, things just don’t go as planned  
+
+> 4). Be in deep shit   
+> h).    in serious trouble  
+
+> 5). The shit   
+> e).  amazing  
+
+> 8). Take no shit  
+> c).  She doesn't tolerate such behaviour  
+
+> 6). Scare the shit out of (someone)  
+> g).  to be terrified  
+
+> 7). Don’t give a shit  
+> a). I don't care  
+
+---
+
+## Task 2. Translate
+> [!NOTE]  
+> *Translate into English. Use functional language from lesson 37. Use the words in brackets.* 
+
+> Я вирішив спробувати щось нове, тому записався на уроки гітари. (shot)  
+> I decided to give it a shot, so I signed up for guitar lessons.  
+
+> Вона завжди поруч і підтримує мене, коли я проходжу через складний період у житті. (back)  
+> She's always there and has my back when I’m going through a tough patch in life.  
+
+> Мій будинок після переїзду був у повному безладі — речі були всюди! (mess)  
+> My place was a total mess after the move — stuff was everywhere!  
+
+> Останнім часом ми з другом стали менше спілкуватися і трохи віддалилися один від одного. (drift)  
+> Lately, my friend and I have been talking less and have drifted apart a bit.   
+
+> Не хвилюйся про те, щоб зателефонувати їй, просто зв’яжися з нею і поясни ситуацію. (reach)  
+> Don’t stress about calling her — just reach out and explain the situation.  
+
+> Він витрачає більше, ніж може собі дозволити, і завжди знаходить виправдання для своїх боргів. (beyond)  
+> He lives beyond his means and always finds excuses for his debts.  
+
+> Вона багато думає про свою майбутню кар'єру останнім часом. (mind)  
+> Her future career has been on her mind a lot lately.  
+
+---
+
+##  Task 3
+> [!NOTE]
+> *Complete the missing irregular verbs.*  
+
+shut | shut | shut  
+smell | smelt | smelt   
+draw | drew | drawn  
+fall | fell | fallen  
+sing | sang | sung  
+mean | meant | meant  
+shine | shone | shone  
+spill | spilt | spilt   
+throw | threw | thrown  
+come | came | come  
+hold | held | held  
