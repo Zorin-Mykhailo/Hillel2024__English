@@ -295,14 +295,16 @@ Complete the beginning of the story with your ideas. Use the vocabulary from the
 > [!NOTE]
 > *Complete the missing irregular verbs.*  
 
-shut | shut | shut  
-smell | smelt | smelt   
-draw | drew | drawn  
-fall | fell | fallen  
-sing | sang | sung  
-mean | meant | meant  
-shine | shone | shone  
-spill | spilt | spilt   
-throw | threw | thrown  
-come | came | come  
-hold | held | held  
+| V1 | V2 | V3 |
+|---|---|---|
+| `shut` | shut | `shut` |  
+| smell | `smelt` | `smelt`  |  
+| `draw` | `drew` | drawn |  
+| fall | `fell` | `fallen` |  
+| `sing` | sang | `sung` |  
+| mean | `meant` | `meant` |  
+| `shine` | `shone` | shone |  
+| spill | `spilt` | `spilt`  |  
+| `throw` | `threw` | thrown |  
+| come | `came` | `come` |  
+| `hold` | held | `held` |  
