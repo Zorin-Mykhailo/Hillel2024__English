@@ -22,6 +22,8 @@
     <Folder Include="Classes\35\img\" />
     <Folder Include="Classes\36\img\" />
     <Folder Include="Classes\38\img\01\" />
+    <Folder Include="Classes\39\img\04\" />
+    <Folder Include="Classes\39\img\_01\" />
     <Folder Include="Classes\39\img\01\" />
   </ItemGroup>
 
