@@ -183,3 +183,63 @@ Watch the video [here](https://drive.google.com/file/d/1sR40FWUsO9u6SpmXIdwmBYZZ
 >  
 > — What's your name?  
 > — Taylor  
+> — Where are you from?  
+> — California  
+> — How long have you been in NYC?  
+> — 6 months  
+> — Why are you in NYC?  
+> — School  
+> — Do you like it?  
+> — No  
+> — Why not?  
+> — It's boring  
+> — Are you going to change it?  
+> — I don't think so  
+> — It's a good major  
+> — Living in NYC  
+> — How much do you spend every month on every thing  
+> — 5_000
+> — How do you spend it?  
+> — Rent is $3_500, 1_500 for food  
+> — Do you save at all?  
+> — Yes, I put $100 every week into saving account  
+> — What are you going to do with your savings?  
+> — I'm not sure yet  
+> — right now you just want to save, then later decide what to do with it?  
+> — Yes. I'll open up a couple of investment accounts  
+>  
+> — What's your name?  
+> — Olivia  
+> — Where are you from?  
+> — New York  
+> — How long have you been in NYC?  
+> — 4 years  
+> — How do you like it?  
+> — I love it  
+> — I would never live anywhere else  
+> — Living in NYC, how much do you spend every month on every thing?  
+> — Last month I spent 11_000
+> — How did you spend it?  
+> — I shop a lot. Shopping, gym, pilates.  
+> — Rent?  
+> — Yes
+> — What's your job?  
+> — Influencer  
+>  
+> — What's your name?  
+> — Dylan  
+> — Where are you from?  
+> — New Jersey  
+> — Well, New York  
+> — NJ or NY?  
+> — New York  
+> — How long have you been in NYC?  
+> — 7 years  
+> — And how do you like it?  
+> — I love it
+> — How much do you spend every month in NYC?  
+> — 4_000
+> — How do you spend it?  
+> — Rent, Groceries, dinner, drinks, electric bill, Wi-Fi, Phone bill and every thing else
+> — What's your job?  
+> — Dancer  
