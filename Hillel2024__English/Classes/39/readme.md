@@ -243,3 +243,68 @@ Watch the video [here](https://drive.google.com/file/d/1sR40FWUsO9u6SpmXIdwmBYZZ
 > — Rent, Groceries, dinner, drinks, electric bill, Wi-Fi, Phone bill and every thing else
 > — What's your job?  
 > — Dancer  
+
+---
+
+## Task 5
+> [!NOTE]  
+> *Choose the best option. Then watch the video to check your answer.* 
+
+1). How much do you `__` on everything?  
+a). save  
+b). `spend`  
+c). lend  
+
+2). I like to walk, so not too many `__`.  
+a). `ubers`  
+b). taxis  
+c). bolts  
+
+3). I `__` $100 every single week `__` my savings.  
+a). take / into  
+b). bring / to  
+c). `put / into`  
+
+4). Last month I spent `__` $11_000.  
+a). `a little over`  
+b). a bit over  
+c). much more than  
+
+5). ...four thousand, 4 `__`, at least.  
+a). hundred  
+b). `grand`  
+c). grannies
+
+---
+
+## Task 6
+> [!NOTE]  
+> *Discuss the questions in pairs.*
+
+1. Which speaker surprised you? Why?
+
+2. Do you have similar or different expenses compared to the speakers?
+
+3. Do you buy a lot of things every month?
+
+4. Do you eat at restaurants a lot? How much money do you spend on eating out?
+
+---
+
+## Task 7 Your dream budget
+> [!NOTE] 
+> *Break down your (dream) budget and write it down.*  
+> *Then share your monthly budget with your partner.*  
+> *How similar are your spending?*  
+> *Use the template and your own ideas.*  
+
+> [!IMPORTANT]  
+> BREAK DOWN  
+> 1). To break down something such as an idea or statement means to separate it into smaller parts in order to make it easier to understand  
+> *These rules tell us how a sentence is broken down into phrases*  
+>  
+> 2). If someone breaks down, they lose control of themselves and start crying  
+> *The young woman broke down in tears.*  
+>  
+> 3). If a machine or a vehicle breaks down, it stops working.  
+> *Their car broke down.*  
