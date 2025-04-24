@@ -308,3 +308,51 @@ c). grannies
 >  
 > 3). If a machine or a vehicle breaks down, it stops working.  
 > *Their car broke down.*  
+
+
+| Fixed Expenses | Amount |
+|---|---:|
+| Rent/mortgage[<sup>🌐</sup>](# "mortgage [мо́рґідж] — іпотека, кредит на житло 🌐 They applied for a mortgage to buy their first home. 🛠️ noun") | |
+| utilities[<sup>🌐</sup>](# "utility [юті́літіз] — комунальні послуги 🌐 We pay for utilities like water, gas, and electricity every month. 🛠️ noun (plural)") | |
+| Internet/Cable | |
+| Phone Bill | |
+| Others | |
+| **Total Fixed Expenses** | |
+
+| Variable Expenses | Amount |
+|---|---:|
+| groceries[<sup>🌐</sup>](# "grocery [ґро́усеріз] — продукти, продукти харчування 🌐 I need to buy some groceries for the week. 🛠️ noun (plural)") | |
+| Dining Out[<sup>🌐</sup>](# "dine out [да́йнінґ аут] — харчування поза домом, їсти в закладах 🌐 We enjoy dining out at new restaurants on weekends. 🛠️ verb phrase") | |
+| Transportation | |
+| entertainment[<sup>🌐</sup>](# "entertainment [ентертеймент] — розваги, дозвілля 🌐 Movies and concerts are forms of entertainment. 🛠️ noun") | |
+| leisure[<sup>🌐</sup>](# "leisure [лі́жер] — дозвілля, вільний час 🌐 I read books in my leisure time. 🛠️ noun") | |
+| Miscellaneous | |
+| **Total Variable Expenses** | |
+
+---
+
+# 📕 Home assignment 39
+
+## Task 1
+> [!NOTE] 
+> *Match the words to their definitions.*
+
+1). overspend[<sup>🌐</sup>](# "overspend [оуверспе́нд] — витрачати понад міру, перевитрачати 🌐 If you overspend, you might run out of money before payday. 🛠️ verb")  
+2). Budget for  
+3). set aside[<sup>🌐</sup>](# "set aside [сет еса́йд] — відкладати, резервувати 🌐 Try to set aside some money for emergencies. 🛠️ phrasal verb")  
+4). Investment account  
+5). Mortgage  
+6). Pay for  
+7). pay off[<sup>🌐</sup>](# "pay off [пей оф] — повністю виплатити, розплатитися 🌐 She finally paid off her student loan. 🛠️ phrasal verb")  
+8). open up[<sup>🌐</sup>](# "open up [о́упен ап] — відкриватися (емоційно), починати говорити відверто 🌐 He finally opened up about his feelings. 🛠️ phrasal verb")  
+9). afford[<sup>🌐</sup>](# "afford [ефо́рд] — дозволити собі (фінансово чи емоційно) 🌐 I can’t afford to buy a new car right now. 🛠️ verb")  
+
+a). To completely settle[<sup>🌐</sup>](# "settle [се́тл] — улагоджувати, врегульовувати; оселятися 🌐 They finally settled their differences. 🛠️ verb") a debt[<sup>🌐</sup>](# "debt [дет] — борг 🌐 He worked hard to pay off his debt. 🛠️ noun") or loan[<sup>🌐</sup>](# "loan [лоун] — позика, кредит 🌐 She took out a loan to buy a car. 🛠️ noun"). It can also mean something that produces a positive result after effort[<sup>🌐</sup>](# "effort [е́ферт] — зусилля, старання 🌐 She put a lot of effort into preparing for the exam. 🛠️ noun")  
+b). To save money for a specific purpose  
+c). A savings account where your money can grow over time  
+d). A loan you take to buy a house or property  
+e). To have enough money or resources to pay for something or manage a situation  
+f). To give money in exchange for a product, service, or expense  
+g). To start or establish something, such as an account, business, or opportunity  
+h). To create a financial plan for something.  
+i). To spend more money than you planned  
