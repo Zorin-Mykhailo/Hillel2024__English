@@ -334,25 +334,80 @@ c). grannies
 # 📕 Home assignment 39
 
 ## Task 1
-> [!NOTE] 
+> [!NOTE]  
 > *Match the words to their definitions.*
 
-1). overspend[<sup>🌐</sup>](# "overspend [оуверспе́нд] — витрачати понад міру, перевитрачати 🌐 If you overspend, you might run out of money before payday. 🛠️ verb")  
-2). Budget for  
-3). set aside[<sup>🌐</sup>](# "set aside [сет еса́йд] — відкладати, резервувати 🌐 Try to set aside some money for emergencies. 🛠️ phrasal verb")  
-4). Investment account  
-5). Mortgage  
-6). Pay for  
-7). pay off[<sup>🌐</sup>](# "pay off [пей оф] — повністю виплатити, розплатитися 🌐 She finally paid off her student loan. 🛠️ phrasal verb")  
-8). open up[<sup>🌐</sup>](# "open up [о́упен ап] — відкриватися (емоційно), починати говорити відверто 🌐 He finally opened up about his feelings. 🛠️ phrasal verb")  
-9). afford[<sup>🌐</sup>](# "afford [ефо́рд] — дозволити собі (фінансово чи емоційно) 🌐 I can’t afford to buy a new car right now. 🛠️ verb")  
+> 1). overspend[<sup>🌐</sup>](# "overspend [оуверспе́нд] — витрачати понад міру, перевитрачати 🌐 If you overspend, you might run out of money before payday. 🛠️ verb")  
+> i). To spend more money than you planned  
 
-a). To completely settle[<sup>🌐</sup>](# "settle [се́тл] — улагоджувати, врегульовувати; оселятися 🌐 They finally settled their differences. 🛠️ verb") a debt[<sup>🌐</sup>](# "debt [дет] — борг 🌐 He worked hard to pay off his debt. 🛠️ noun") or loan[<sup>🌐</sup>](# "loan [лоун] — позика, кредит 🌐 She took out a loan to buy a car. 🛠️ noun"). It can also mean something that produces a positive result after effort[<sup>🌐</sup>](# "effort [е́ферт] — зусилля, старання 🌐 She put a lot of effort into preparing for the exam. 🛠️ noun")  
-b). To save money for a specific purpose  
-c). A savings account where your money can grow over time  
-d). A loan you take to buy a house or property  
-e). To have enough money or resources to pay for something or manage a situation  
-f). To give money in exchange for a product, service, or expense  
-g). To start or establish something, such as an account, business, or opportunity  
-h). To create a financial plan for something.  
-i). To spend more money than you planned  
+> 4). Investment account  
+> c). A savings account where your money can grow over time  
+
+> 5). Mortgage  
+> d). A loan you take to buy a house or property  
+
+> 7). pay off[<sup>🌐</sup>](# "pay off [пей оф] — повністю виплатити, розплатитися 🌐 She finally paid off her student loan. 🛠️ phrasal verb")  
+> a). To completely settle[<sup>🌐</sup>](# "settle [се́тл] — улагоджувати, врегульовувати; оселятися 🌐 They finally settled their differences. 🛠️ verb") a debt[<sup>🌐</sup>](# "debt [дет] — борг 🌐 He worked hard to pay off his debt. 🛠️ noun") or loan[<sup>🌐</sup>](# "loan [лоун] — позика, кредит 🌐 She took out a loan to buy a car. 🛠️ noun"). It can also mean something that produces a positive result after effort[<sup>🌐</sup>](# "effort [е́ферт] — зусилля, старання 🌐 She put a lot of effort into preparing for the exam. 🛠️ noun")  
+
+> 9). afford[<sup>🌐</sup>](# "afford [ефо́рд] — дозволити собі (фінансово чи емоційно) 🌐 I can’t afford to buy a new car right now. 🛠️ verb")  
+> e). To have enough money or resources to pay for something or manage a situation  
+
+> 6). Pay for  
+> f). To give money in exchange for a product, service, or expense[<sup>🌐</sup>](# "expense [ікспе́нс] — витрата, видаток 🌐 Rent is my biggest monthly expense. 🛠️ noun")  
+
+> 8). open up[<sup>🌐</sup>](# "open up [о́упен ап] — відкриватися (емоційно), починати говорити відверто 🌐 He finally opened up about his feelings. 🛠️ phrasal verb")  
+> g). To start or establish[<sup>🌐</sup>](# "establish [есте́бліш] — встановлювати, засновувати 🌐 The company was established in 1990. 🛠️ verb") something, such as an account, business, or opportunity  
+
+> 3). set aside[<sup>🌐</sup>](# "set aside [сет еса́йд] — відкладати, резервувати 🌐 Try to set aside some money for emergencies. 🛠️ phrasal verb")  
+> b). To save money for a specific purpose  
+
+> 2). Budget for  
+> h). To create a financial plan for something.  
+
+---
+
+## Task 2
+> [!NOTE]  
+> *Finish the sentences.*  
+
+When I .....................I usually overspend.  
+> When I go shopping without a list, I usually overspend.  
+
+I pay..............rent.........  
+> I pay $xxx for rent every month.  
+
+I don't save ...........  
+> I don't save as much as I should.  
+
+Spending money on.....................  
+> Spending money on travel and experiences always feels worth it.  
+
+Last month I sent a little over..................  
+> Last month I spent a little over $xxx.  
+
+Bills.................  
+> Bills take a big part of my income.  
+
+I set aside around....................which I'll spend later.................  
+> I set aside around $xxx each month, which I'll spend later on holidays or emergencies.  
+
+Just a few people can afford......................  
+> Just a few people can afford to live in luxury apartments in New York.  
+
+---
+
+## Task 3
+> **Read the statements and give your advice. It can be 2-3 sentences.**  
+
+1). When you want to save money for an emergency, you should....  
+2). If you buy a house, you............  
+3). When going to the mall you can ...............  
+4). Before planning a trip, it’s important to......  
+5). When you want to upgrade your phone...............  
+
+
+> 1). When you want to save money for an emergency, you should set aside a small amount from every paycheck and keep it in a separate savings account. Try to avoid touching this money unless it’s a real emergency.  
+> 2). If you buy a house, you should check your budget carefully and make sure you can afford the mortgage, taxes, and maintenance costs. It’s also good to compare different loan offers.  
+> 3). When going to the mall you can make a shopping list and set a spending limit to avoid overspending. Try to leave credit cards at home and use cash instead.  
+> 4). Before planning a trip, it’s important to research the costs of flights, hotels, and activities. Set a clear budget and check if you need travel insurance.  
+> 5). When you want to upgrade your phone compare different models and prices. Ask yourself if you really need a new phone or if your current one still works fine.  
