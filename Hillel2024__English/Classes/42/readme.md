@@ -140,5 +140,52 @@ Watch the video again and complete the sentences. Correct answers are NOT given.
 
 ---
 
+## Task 4. Dialogues
+### TASK A. 
+> [!NOTE]  
+> *Complete the dialogues with the words from the box.*  
+> `time`   `challenging`   `asking`   `appreciate`   `capacity`   `commit`   `budget`   `Sounds`   `work`  
 
+1) . 
 
+- Can you pick up my dry cleaning on your way home?
+
+- I’ve got some plans after work so, it just won’t out for me…
+
+- Alright, no worries. I'll take care of it.
+
+2. 
+ 
+
+- Do you want to join us for dinner at the new restaurant tonight?
+
+- Thanks for but it’s actually not in my  right now.
+
+- No problem, maybe another time.
+
+3. 
+ 
+
+- Can you babysit my kids this weekend?
+
+- I  the offer, but I can’t… maybe another .
+
+- No problem. We’ll ask a few other friends. 
+
+4. 
+ 
+
+- Can you help me with the report today?
+
+- I know that it’s for you but I just don’t have the to help you right now.
+
+- I respect that. I'll manage it myself.
+
+5. 
+ 
+
+- Can you join me for a jog in the park?
+
+-  great but I can’t this week. 
+
+- Sure! Let me know if you change your mind.
