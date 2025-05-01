@@ -130,7 +130,7 @@ In short, the impact of robots on unemployment will probably be smaller than   p
 ## Task 1. Essay
 > [!NOTE]  
 > *Choose the essay area you are going to write about. Suggested areas: medicine, social media, AI etc.* 
-
+>
 > • Do you feel generally positive or negative about it?  
 > • Think of two main points ot support your opinion.  
 > • Think of one example ot support each of those points.  
