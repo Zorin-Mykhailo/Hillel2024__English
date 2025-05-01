@@ -146,46 +146,139 @@ Watch the video again and complete the sentences. Correct answers are NOT given.
 > *Complete the dialogues with the words from the box.*  
 > `time`   `challenging`   `asking`   `appreciate`   `capacity`   `commit`   `budget`   `Sounds`   `work`  
 
-1) . 
+1).   
+- Can you pick up my dry cleaning on your way home?  
+- I’ve got some plans after work so, it just won't `work` out for me…  
+- Alright, no worries. I'll take care of it.  
 
-- Can you pick up my dry cleaning on your way home?
+2).  
+- Do you want to join us for dinner at the new restaurant tonight?  
+- Thanks for `asking` but it’s actually not in my `budget` right now.  
+- No problem, maybe another time.  
 
-- I’ve got some plans after work so, it just won’t out for me…
+3).  
+- Can you babysit my kids this weekend?  
+- I `appreciate` the offer, but I can’t… maybe another `time`.  
+- No problem. We’ll ask a few other friends.  
 
-- Alright, no worries. I'll take care of it.
+4).  
+- Can you help me with the report today?  
+- I know that it's `challenging` for you but I just don’t have the `capacity` to help you right now.  
+- I respect that. I'll manage it myself.  
 
-2. 
- 
-
-- Do you want to join us for dinner at the new restaurant tonight?
-
-- Thanks for but it’s actually not in my  right now.
-
-- No problem, maybe another time.
-
-3. 
- 
-
-- Can you babysit my kids this weekend?
-
-- I  the offer, but I can’t… maybe another .
-
-- No problem. We’ll ask a few other friends. 
-
-4. 
- 
-
-- Can you help me with the report today?
-
-- I know that it’s for you but I just don’t have the to help you right now.
-
-- I respect that. I'll manage it myself.
-
-5. 
- 
-
-- Can you join me for a jog in the park?
-
--  great but I can’t this week. 
-
+5).  
+- Can you join me for a jog in the park?  
+- `Sounds` great but I can't `commit` this week.  
 - Sure! Let me know if you change your mind.
+
+
+TASK B Think about other ways to complete the following phrases:
+
+1). I `'ve got other plans`, so it just won’t work out for me.  
+2). Sounds great but `I already have something sheduled`.    
+3). I appreciate the offer but `I have too much on my plate right now`.  
+4). Thanks for asking but `I need to prioritize some personal things today`.  
+5). I know that it’s challenging for you but `I hust don't have the bandwidht right now`
+
+---
+
+## Task 5. Speaking
+> [!NOTE]  
+> *Role play the following situations.*  
+
+Student A:  
+• Invite Student B for a movie night  
+• Ask Student B to borrow a camera for othe weekend  
+• Ask Student B to help you with the work project  
+
+Now change the roles  
+
+Student B:  
+• Ask Student A to give you a lift home  
+• Ask Student A to borrow a bicycle for a week  
+• Invite Student A to study tohether at the library  
+
+---
+
+# 📕 Home assignment 42
+
+## Task 1 Reading
+### 1A
+> [!NOTE]  
+> *Read the text.*  
+
+Setting personal boundaries is an important life skill. Boundaries are limits we set to protect our time, energy, and emotions. They help us feel safe and respected in relationships with others. Without clear boundaries, people might take advantage of us, even if they don’t mean to.  
+One important boundary is learning to say "no." Many people find it difficult to say no because they don't want to hurt someone's feelings. However, saying yes to everything can make you feel stressed, tired, and even unhappy. Saying no is not rude; it shows self-respect and honesty.  
+When setting boundaries, it’s important to communicate clearly. For example, if a friend asks you to help with something but you’re too busy, you can say, "I’d love to help, but I can’t right now." This way, you say no politely while showing understanding.  
+Good boundaries also involve understanding your limits. Think about what is most important to you, like spending time with family, resting, or focusing on your work. When you know your priorities, it’s easier to protect them.  
+Remember, setting boundaries is not about being selfish; it’s about taking care of yourself so you can be there for others in a healthy way.  
+
+---
+
+### 1B
+> [!NOTE]  
+> *Tick True or False.* 
+
+
+1). Boundaries help us feel unsafe and lonely in relationships. `False`  
+2). Saying no is always rude and hurts people’s feelings.  `False`  
+3). If you don't want to be polite, you need to explain why you say no.  `False`  
+4). Your family and leisure time should be your priority.  `True`  
+5). Selfishness has nothing to do with boundaries.  `True`   
+
+---
+
+## Task 2.
+> [!NOTE]  
+> *Translate 2 dialogues.*  
+
+**Колега**: Ти не міг би взяти на себе цей звіт? (take over)  У мене купа інших завдань.
+**Ти**: Я розумію, що ти зайнятий, але я теж працюю над терміновим завданням зараз. Я не можу взяти це на себе в цей момент. (take on)
+**Колега**: О, зрозуміло. Нічого страшного, я впораюсь.
+**Ти**: Дякую за розуміння. Якщо я закінчу раніше, я дам тобі знати.
+
+**Незнайомець**: Привіт, ми збираємо гроші на благодійність. (raise money)  Ви могли б зробити внесок?
+**Ти**: Дякую, що запитали, але зараз я не можу зробити внесок.
+**Незнайомець**: Все гаразд. Дякую за ваш час!
+**Ти**: Будь ласка. Успіхів у вашій кампанії!
+
+
+Colleague: Could you take over this report? I’ve got a ton of other tasks.
+You: I understand you're busy, but I'm also working on an urgent task right now. I can't take it on at the moment.  
+Colleague: Oh, I see. No problem, I'll manage.  
+You: Thanks for understanding. If I finish early, I'll let you know.  
+
+Stranger: Hi, we're raising money for charity. Would you be able to make a contribution?  
+You: Thanks for asking, but I'm not able to contribute at the moment.  
+Stranger: That's alright. Thank you for your time!  
+You: You're welcome. Best of luck with your campaign!
+
+---
+
+## Task 3. Review of conditionals
+> [!NOTE]  
+> **Complete the sentence with your ideas. Use 1,2 or 3 Conditional.** 
+
+1). Tom and Mary will loose their jobs if..........  
+> Tom and Mary will lose their jobs if they don’t meet the deadline.  
+
+2). If I knew the answer to the questions..............  
+> If I knew the answer to the questions, I’d help you.  
+
+3). They would find Tom if........  
+> They would find Tom if he turned on his phone.  
+
+4). If you sleep for a while,.......  
+> If you sleep for a while, you’ll feel better.  
+
+5). If I see her, ...........  
+> If I see her, I’ll tell her you called.
+
+
+6). If I had known the news,...........  
+> If I had known the news, I would have called you immediately.  
+
+7). You would have saved her ...............  
+> You would have saved her if you had called the ambulance sooner.  
+
+ 
