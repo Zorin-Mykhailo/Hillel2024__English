@@ -89,3 +89,39 @@ go through a really tough patch
 be my guest
 
 > ...
+
+---
+
+## Task 5. Discussion
+> [!NOTE]  
+> *Do the tasks on the cards.*  
+
+1).
+> **Situation**  
+> A: you're struggling with  
+> B: Support your friend and give them advice  
+> 
+> Vocabulary to use: mean the words to me; be on my mind; give it a shot; be my guest; to have someone's back; to reach out to
+
+2). 
+> **Situation**  
+> You colleague tells you that they lost their wallet on the way to work. How would you respond to show empathy and offer help?  
+>  
+> Vocabulary to use: to have someone's back; to reach out to, I didn't see it coming; total mess; I'm here for you; I'm sorry to hear that; It must be so difficult  
+
+3).
+> **Translate**
+> • Майже ніхто з класу не вірить у зміни  
+> • 3 з людейб яких ми опитали вважають, що вивчати англійську ефективно можна самостійно.  
+> • Більшість з людей не впевнені у відповіді  
+
+4).  
+> **Complete the phrases with missing words**:  
+> • __ great, but I can't __ this week  
+> • I __ the offer but I'm too busy tomorrow.  
+> • I know it's __ for you, but I don't have the capacity to help you right now.  
+> • Can you __ me for a jog in the park?  
+> • __ me know if you change your __  
+> • I've __ some plans after work so, it just won't __ out for me ...  
+
+5).
