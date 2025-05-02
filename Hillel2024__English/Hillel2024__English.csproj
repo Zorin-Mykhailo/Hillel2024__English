@@ -29,6 +29,7 @@
     <Folder Include="Classes\40\img\02\" />
     <Folder Include="Classes\41\img\HA\" />
     <Folder Include="Classes\43\img\01\" />
+    <Folder Include="Classes\44\img\04\" />
   </ItemGroup>
 
   <ItemGroup>
